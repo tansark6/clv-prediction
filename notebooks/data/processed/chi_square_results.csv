@@ -1,0 +1,4 @@
+variable,chi2_statistic,degrees_of_freedom,p_value,significant_at_0.05
+acquisition_channel,3591.54,8,0.0,True
+region,14.2,6,0.02744903402318942,True
+age_band,6.9,8,0.5479217496154214,False

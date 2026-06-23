@@ -1,0 +1,6 @@
+acquisition_channel,customer_count,avg_predicted_clv,assumed_cac,clv_cac_ratio
+Referral,398,11927.5,100,119.3
+Organic,569,4472.2,150,29.8
+Email,783,4084.36,350,11.7
+Paid Search,1468,3453.27,950,3.6
+Social,782,2328.59,700,3.3

@@ -1,0 +1,4001 @@
+customer_id,acquisition_channel,age_band,region,predicted_clv,clv_tier
+CUST_00001,Social,35-44,West,2717.91,Low
+CUST_00002,Email,35-44,East,4846.3945,Medium
+CUST_00003,Organic,18-24,North,4848.7446,Medium
+CUST_00004,Social,18-24,West,2947.2744,Low
+CUST_00005,Paid Search,35-44,West,3449.0244,Medium
+CUST_00006,Organic,35-44,South,4898.2026,Low
+CUST_00007,Email,35-44,South,0.0,Low
+CUST_00008,Paid Search,18-24,North,3612.1394,Low
+CUST_00009,Paid Search,35-44,West,3991.7524,Low
+CUST_00010,Social,18-24,West,2853.3823,Low
+CUST_00011,Paid Search,18-24,North,990.301,Low
+CUST_00012,Paid Search,35-44,East,171.89252,Low
+CUST_00013,Paid Search,45-54,South,4140.722,Medium
+CUST_00014,Email,45-54,East,4516.318,Medium
+CUST_00015,Email,55+,North,4435.2466,Medium
+CUST_00016,Email,55+,West,4632.9927,Medium
+CUST_00017,Paid Search,25-34,South,3797.597,Medium
+CUST_00018,Paid Search,45-54,West,3803.3738,Medium
+CUST_00019,Referral,18-24,North,10634.21,High
+CUST_00020,Email,55+,East,4594.5366,Medium
+CUST_00021,Social,25-34,South,2693.2878,Medium
+CUST_00022,Paid Search,45-54,West,4338.609,Low
+CUST_00023,Paid Search,55+,East,3762.0479,Medium
+CUST_00024,Paid Search,45-54,East,3958.1301,Low
+CUST_00025,Email,55+,North,4590.755,Medium
+CUST_00026,Email,18-24,East,4601.8228,Medium
+CUST_00027,Social,18-24,North,2542.8787,Low
+CUST_00028,Email,45-54,South,4696.578,Medium
+CUST_00029,Email,35-44,North,4556.686,Medium
+CUST_00030,Referral,18-24,North,14782.895,High
+CUST_00031,Paid Search,45-54,East,4019.7805,Low
+CUST_00032,Email,18-24,North,4760.551,Medium
+CUST_00033,Paid Search,55+,East,3951.7898,Low
+CUST_00034,Email,18-24,West,4656.4995,Medium
+CUST_00035,Paid Search,35-44,North,3866.492,Medium
+CUST_00036,Social,55+,East,2230.716,Low
+CUST_00037,Organic,35-44,South,4133.685,Medium
+CUST_00038,Paid Search,45-54,South,3860.6223,Low
+CUST_00039,Referral,45-54,East,14091.586,High
+CUST_00040,Social,55+,East,2879.1807,Low
+CUST_00041,Paid Search,35-44,East,3734.867,Medium
+CUST_00042,Social,55+,North,2687.8386,Low
+CUST_00043,Referral,35-44,East,14688.9795,High
+CUST_00044,Organic,55+,South,4696.85,Medium
+CUST_00045,Organic,45-54,South,4732.033,Medium
+CUST_00046,Paid Search,18-24,West,3918.772,Low
+CUST_00047,Email,45-54,North,4620.235,Medium
+CUST_00048,Email,55+,South,4663.048,Medium
+CUST_00049,Paid Search,18-24,South,3934.694,Medium
+CUST_00050,Paid Search,55+,North,2635.2322,Low
+CUST_00051,Organic,18-24,West,4656.2847,Low
+CUST_00052,Paid Search,55+,South,3550.3374,Medium
+CUST_00053,Email,45-54,East,4792.9326,Medium
+CUST_00054,Social,18-24,South,2277.3252,Low
+CUST_00055,Paid Search,45-54,West,3764.4053,Low
+CUST_00056,Email,18-24,East,4882.318,Medium
+CUST_00057,Organic,35-44,South,4887.555,Medium
+CUST_00058,Email,55+,West,4568.7476,Medium
+CUST_00059,Paid Search,25-34,West,3905.5723,Medium
+CUST_00060,Paid Search,18-24,East,3662.658,Medium
+CUST_00061,Organic,35-44,North,4839.6113,Low
+CUST_00062,Paid Search,25-34,East,4136.892,Medium
+CUST_00063,Email,18-24,East,4744.4756,Medium
+CUST_00064,Paid Search,35-44,South,3947.7656,Low
+CUST_00065,Email,25-34,North,4363.426,Medium
+CUST_00066,Organic,18-24,East,5009.878,Medium
+CUST_00067,Email,25-34,West,4565.234,Medium
+CUST_00068,Organic,18-24,South,4946.705,Low
+CUST_00069,Paid Search,55+,South,4375.4272,Medium
+CUST_00070,Email,55+,North,4585.863,Medium
+CUST_00071,Organic,25-34,East,5343.4,Medium
+CUST_00072,Email,55+,West,0.0,Low
+CUST_00073,Paid Search,35-44,West,3560.2249,Medium
+CUST_00074,Organic,55+,South,4931.944,Medium
+CUST_00075,Email,18-24,North,4414.9937,Medium
+CUST_00076,Email,25-34,South,4599.6484,Medium
+CUST_00077,Organic,45-54,West,5237.6045,Low
+CUST_00078,Paid Search,25-34,North,3603.2917,Low
+CUST_00079,Paid Search,55+,North,3851.0398,Medium
+CUST_00080,Paid Search,35-44,West,3609.814,Medium
+CUST_00081,Email,35-44,East,4632.4136,Medium
+CUST_00082,Paid Search,35-44,North,3477.6382,Low
+CUST_00083,Social,45-54,North,2499.1206,Low
+CUST_00084,Paid Search,18-24,South,3884.6316,Medium
+CUST_00085,Social,45-54,East,2632.091,Low
+CUST_00086,Paid Search,45-54,West,3511.79,Medium
+CUST_00087,Email,55+,West,4568.7476,Medium
+CUST_00088,Paid Search,55+,South,3750.6821,Medium
+CUST_00089,Social,45-54,South,2398.0781,Low
+CUST_00090,Email,35-44,West,4516.457,Medium
+CUST_00091,Email,35-44,West,4597.546,Medium
+CUST_00092,Organic,25-34,North,5388.3315,Medium
+CUST_00093,Referral,55+,East,12541.985,High
+CUST_00094,Paid Search,25-34,East,3786.7288,Medium
+CUST_00095,Organic,35-44,North,5168.9253,Low
+CUST_00096,Paid Search,18-24,West,3591.053,Low
+CUST_00097,Paid Search,25-34,South,214.09248,Low
+CUST_00098,Email,25-34,East,4669.2954,Medium
+CUST_00099,Paid Search,35-44,South,3770.43,Medium
+CUST_00100,Paid Search,35-44,East,3750.83,Medium
+CUST_00101,Social,45-54,West,2628.415,Low
+CUST_00102,Paid Search,35-44,South,3665.3188,Medium
+CUST_00103,Social,18-24,South,2623.8,Low
+CUST_00104,Organic,35-44,West,4845.2676,Medium
+CUST_00105,Referral,18-24,West,17729.473,High
+CUST_00106,Social,55+,West,2829.8958,Low
+CUST_00107,Social,45-54,West,2726.599,Medium
+CUST_00108,Organic,25-34,East,5417.644,Medium
+CUST_00109,Paid Search,25-34,West,3957.9277,Medium
+CUST_00110,Paid Search,18-24,West,3328.7856,Low
+CUST_00111,Email,25-34,North,4136.682,Medium
+CUST_00112,Email,18-24,East,4663.5728,Medium
+CUST_00113,Paid Search,55+,North,4038.3748,Low
+CUST_00114,Referral,18-24,East,13734.064,High
+CUST_00115,Paid Search,45-54,South,3955.758,Medium
+CUST_00116,Organic,35-44,South,4288.2563,Medium
+CUST_00117,Paid Search,25-34,West,4030.354,Medium
+CUST_00118,Paid Search,55+,East,3579.4536,Low
+CUST_00119,Paid Search,18-24,East,3749.1558,Medium
+CUST_00120,Paid Search,55+,West,3915.8777,Medium
+CUST_00121,Paid Search,45-54,North,3127.6685,Low
+CUST_00122,Paid Search,45-54,East,3647.1128,Low
+CUST_00123,Paid Search,55+,North,3874.6174,Medium
+CUST_00124,Paid Search,35-44,North,4049.9536,Low
+CUST_00125,Email,25-34,North,2454.2446,Low
+CUST_00126,Email,18-24,East,4479.0737,Medium
+CUST_00127,Paid Search,55+,East,3480.0676,Medium
+CUST_00128,Paid Search,35-44,West,43.638214,Low
+CUST_00129,Paid Search,55+,South,4352.529,Low
+CUST_00130,Paid Search,25-34,West,4116.973,Low
+CUST_00131,Paid Search,55+,South,3750.6821,Medium
+CUST_00132,Social,55+,North,2456.7256,Medium
+CUST_00133,Organic,25-34,North,4783.438,Medium
+CUST_00134,Organic,35-44,North,4604.1626,Medium
+CUST_00135,Email,45-54,South,4591.5195,Medium
+CUST_00136,Email,25-34,South,4633.519,Medium
+CUST_00137,Paid Search,18-24,West,3467.799,Low
+CUST_00138,Social,25-34,North,626.9388,Low
+CUST_00139,Social,35-44,South,869.8876,Low
+CUST_00140,Social,18-24,West,2805.8481,Medium
+CUST_00141,Organic,25-34,North,5065.407,Medium
+CUST_00142,Email,55+,South,4749.0903,Medium
+CUST_00143,Social,18-24,North,2583.9497,Medium
+CUST_00144,Social,18-24,East,2346.8772,Medium
+CUST_00145,Paid Search,35-44,West,4259.8716,Low
+CUST_00146,Organic,18-24,North,4622.9287,Medium
+CUST_00147,Paid Search,18-24,South,3784.3347,Low
+CUST_00148,Organic,18-24,South,5243.4453,Low
+CUST_00149,Social,18-24,West,2313.093,Low
+CUST_00150,Paid Search,55+,West,3620.8718,Low
+CUST_00151,Social,18-24,North,2484.1973,Low
+CUST_00152,Paid Search,35-44,South,3888.2017,Medium
+CUST_00153,Social,45-54,West,2793.4287,Medium
+CUST_00154,Social,45-54,North,2844.6265,Low
+CUST_00155,Referral,45-54,West,13238.91,High
+CUST_00156,Organic,25-34,North,4884.335,Low
+CUST_00157,Paid Search,55+,East,3794.1155,Medium
+CUST_00158,Paid Search,18-24,West,3901.802,Low
+CUST_00159,Email,18-24,East,4529.535,Medium
+CUST_00160,Paid Search,55+,West,3651.9534,Medium
+CUST_00161,Email,18-24,East,4616.5483,Medium
+CUST_00162,Paid Search,18-24,North,3190.9238,Low
+CUST_00163,Email,18-24,East,4682.1396,Medium
+CUST_00164,Email,18-24,East,4862.849,Medium
+CUST_00165,Organic,18-24,South,4990.0283,Low
+CUST_00166,Paid Search,35-44,North,3864.5884,Low
+CUST_00167,Organic,45-54,East,4816.8223,Medium
+CUST_00168,Email,18-24,East,2076.465,Low
+CUST_00169,Paid Search,55+,West,3473.5063,Medium
+CUST_00170,Email,18-24,North,4380.054,Medium
+CUST_00171,Email,45-54,East,4695.7476,Medium
+CUST_00172,Paid Search,55+,West,3617.0142,Medium
+CUST_00173,Email,35-44,West,4651.9233,Medium
+CUST_00174,Paid Search,35-44,West,3157.0525,Low
+CUST_00175,Email,18-24,North,4694.6855,Medium
+CUST_00176,Referral,25-34,North,13656.61,High
+CUST_00177,Email,55+,East,4099.6562,Low
+CUST_00178,Social,25-34,South,2569.1123,Medium
+CUST_00179,Paid Search,18-24,North,3828.619,Medium
+CUST_00180,Organic,45-54,North,5087.7373,Medium
+CUST_00181,Social,45-54,North,2561.1328,Low
+CUST_00182,Organic,18-24,South,2914.1494,Low
+CUST_00183,Social,18-24,East,2574.987,Medium
+CUST_00184,Paid Search,18-24,North,3741.5483,Low
+CUST_00185,Email,18-24,North,4909.9604,Medium
+CUST_00186,Paid Search,45-54,South,3815.1794,Medium
+CUST_00187,Social,18-24,West,2707.6282,Medium
+CUST_00188,Referral,45-54,West,366.7053,Medium
+CUST_00189,Paid Search,18-24,South,3201.0337,Low
+CUST_00190,Organic,55+,North,5230.3813,Low
+CUST_00191,Paid Search,45-54,North,3749.4495,Low
+CUST_00192,Referral,25-34,West,10703.534,Medium
+CUST_00193,Social,35-44,South,2510.6147,Low
+CUST_00194,Paid Search,18-24,North,3478.9097,Low
+CUST_00195,Referral,18-24,West,15424.47,High
+CUST_00196,Social,35-44,East,2536.0342,Low
+CUST_00197,Paid Search,18-24,South,3743.1472,Low
+CUST_00198,Email,45-54,South,4740.8374,Medium
+CUST_00199,Paid Search,25-34,North,3880.4011,Medium
+CUST_00200,Social,18-24,West,2711.025,Medium
+CUST_00201,Paid Search,35-44,West,3443.9375,Medium
+CUST_00202,Organic,35-44,North,5249.018,Medium
+CUST_00203,Organic,45-54,East,4318.649,Medium
+CUST_00204,Paid Search,18-24,North,3610.079,Low
+CUST_00205,Paid Search,35-44,South,3871.4346,Medium
+CUST_00206,Referral,55+,East,766.8383,Medium
+CUST_00207,Social,25-34,North,2897.9316,Low
+CUST_00208,Email,55+,East,0.0,Low
+CUST_00209,Paid Search,45-54,North,4304.2324,Low
+CUST_00210,Paid Search,35-44,East,3679.4468,Medium
+CUST_00211,Organic,55+,South,5127.9673,Medium
+CUST_00212,Email,55+,North,4439.701,Medium
+CUST_00213,Organic,25-34,West,5087.908,Medium
+CUST_00214,Email,55+,South,4585.214,Medium
+CUST_00215,Organic,18-24,West,5055.2715,Medium
+CUST_00216,Paid Search,18-24,West,4436.969,Low
+CUST_00217,Paid Search,18-24,North,3837.2136,Medium
+CUST_00218,Organic,25-34,East,4825.5933,Medium
+CUST_00219,Organic,55+,South,4926.691,Medium
+CUST_00220,Paid Search,45-54,East,3695.8628,Low
+CUST_00221,Email,45-54,East,4345.9087,Medium
+CUST_00222,Email,18-24,South,4978.223,Medium
+CUST_00223,Email,35-44,East,4651.9233,Medium
+CUST_00224,Paid Search,25-34,South,3621.726,Low
+CUST_00225,Organic,35-44,West,4100.4414,Low
+CUST_00226,Paid Search,25-34,West,4377.685,Medium
+CUST_00227,Social,25-34,North,2512.1553,Low
+CUST_00228,Paid Search,55+,East,3500.642,Medium
+CUST_00229,Paid Search,35-44,West,3699.43,Medium
+CUST_00230,Social,35-44,North,2950.5369,Low
+CUST_00231,Paid Search,18-24,East,3787.8198,Low
+CUST_00232,Social,45-54,West,2060.643,Low
+CUST_00233,Paid Search,35-44,North,3787.3638,Low
+CUST_00234,Organic,25-34,East,5158.317,Medium
+CUST_00235,Social,45-54,West,2545.4106,Medium
+CUST_00236,Organic,18-24,South,4786.7344,Medium
+CUST_00237,Paid Search,35-44,North,3955.1108,Medium
+CUST_00238,Paid Search,55+,South,3655.576,Medium
+CUST_00239,Email,35-44,South,4715.9297,Medium
+CUST_00240,Email,18-24,East,4510.0664,Medium
+CUST_00241,Paid Search,25-34,South,3667.3638,Low
+CUST_00242,Paid Search,18-24,South,3944.8403,Low
+CUST_00243,Email,35-44,West,4229.1133,Low
+CUST_00244,Paid Search,25-34,East,3963.9265,Low
+CUST_00245,Email,18-24,West,4498.0586,Medium
+CUST_00246,Paid Search,45-54,East,3505.2285,Medium
+CUST_00247,Paid Search,18-24,West,3885.6516,Medium
+CUST_00248,Referral,25-34,North,96.5357,Medium
+CUST_00249,Email,55+,West,2964.897,Low
+CUST_00250,Paid Search,18-24,West,3544.1575,Low
+CUST_00251,Email,25-34,North,4352.9194,Medium
+CUST_00252,Social,25-34,South,433.27747,Low
+CUST_00253,Email,35-44,South,4401.959,Medium
+CUST_00254,Referral,25-34,South,16515.908,High
+CUST_00255,Organic,55+,West,5513.014,Medium
+CUST_00256,Email,18-24,East,0.0,Low
+CUST_00257,Organic,55+,North,3180.7563,Low
+CUST_00258,Social,35-44,East,2370.6914,Low
+CUST_00259,Paid Search,18-24,West,3917.557,Medium
+CUST_00260,Email,18-24,South,4696.4043,Medium
+CUST_00261,Social,18-24,West,2556.1982,Low
+CUST_00262,Organic,25-34,East,4613.155,Low
+CUST_00263,Email,25-34,West,4701.5386,Medium
+CUST_00264,Paid Search,45-54,West,3803.886,Low
+CUST_00265,Referral,25-34,North,17519.062,High
+CUST_00266,Paid Search,45-54,West,3920.3748,Medium
+CUST_00267,Social,25-34,North,2818.6904,Low
+CUST_00268,Email,25-34,West,4512.2026,Medium
+CUST_00269,Social,25-34,West,2615.3447,Low
+CUST_00270,Organic,25-34,South,5066.213,Medium
+CUST_00271,Referral,55+,North,12837.483,High
+CUST_00272,Referral,25-34,South,14406.863,High
+CUST_00273,Social,25-34,South,2814.1604,Low
+CUST_00274,Social,55+,East,2244.9348,Medium
+CUST_00275,Organic,45-54,North,4948.938,Medium
+CUST_00276,Paid Search,18-24,North,4077.7957,Medium
+CUST_00277,Referral,55+,South,12278.388,High
+CUST_00278,Paid Search,18-24,West,3729.646,Medium
+CUST_00279,Organic,18-24,South,4990.766,Medium
+CUST_00280,Referral,35-44,South,16032.055,High
+CUST_00281,Email,45-54,North,0.0,Low
+CUST_00282,Paid Search,18-24,South,4014.567,Low
+CUST_00283,Paid Search,45-54,South,3772.073,Low
+CUST_00284,Social,18-24,South,477.8256,Low
+CUST_00285,Paid Search,45-54,South,3814.8477,Medium
+CUST_00286,Paid Search,18-24,South,3754.8809,Medium
+CUST_00287,Organic,35-44,East,4824.9224,Medium
+CUST_00288,Social,45-54,South,2228.1716,Low
+CUST_00289,Paid Search,25-34,West,1572.888,Low
+CUST_00290,Paid Search,45-54,East,502.19363,Low
+CUST_00291,Organic,45-54,East,4270.5586,Low
+CUST_00292,Social,45-54,East,2582.5935,Low
+CUST_00293,Referral,25-34,West,16116.725,High
+CUST_00294,Paid Search,45-54,South,3865.7068,Low
+CUST_00295,Paid Search,45-54,West,3480.6523,Medium
+CUST_00296,Paid Search,25-34,North,3566.9556,Low
+CUST_00297,Social,45-54,North,2344.2744,Medium
+CUST_00298,Paid Search,55+,West,4376.9365,Low
+CUST_00299,Paid Search,55+,West,0.0,Low
+CUST_00300,Social,45-54,North,2685.6545,Low
+CUST_00301,Organic,45-54,East,4995.6865,Medium
+CUST_00302,Social,55+,East,2541.4092,Low
+CUST_00303,Email,25-34,North,4172.435,Medium
+CUST_00304,Email,45-54,East,4884.594,Medium
+CUST_00305,Email,18-24,East,4351.5054,Medium
+CUST_00306,Paid Search,25-34,East,4236.2104,Low
+CUST_00307,Email,55+,East,4063.9072,Low
+CUST_00308,Email,25-34,West,4598.92,Medium
+CUST_00309,Referral,55+,North,3693.937,Medium
+CUST_00310,Organic,35-44,East,4917.7935,Medium
+CUST_00311,Organic,25-34,South,199.09398,Low
+CUST_00312,Paid Search,18-24,West,4407.125,Medium
+CUST_00313,Email,35-44,South,3924.6414,Low
+CUST_00314,Paid Search,35-44,West,3387.1216,Medium
+CUST_00315,Email,35-44,East,2502.138,Low
+CUST_00316,Paid Search,18-24,North,3661.1165,Medium
+CUST_00317,Paid Search,25-34,West,4254.158,Low
+CUST_00318,Social,18-24,North,2525.6704,Low
+CUST_00319,Email,25-34,South,4718.008,Medium
+CUST_00320,Organic,55+,South,5138.6587,Low
+CUST_00321,Paid Search,18-24,East,4317.859,Low
+CUST_00322,Paid Search,45-54,South,3795.6697,Medium
+CUST_00323,Email,18-24,East,3381.4497,Low
+CUST_00324,Paid Search,35-44,East,3623.176,Low
+CUST_00325,Paid Search,55+,North,4183.9375,Low
+CUST_00326,Organic,25-34,North,4893.7217,Medium
+CUST_00327,Paid Search,18-24,South,4004.8416,Medium
+CUST_00328,Paid Search,35-44,North,478.01694,Low
+CUST_00329,Referral,25-34,West,15361.107,High
+CUST_00330,Email,55+,South,4663.048,Medium
+CUST_00331,Referral,55+,South,16062.809,High
+CUST_00332,Email,45-54,East,4504.1646,Medium
+CUST_00333,Social,45-54,West,2255.7783,Low
+CUST_00334,Paid Search,45-54,East,3946.1936,Medium
+CUST_00335,Email,45-54,East,4630.1562,Medium
+CUST_00336,Social,35-44,West,2527.9421,Low
+CUST_00337,Organic,55+,West,5203.757,Medium
+CUST_00338,Email,25-34,North,4338.773,Medium
+CUST_00339,Referral,18-24,North,13441.354,High
+CUST_00340,Paid Search,45-54,South,3896.3425,Medium
+CUST_00341,Paid Search,45-54,West,100.68141,Low
+CUST_00342,Paid Search,55+,West,3473.5063,Medium
+CUST_00343,Social,25-34,East,2902.0906,Low
+CUST_00344,Paid Search,35-44,East,171.89252,Low
+CUST_00345,Social,35-44,North,2577.5925,Low
+CUST_00346,Paid Search,25-34,East,2589.0813,Low
+CUST_00347,Organic,45-54,North,4881.8623,Medium
+CUST_00348,Social,35-44,East,408.6338,Low
+CUST_00349,Paid Search,45-54,North,4041.334,Low
+CUST_00350,Paid Search,35-44,North,3694.2507,Medium
+CUST_00351,Paid Search,25-34,West,3876.441,Medium
+CUST_00352,Organic,55+,West,4862.6,Medium
+CUST_00353,Paid Search,35-44,East,2780.088,Low
+CUST_00354,Email,45-54,East,4425.8516,Medium
+CUST_00355,Email,35-44,North,4542.3423,Medium
+CUST_00356,Social,25-34,East,2447.9373,Medium
+CUST_00357,Email,55+,East,4552.569,Medium
+CUST_00358,Email,25-34,East,1621.368,Low
+CUST_00359,Organic,55+,South,4919.0522,Medium
+CUST_00360,Paid Search,35-44,South,3702.7263,Low
+CUST_00361,Social,18-24,West,2630.2266,Low
+CUST_00362,Paid Search,18-24,South,4111.55,Medium
+CUST_00363,Email,55+,West,0.0,Low
+CUST_00364,Organic,35-44,West,5271.0957,Medium
+CUST_00365,Social,25-34,West,2892.0386,Low
+CUST_00366,Social,55+,East,2494.684,Medium
+CUST_00367,Paid Search,45-54,North,3574.578,Low
+CUST_00368,Email,45-54,North,4339.9375,Medium
+CUST_00369,Email,45-54,East,4664.5024,Medium
+CUST_00370,Email,18-24,South,4650.9976,Medium
+CUST_00371,Email,18-24,North,4599.2793,Medium
+CUST_00372,Paid Search,45-54,West,3988.0317,Medium
+CUST_00373,Paid Search,18-24,West,2940.1714,Low
+CUST_00374,Paid Search,45-54,South,3871.425,Medium
+CUST_00375,Email,18-24,East,0.0,Low
+CUST_00376,Paid Search,25-34,South,4165.5576,Low
+CUST_00377,Organic,45-54,South,280.5328,Low
+CUST_00378,Referral,45-54,East,10017.551,High
+CUST_00379,Paid Search,45-54,South,3784.5742,Low
+CUST_00380,Social,45-54,West,609.9214,Low
+CUST_00381,Social,18-24,North,2610.7551,Medium
+CUST_00382,Paid Search,55+,East,3480.0676,Medium
+CUST_00383,Paid Search,25-34,West,3820.1409,Medium
+CUST_00384,Paid Search,18-24,West,3517.9224,Medium
+CUST_00385,Paid Search,55+,North,366.75745,Low
+CUST_00386,Social,18-24,North,2714.9539,Medium
+CUST_00387,Organic,35-44,East,0.0,Low
+CUST_00388,Paid Search,35-44,West,3684.0005,Medium
+CUST_00389,Social,45-54,West,2739.4832,Medium
+CUST_00390,Paid Search,18-24,West,3936.389,Medium
+CUST_00391,Referral,18-24,North,14357.593,High
+CUST_00392,Social,35-44,East,408.6338,Low
+CUST_00393,Email,35-44,East,4577.737,Medium
+CUST_00394,Paid Search,45-54,East,3591.45,Medium
+CUST_00395,Referral,45-54,West,11993.919,High
+CUST_00396,Organic,18-24,North,5453.578,Medium
+CUST_00397,Paid Search,55+,South,4437.249,Low
+CUST_00398,Paid Search,35-44,South,3399.0037,Low
+CUST_00399,Paid Search,55+,West,3724.4827,Low
+CUST_00400,Referral,55+,North,629.0219,Low
+CUST_00401,Referral,18-24,South,16324.957,High
+CUST_00402,Social,35-44,North,2527.468,Medium
+CUST_00403,Social,35-44,North,2126.7747,Medium
+CUST_00404,Organic,35-44,West,5061.596,Medium
+CUST_00405,Social,25-34,West,364.22433,Low
+CUST_00406,Paid Search,35-44,South,3528.2124,Medium
+CUST_00407,Referral,35-44,East,0.0,Low
+CUST_00408,Paid Search,18-24,East,3680.376,Low
+CUST_00409,Paid Search,25-34,West,0.0,Low
+CUST_00410,Organic,18-24,South,3802.2217,Low
+CUST_00411,Social,55+,West,2739.2969,Low
+CUST_00412,Organic,45-54,South,4557.553,Medium
+CUST_00413,Email,25-34,East,0.0,Low
+CUST_00414,Email,25-34,South,3718.0847,Low
+CUST_00415,Email,18-24,East,4644.104,Medium
+CUST_00416,Paid Search,25-34,South,231.1511,Low
+CUST_00417,Paid Search,55+,West,3631.6611,Low
+CUST_00418,Email,18-24,East,4663.2812,Medium
+CUST_00419,Paid Search,18-24,South,3782.621,Medium
+CUST_00420,Organic,55+,West,3802.9556,Medium
+CUST_00421,Paid Search,35-44,East,3656.044,Low
+CUST_00422,Paid Search,18-24,South,3787.2795,Low
+CUST_00423,Social,35-44,North,2394.4836,Low
+CUST_00424,Paid Search,45-54,West,4134.7573,Low
+CUST_00425,Organic,25-34,West,4798.5933,Low
+CUST_00426,Social,25-34,East,2530.8474,Low
+CUST_00427,Paid Search,45-54,West,4028.8342,Medium
+CUST_00428,Social,35-44,East,2408.6558,Medium
+CUST_00429,Referral,55+,North,10367.815,High
+CUST_00430,Social,25-34,North,659.9447,Low
+CUST_00431,Social,25-34,North,2442.6956,Medium
+CUST_00432,Social,18-24,North,2537.7795,Medium
+CUST_00433,Referral,45-54,East,1798.2203,Low
+CUST_00434,Paid Search,35-44,West,3867.831,Medium
+CUST_00435,Social,25-34,North,2237.3687,Medium
+CUST_00436,Organic,45-54,East,0.0,Low
+CUST_00437,Referral,25-34,North,16223.57,High
+CUST_00438,Social,18-24,South,2660.381,Low
+CUST_00439,Email,35-44,West,4460.3403,Medium
+CUST_00440,Social,35-44,West,2650.504,Low
+CUST_00441,Organic,35-44,West,4327.2407,Low
+CUST_00442,Paid Search,35-44,South,3869.6938,Low
+CUST_00443,Paid Search,55+,West,3827.7417,Medium
+CUST_00444,Email,25-34,West,0.0,Low
+CUST_00445,Email,25-34,South,4735.1147,Medium
+CUST_00446,Referral,35-44,South,6538.297,Medium
+CUST_00447,Paid Search,18-24,North,3735.303,Medium
+CUST_00448,Email,18-24,West,4644.104,Medium
+CUST_00449,Referral,35-44,North,19514.256,High
+CUST_00450,Referral,35-44,South,12444.08,High
+CUST_00451,Social,45-54,South,2798.4656,Low
+CUST_00452,Social,18-24,North,2608.7998,Low
+CUST_00453,Referral,55+,West,15164.175,High
+CUST_00454,Social,35-44,East,2950.5369,Low
+CUST_00455,Referral,18-24,North,10180.227,High
+CUST_00456,Email,25-34,North,3325.767,Low
+CUST_00457,Referral,25-34,North,0.0,Medium
+CUST_00458,Paid Search,35-44,West,0.0,Low
+CUST_00459,Paid Search,35-44,South,3606.1091,Medium
+CUST_00460,Email,35-44,East,4632.4136,Medium
+CUST_00461,Organic,35-44,North,5052.2646,Medium
+CUST_00462,Social,55+,North,2870.507,Low
+CUST_00463,Paid Search,55+,East,0.0,Low
+CUST_00464,Referral,35-44,North,0.0,Low
+CUST_00465,Paid Search,55+,East,4026.5842,Medium
+CUST_00466,Social,55+,West,335.01456,Low
+CUST_00467,Social,55+,South,2979.2708,Low
+CUST_00468,Referral,25-34,East,14329.166,High
+CUST_00469,Referral,35-44,West,14104.725,High
+CUST_00470,Paid Search,25-34,West,3835.0266,Low
+CUST_00471,Email,18-24,North,4782.9727,Medium
+CUST_00472,Organic,18-24,North,3926.8735,Low
+CUST_00473,Social,45-54,West,2588.578,Low
+CUST_00474,Email,35-44,West,4577.737,Medium
+CUST_00475,Email,55+,South,4626.3193,Medium
+CUST_00476,Paid Search,45-54,East,3983.4631,Medium
+CUST_00477,Paid Search,18-24,East,3640.321,Medium
+CUST_00478,Paid Search,55+,East,3517.9514,Medium
+CUST_00479,Email,35-44,West,4324.808,Medium
+CUST_00480,Organic,35-44,South,4749.881,Medium
+CUST_00481,Email,55+,West,4632.9927,Medium
+CUST_00482,Paid Search,45-54,North,3731.8628,Low
+CUST_00483,Paid Search,18-24,North,3628.354,Low
+CUST_00484,Paid Search,18-24,West,3148.0586,Low
+CUST_00485,Social,35-44,North,2813.67,Low
+CUST_00486,Email,18-24,West,3576.9736,Low
+CUST_00487,Social,18-24,South,1882.3809,Low
+CUST_00488,Social,45-54,South,2411.135,Low
+CUST_00489,Paid Search,18-24,North,3696.6897,Medium
+CUST_00490,Referral,18-24,West,13346.294,High
+CUST_00491,Organic,35-44,South,4894.463,Low
+CUST_00492,Email,18-24,North,4503.34,Medium
+CUST_00493,Paid Search,25-34,South,3958.957,Medium
+CUST_00494,Organic,55+,North,5150.1025,Medium
+CUST_00495,Organic,45-54,West,5520.7856,Medium
+CUST_00496,Email,55+,North,4591.466,Medium
+CUST_00497,Referral,25-34,South,14871.021,High
+CUST_00498,Paid Search,45-54,South,4221.577,Low
+CUST_00499,Social,25-34,North,2267.5251,Medium
+CUST_00500,Email,25-34,North,4497.207,Medium
+CUST_00501,Paid Search,18-24,East,3681.784,Low
+CUST_00502,Social,55+,South,1709.8629,Low
+CUST_00503,Organic,18-24,North,5008.8003,Medium
+CUST_00504,Social,25-34,North,2674.1692,Low
+CUST_00505,Paid Search,35-44,West,3281.7905,Low
+CUST_00506,Paid Search,35-44,East,3813.1543,Medium
+CUST_00507,Organic,25-34,East,5042.9165,Medium
+CUST_00508,Organic,25-34,West,4930.566,Medium
+CUST_00509,Email,25-34,North,4735.5786,Low
+CUST_00510,Referral,55+,East,20290.775,High
+CUST_00511,Email,35-44,West,4839.9307,Medium
+CUST_00512,Email,55+,North,4474.6406,Medium
+CUST_00513,Paid Search,55+,East,3719.726,Low
+CUST_00514,Paid Search,45-54,West,3717.0344,Medium
+CUST_00515,Paid Search,55+,East,3829.9534,Medium
+CUST_00516,Social,18-24,North,2490.8938,Medium
+CUST_00517,Paid Search,55+,East,3742.8699,Medium
+CUST_00518,Paid Search,35-44,West,0.0,Low
+CUST_00519,Email,45-54,North,3574.048,Medium
+CUST_00520,Paid Search,25-34,East,3785.352,Low
+CUST_00521,Paid Search,18-24,East,4447.6094,Low
+CUST_00522,Referral,55+,South,13150.788,High
+CUST_00523,Email,35-44,North,4491.274,Medium
+CUST_00524,Referral,18-24,North,14362.735,High
+CUST_00525,Organic,45-54,West,4783.492,Medium
+CUST_00526,Paid Search,18-24,West,3013.9426,Low
+CUST_00527,Organic,35-44,South,5341.2563,Low
+CUST_00528,Organic,45-54,West,5726.5522,Medium
+CUST_00529,Social,45-54,West,1929.6266,Low
+CUST_00530,Referral,35-44,East,11832.662,High
+CUST_00531,Referral,25-34,East,1153.2177,Medium
+CUST_00532,Referral,55+,West,7635.054,Medium
+CUST_00533,Social,18-24,East,401.87048,Low
+CUST_00534,Paid Search,18-24,West,3724.8372,Low
+CUST_00535,Organic,18-24,West,4985.8076,Medium
+CUST_00536,Referral,55+,North,12484.469,High
+CUST_00537,Social,35-44,East,2901.7048,Medium
+CUST_00538,Email,18-24,East,4336.802,Medium
+CUST_00539,Paid Search,18-24,West,3476.2805,Low
+CUST_00540,Email,18-24,South,1721.6152,Low
+CUST_00541,Email,55+,West,5836.401,Medium
+CUST_00542,Email,35-44,South,3384.2544,Low
+CUST_00543,Paid Search,18-24,South,3769.8848,Low
+CUST_00544,Paid Search,25-34,North,3857.6216,Medium
+CUST_00545,Email,45-54,South,4580.806,Medium
+CUST_00546,Email,35-44,West,4382.0273,Medium
+CUST_00547,Organic,55+,East,4637.0283,Medium
+CUST_00548,Paid Search,18-24,East,3798.2646,Medium
+CUST_00549,Paid Search,18-24,West,3706.8596,Medium
+CUST_00550,Paid Search,18-24,South,3915.0974,Low
+CUST_00551,Email,25-34,East,3364.19,Low
+CUST_00552,Email,45-54,South,955.19336,Low
+CUST_00553,Referral,45-54,West,3118.5396,Medium
+CUST_00554,Organic,25-34,South,4925.325,Medium
+CUST_00555,Paid Search,45-54,West,3101.3533,Low
+CUST_00556,Social,45-54,East,2464.4968,Low
+CUST_00557,Paid Search,18-24,West,3917.5168,Medium
+CUST_00558,Paid Search,45-54,West,3764.4053,Low
+CUST_00559,Email,35-44,West,4382.0273,Medium
+CUST_00560,Paid Search,18-24,South,3669.1628,Medium
+CUST_00561,Referral,25-34,East,0.0,Low
+CUST_00562,Social,45-54,South,2571.519,Low
+CUST_00563,Social,45-54,North,2392.1074,Low
+CUST_00564,Email,25-34,East,4541.526,Medium
+CUST_00565,Referral,45-54,South,15337.826,High
+CUST_00566,Email,25-34,South,4639.5913,Medium
+CUST_00567,Paid Search,35-44,North,3682.767,Medium
+CUST_00568,Paid Search,18-24,East,4274.916,Medium
+CUST_00569,Social,55+,East,2612.6262,Low
+CUST_00570,Organic,55+,North,2794.6257,Low
+CUST_00571,Paid Search,18-24,East,3557.7397,Medium
+CUST_00572,Referral,35-44,North,15574.913,High
+CUST_00573,Social,45-54,North,776.29767,Low
+CUST_00574,Social,35-44,South,2558.8835,Medium
+CUST_00575,Email,25-34,South,4735.1147,Medium
+CUST_00576,Referral,55+,West,14869.501,High
+CUST_00577,Social,25-34,North,2372.3127,Medium
+CUST_00578,Organic,25-34,South,5276.3184,Medium
+CUST_00579,Paid Search,25-34,East,204.89665,Low
+CUST_00580,Organic,55+,North,4847.727,Medium
+CUST_00581,Paid Search,35-44,West,3657.712,Medium
+CUST_00582,Social,45-54,East,2853.3,Low
+CUST_00583,Paid Search,55+,West,0.0,Low
+CUST_00584,Paid Search,55+,West,3651.9534,Medium
+CUST_00585,Paid Search,55+,North,3971.2961,Medium
+CUST_00586,Email,55+,South,4585.214,Medium
+CUST_00587,Paid Search,55+,East,3630.8142,Medium
+CUST_00588,Paid Search,55+,North,3571.5117,Low
+CUST_00589,Email,45-54,South,4782.805,Medium
+CUST_00590,Email,18-24,East,3421.1265,Low
+CUST_00591,Social,18-24,West,422.52924,Low
+CUST_00592,Organic,45-54,South,5224.603,Low
+CUST_00593,Social,25-34,West,1643.6172,Low
+CUST_00594,Paid Search,55+,East,3900.3296,Medium
+CUST_00595,Paid Search,55+,North,3735.8086,Medium
+CUST_00596,Organic,45-54,South,2186.019,Low
+CUST_00597,Paid Search,45-54,West,3421.148,Low
+CUST_00598,Email,25-34,North,4448.1226,Medium
+CUST_00599,Organic,35-44,North,4810.268,Medium
+CUST_00600,Organic,55+,South,4945.8687,Medium
+CUST_00601,Email,55+,West,4568.7476,Medium
+CUST_00602,Social,25-34,East,2400.4604,Low
+CUST_00603,Email,55+,North,4631.379,Medium
+CUST_00604,Social,35-44,South,2068.428,Low
+CUST_00605,Paid Search,55+,West,3755.5967,Low
+CUST_00606,Paid Search,35-44,North,3881.263,Medium
+CUST_00607,Referral,45-54,East,13903.147,High
+CUST_00608,Paid Search,18-24,South,4037.0654,Medium
+CUST_00609,Social,25-34,West,2511.0144,Low
+CUST_00610,Email,45-54,West,4469.5107,Medium
+CUST_00611,Organic,55+,West,336.6401,Low
+CUST_00612,Social,18-24,North,2736.4963,Low
+CUST_00613,Email,18-24,South,4693.147,Medium
+CUST_00614,Social,45-54,East,2694.3281,Low
+CUST_00615,Paid Search,35-44,South,3712.176,Low
+CUST_00616,Email,55+,East,4567.95,Medium
+CUST_00617,Paid Search,18-24,East,3714.2166,Medium
+CUST_00618,Organic,25-34,South,5274.8447,Medium
+CUST_00619,Social,18-24,North,2871.0813,Medium
+CUST_00620,Organic,45-54,West,5343.1494,Medium
+CUST_00621,Organic,55+,West,6572.897,Medium
+CUST_00622,Organic,18-24,West,356.20322,Low
+CUST_00623,Paid Search,25-34,South,4292.373,Low
+CUST_00624,Organic,55+,South,4435.482,Low
+CUST_00625,Referral,18-24,South,17389.748,High
+CUST_00626,Email,55+,North,4556.217,Medium
+CUST_00627,Referral,55+,North,12290.117,High
+CUST_00628,Paid Search,18-24,South,3957.4995,Medium
+CUST_00629,Paid Search,18-24,West,271.03085,Low
+CUST_00630,Paid Search,45-54,North,493.9726,Low
+CUST_00631,Paid Search,18-24,East,4915.987,Low
+CUST_00632,Email,35-44,East,1471.6042,Low
+CUST_00633,Organic,18-24,South,4857.4604,Medium
+CUST_00634,Referral,35-44,West,10787.709,High
+CUST_00635,Email,25-34,North,3342.754,Low
+CUST_00636,Email,45-54,West,4632.7456,Medium
+CUST_00637,Email,55+,East,3281.8157,Low
+CUST_00638,Paid Search,35-44,South,2843.918,Low
+CUST_00639,Social,45-54,West,2326.3105,Low
+CUST_00640,Paid Search,45-54,South,3937.519,Medium
+CUST_00641,Social,55+,West,338.07993,Low
+CUST_00642,Social,25-34,North,3069.7832,Medium
+CUST_00643,Referral,25-34,North,15564.59,High
+CUST_00644,Organic,25-34,East,5012.6934,Medium
+CUST_00645,Paid Search,45-54,West,3952.3457,Medium
+CUST_00646,Organic,55+,North,4816.0195,Medium
+CUST_00647,Social,25-34,West,2588.5562,Medium
+CUST_00648,Social,18-24,West,2653.1885,Medium
+CUST_00649,Social,45-54,South,2485.5212,Medium
+CUST_00650,Social,35-44,West,498.51843,Low
+CUST_00651,Organic,25-34,West,5179.2705,Medium
+CUST_00652,Email,18-24,North,4544.707,Medium
+CUST_00653,Social,55+,West,2543.3445,Medium
+CUST_00654,Social,55+,East,2540.6082,Low
+CUST_00655,Email,45-54,North,4418.2593,Low
+CUST_00656,Organic,35-44,East,3672.1106,Medium
+CUST_00657,Email,25-34,East,4415.6133,Low
+CUST_00658,Referral,35-44,West,12205.51,High
+CUST_00659,Paid Search,18-24,West,3570.3872,Medium
+CUST_00660,Paid Search,25-34,South,3579.9504,Low
+CUST_00661,Social,35-44,South,2558.8835,Medium
+CUST_00662,Email,35-44,North,4651.9233,Medium
+CUST_00663,Email,18-24,North,4493.3066,Medium
+CUST_00664,Paid Search,55+,East,3951.7898,Low
+CUST_00665,Email,25-34,West,4837.134,Medium
+CUST_00666,Social,35-44,North,2678.9421,Medium
+CUST_00667,Organic,35-44,East,4940.271,Medium
+CUST_00668,Paid Search,35-44,East,288.12903,Low
+CUST_00669,Referral,55+,North,1193.9028,Medium
+CUST_00670,Email,45-54,North,511.78076,Low
+CUST_00671,Referral,55+,South,0.0,Medium
+CUST_00672,Email,25-34,East,4711.445,Medium
+CUST_00673,Email,25-34,South,0.0,Low
+CUST_00674,Email,35-44,West,4546.348,Medium
+CUST_00675,Referral,35-44,South,0.0,Medium
+CUST_00676,Email,25-34,North,4622.9756,Medium
+CUST_00677,Email,35-44,North,4402.359,Medium
+CUST_00678,Social,18-24,South,2925.2476,Low
+CUST_00679,Social,35-44,South,2249.8464,Low
+CUST_00680,Paid Search,45-54,East,4187.5776,Medium
+CUST_00681,Social,35-44,South,2635.0708,Low
+CUST_00682,Organic,55+,North,4586.313,Medium
+CUST_00683,Paid Search,55+,North,3566.4563,Low
+CUST_00684,Referral,55+,East,15675.386,High
+CUST_00685,Paid Search,18-24,South,4113.109,Low
+CUST_00686,Social,55+,East,2488.1045,Low
+CUST_00687,Paid Search,25-34,West,3639.9575,Low
+CUST_00688,Social,35-44,South,2530.5486,Low
+CUST_00689,Paid Search,35-44,East,3473.9092,Medium
+CUST_00690,Email,25-34,West,4655.165,Medium
+CUST_00691,Organic,55+,North,4877.373,Medium
+CUST_00692,Email,45-54,East,4630.1562,Medium
+CUST_00693,Organic,55+,South,338.6342,Low
+CUST_00694,Organic,55+,East,5160.214,Medium
+CUST_00695,Organic,35-44,East,4869.247,Medium
+CUST_00696,Paid Search,45-54,North,3729.4014,Medium
+CUST_00697,Social,35-44,North,2432.4802,Low
+CUST_00698,Paid Search,35-44,North,3897.591,Medium
+CUST_00699,Email,45-54,North,4491.485,Medium
+CUST_00700,Organic,45-54,North,4923.651,Medium
+CUST_00701,Social,55+,East,2627.9998,Medium
+CUST_00702,Email,45-54,West,4704.4673,Medium
+CUST_00703,Email,45-54,South,4446.3765,Medium
+CUST_00704,Social,55+,West,2749.838,Low
+CUST_00705,Social,18-24,East,2662.5188,Medium
+CUST_00706,Email,45-54,West,2132.9238,Low
+CUST_00707,Organic,25-34,East,3809.1636,Low
+CUST_00708,Paid Search,35-44,North,3897.591,Medium
+CUST_00709,Paid Search,45-54,East,3969.636,Medium
+CUST_00710,Referral,25-34,East,13021.016,High
+CUST_00711,Organic,55+,East,3959.3113,Medium
+CUST_00712,Paid Search,35-44,West,3937.221,Medium
+CUST_00713,Paid Search,25-34,North,3856.6438,Low
+CUST_00714,Paid Search,25-34,East,475.66217,Low
+CUST_00715,Organic,35-44,West,4494.412,Medium
+CUST_00716,Paid Search,55+,North,3921.416,Medium
+CUST_00717,Email,18-24,South,4599.6484,Medium
+CUST_00718,Organic,35-44,West,4145.6226,Low
+CUST_00719,Paid Search,55+,North,3324.0986,Low
+CUST_00720,Referral,35-44,North,15145.222,High
+CUST_00721,Email,35-44,West,4651.9233,Medium
+CUST_00722,Social,25-34,North,2502.401,Low
+CUST_00723,Email,18-24,East,4576.5645,Medium
+CUST_00724,Email,45-54,West,4598.892,Medium
+CUST_00725,Paid Search,55+,South,3838.818,Medium
+CUST_00726,Social,35-44,South,2683.9624,Low
+CUST_00727,Social,35-44,South,2965.1458,Low
+CUST_00728,Paid Search,18-24,South,3886.9788,Low
+CUST_00729,Email,55+,South,4507.895,Low
+CUST_00730,Organic,55+,East,4513.1567,Medium
+CUST_00731,Paid Search,55+,West,544.23193,Low
+CUST_00732,Paid Search,25-34,West,3551.7805,Medium
+CUST_00733,Referral,45-54,West,13814.2705,High
+CUST_00734,Paid Search,35-44,North,4019.5154,Medium
+CUST_00735,Paid Search,25-34,South,3650.2942,Medium
+CUST_00736,Email,25-34,West,4575.478,Medium
+CUST_00737,Paid Search,25-34,East,4168.2764,Low
+CUST_00738,Email,35-44,South,4566.28,Medium
+CUST_00739,Social,18-24,South,501.9044,Low
+CUST_00740,Referral,45-54,North,9714.143,High
+CUST_00741,Paid Search,35-44,South,3793.4448,Low
+CUST_00742,Social,55+,South,2691.973,Medium
+CUST_00743,Paid Search,25-34,South,3796.5977,Low
+CUST_00744,Social,18-24,East,2576.0312,Low
+CUST_00745,Email,25-34,South,4570.052,Medium
+CUST_00746,Social,55+,North,2521.2864,Medium
+CUST_00747,Paid Search,25-34,West,4168.2764,Low
+CUST_00748,Paid Search,45-54,South,4471.102,Low
+CUST_00749,Email,55+,South,4669.178,Medium
+CUST_00750,Paid Search,25-34,East,356.7423,Low
+CUST_00751,Paid Search,45-54,East,3982.0315,Medium
+CUST_00752,Social,25-34,East,2417.5125,Low
+CUST_00753,Social,25-34,North,2512.3928,Low
+CUST_00754,Paid Search,25-34,East,4191.486,Low
+CUST_00755,Organic,45-54,North,463.97687,Low
+CUST_00756,Social,55+,West,2653.7021,Low
+CUST_00757,Organic,25-34,South,5434.7446,Medium
+CUST_00758,Social,25-34,South,2747.222,Low
+CUST_00759,Social,55+,South,405.7688,Low
+CUST_00760,Email,35-44,South,4610.3774,Medium
+CUST_00761,Social,35-44,East,2627.6987,Medium
+CUST_00762,Organic,45-54,South,5257.355,Medium
+CUST_00763,Paid Search,18-24,North,3969.0137,Medium
+CUST_00764,Paid Search,55+,East,3500.642,Medium
+CUST_00765,Paid Search,25-34,South,4289.645,Low
+CUST_00766,Organic,45-54,North,470.27585,Low
+CUST_00767,Email,35-44,West,3704.6292,Low
+CUST_00768,Social,45-54,South,3105.5647,Low
+CUST_00769,Social,45-54,East,2551.562,Medium
+CUST_00770,Organic,18-24,North,4577.1772,Low
+CUST_00771,Paid Search,18-24,South,3951.4612,Medium
+CUST_00772,Social,55+,South,2628.6877,Medium
+CUST_00773,Organic,35-44,North,4838.889,Medium
+CUST_00774,Paid Search,25-34,West,3620.3994,Low
+CUST_00775,Social,18-24,South,2597.668,Low
+CUST_00776,Email,18-24,East,4733.0054,Medium
+CUST_00777,Referral,55+,East,15848.054,High
+CUST_00778,Email,55+,South,4581.4717,Medium
+CUST_00779,Paid Search,25-34,East,3433.6428,Medium
+CUST_00780,Paid Search,25-34,East,3656.574,Medium
+CUST_00781,Paid Search,35-44,North,4275.4375,Low
+CUST_00782,Paid Search,18-24,East,3796.3684,Low
+CUST_00783,Referral,35-44,North,7226.823,Medium
+CUST_00784,Email,45-54,South,4408.774,Medium
+CUST_00785,Paid Search,55+,South,3486.9836,Low
+CUST_00786,Social,25-34,South,2521.5535,Low
+CUST_00787,Social,18-24,North,2806.608,Low
+CUST_00788,Email,18-24,East,4656.4995,Medium
+CUST_00789,Organic,25-34,South,5184.7554,Medium
+CUST_00790,Email,45-54,North,4591.8364,Medium
+CUST_00791,Social,18-24,North,634.56824,Low
+CUST_00792,Paid Search,45-54,East,205.54855,Low
+CUST_00793,Social,35-44,East,2744.5583,Low
+CUST_00794,Organic,45-54,East,4515.5396,Medium
+CUST_00795,Social,35-44,East,2522.8694,Low
+CUST_00796,Referral,18-24,West,13830.804,High
+CUST_00797,Referral,18-24,West,0.0,Low
+CUST_00798,Email,35-44,West,4530.716,Medium
+CUST_00799,Social,35-44,West,2754.2073,Medium
+CUST_00800,Social,55+,West,2494.7705,Medium
+CUST_00801,Organic,55+,South,4911.292,Low
+CUST_00802,Email,18-24,East,4334.1484,Medium
+CUST_00803,Paid Search,25-34,East,4172.4565,Low
+CUST_00804,Referral,25-34,North,12157.651,Medium
+CUST_00805,Paid Search,18-24,East,3714.2166,Medium
+CUST_00806,Paid Search,18-24,East,3780.7144,Medium
+CUST_00807,Paid Search,18-24,East,3749.1558,Medium
+CUST_00808,Social,35-44,West,474.43518,Low
+CUST_00809,Paid Search,18-24,East,4026.0532,Medium
+CUST_00810,Paid Search,18-24,West,3919.1323,Low
+CUST_00811,Paid Search,18-24,West,3531.7053,Medium
+CUST_00812,Organic,45-54,West,5495.342,Medium
+CUST_00813,Social,45-54,South,954.83167,Low
+CUST_00814,Paid Search,55+,North,2788.1204,Low
+CUST_00815,Paid Search,18-24,South,3999.5674,Medium
+CUST_00816,Referral,25-34,East,15092.452,High
+CUST_00817,Paid Search,35-44,West,1351.8549,Low
+CUST_00818,Referral,45-54,West,13906.5205,High
+CUST_00819,Email,18-24,East,4564.4746,Medium
+CUST_00820,Organic,25-34,East,5085.0454,Medium
+CUST_00821,Paid Search,35-44,West,3386.2954,Low
+CUST_00822,Social,18-24,East,2631.089,Medium
+CUST_00823,Paid Search,25-34,North,4057.1924,Low
+CUST_00824,Organic,45-54,East,4753.704,Medium
+CUST_00825,Organic,35-44,South,17.977964,Low
+CUST_00826,Social,35-44,East,2404.041,Medium
+CUST_00827,Email,35-44,East,4651.8823,Medium
+CUST_00828,Paid Search,55+,South,3922.571,Medium
+CUST_00829,Social,35-44,South,2760.9446,Medium
+CUST_00830,Social,35-44,North,2362.848,Medium
+CUST_00831,Paid Search,55+,South,3905.2515,Low
+CUST_00832,Email,18-24,West,4557.3867,Medium
+CUST_00833,Email,18-24,East,4544.965,Medium
+CUST_00834,Social,35-44,West,2485.192,Low
+CUST_00835,Social,25-34,West,2363.9717,Low
+CUST_00836,Referral,25-34,West,13397.176,High
+CUST_00837,Referral,18-24,North,12458.81,High
+CUST_00838,Paid Search,55+,South,4090.2585,Low
+CUST_00839,Email,45-54,North,14.627475,Low
+CUST_00840,Paid Search,45-54,North,446.44577,Low
+CUST_00841,Social,18-24,North,2632.107,Low
+CUST_00842,Email,25-34,South,4593.4277,Medium
+CUST_00843,Email,45-54,North,4629.0674,Medium
+CUST_00844,Paid Search,35-44,West,3406.0586,Low
+CUST_00845,Paid Search,45-54,East,4089.1458,Medium
+CUST_00846,Referral,45-54,East,12724.833,High
+CUST_00847,Paid Search,35-44,East,3452.9458,Low
+CUST_00848,Paid Search,45-54,West,3803.3337,Medium
+CUST_00849,Social,25-34,North,2450.227,Low
+CUST_00850,Email,18-24,South,5115.1724,Medium
+CUST_00851,Email,55+,South,4613.3623,Medium
+CUST_00852,Email,18-24,East,4727.026,Medium
+CUST_00853,Social,25-34,East,2785.6008,Low
+CUST_00854,Paid Search,18-24,West,3625.8386,Low
+CUST_00855,Social,25-34,East,2491.2842,Medium
+CUST_00856,Organic,25-34,North,5020.5405,Medium
+CUST_00857,Social,18-24,East,471.73822,Low
+CUST_00858,Email,35-44,West,4726.4536,Medium
+CUST_00859,Social,55+,East,2565.3062,Medium
+CUST_00860,Email,18-24,East,4525.496,Medium
+CUST_00861,Email,55+,North,3993.4688,Low
+CUST_00862,Email,35-44,North,4436.8247,Medium
+CUST_00863,Paid Search,35-44,North,4032.498,Low
+CUST_00864,Paid Search,35-44,North,3633.7942,Low
+CUST_00865,Email,25-34,South,4163.126,Low
+CUST_00866,Paid Search,18-24,West,4046.4614,Low
+CUST_00867,Email,35-44,South,4317.2715,Medium
+CUST_00868,Referral,55+,East,19258.7,High
+CUST_00869,Organic,35-44,West,5532.7886,Medium
+CUST_00870,Paid Search,35-44,West,3770.008,Medium
+CUST_00871,Referral,45-54,East,12465.787,High
+CUST_00872,Email,25-34,West,4565.234,Medium
+CUST_00873,Paid Search,18-24,South,3639.1367,Low
+CUST_00874,Paid Search,35-44,South,3201.7932,Low
+CUST_00875,Paid Search,55+,South,3573.5469,Medium
+CUST_00876,Paid Search,25-34,West,3974.4722,Low
+CUST_00877,Paid Search,55+,South,3207.6934,Low
+CUST_00878,Email,55+,West,4412.8647,Medium
+CUST_00879,Email,25-34,North,4068.091,Low
+CUST_00880,Paid Search,35-44,North,1420.3927,Low
+CUST_00881,Paid Search,45-54,East,0.0,Low
+CUST_00882,Paid Search,35-44,West,3750.83,Medium
+CUST_00883,Email,45-54,East,4695.7476,Medium
+CUST_00884,Paid Search,55+,South,3619.371,Medium
+CUST_00885,Email,45-54,North,4602.0806,Medium
+CUST_00886,Paid Search,55+,South,4005.707,Medium
+CUST_00887,Paid Search,55+,South,3563.259,Low
+CUST_00888,Organic,55+,South,2758.142,Medium
+CUST_00889,Paid Search,55+,West,3937.9382,Low
+CUST_00890,Paid Search,25-34,West,3735.8623,Medium
+CUST_00891,Paid Search,18-24,West,3960.1895,Low
+CUST_00892,Organic,18-24,North,331.86246,Low
+CUST_00893,Referral,25-34,North,13122.455,High
+CUST_00894,Referral,45-54,South,16258.414,High
+CUST_00895,Organic,35-44,East,3757.9485,Low
+CUST_00896,Paid Search,35-44,East,3906.1729,Medium
+CUST_00897,Organic,18-24,South,5214.7114,Medium
+CUST_00898,Paid Search,45-54,North,3630.0918,Low
+CUST_00899,Referral,25-34,South,14804.501,High
+CUST_00900,Email,45-54,West,4567.3335,Medium
+CUST_00901,Email,18-24,West,4662.63,Medium
+CUST_00902,Organic,25-34,West,3484.7134,Low
+CUST_00903,Paid Search,18-24,East,3917.557,Medium
+CUST_00904,Organic,25-34,North,4930.0347,Medium
+CUST_00905,Email,55+,West,4717.106,Medium
+CUST_00906,Referral,35-44,North,12370.07,High
+CUST_00907,Organic,35-44,South,4915.111,Medium
+CUST_00908,Paid Search,25-34,West,36.2123,Low
+CUST_00909,Organic,25-34,East,5390.2896,Medium
+CUST_00910,Referral,45-54,North,13016.519,High
+CUST_00911,Social,55+,East,309.18182,Low
+CUST_00912,Paid Search,45-54,North,4040.3875,Medium
+CUST_00913,Email,45-54,South,4761.1587,Medium
+CUST_00914,Social,35-44,West,2821.9438,Medium
+CUST_00915,Email,18-24,South,4709.4746,Medium
+CUST_00916,Paid Search,45-54,West,4105.871,Medium
+CUST_00917,Paid Search,55+,East,3546.569,Low
+CUST_00918,Organic,35-44,East,4935.2646,Low
+CUST_00919,Paid Search,18-24,East,3583.387,Low
+CUST_00920,Social,45-54,East,2950.8306,Low
+CUST_00921,Organic,55+,North,4815.2065,Medium
+CUST_00922,Paid Search,25-34,West,3735.5305,Medium
+CUST_00923,Paid Search,18-24,South,1538.7858,Low
+CUST_00924,Social,45-54,East,2690.3755,Low
+CUST_00925,Paid Search,25-34,East,4021.3474,Medium
+CUST_00926,Referral,45-54,East,5188.509,Medium
+CUST_00927,Social,45-54,South,2621.526,Medium
+CUST_00928,Referral,25-34,West,13463.769,High
+CUST_00929,Email,18-24,North,4514.484,Medium
+CUST_00930,Social,35-44,East,2651.3894,Medium
+CUST_00931,Referral,35-44,East,14523.139,High
+CUST_00932,Paid Search,55+,East,403.22565,Low
+CUST_00933,Referral,25-34,North,13960.755,High
+CUST_00934,Organic,25-34,South,5338.704,Medium
+CUST_00935,Social,55+,North,2495.2542,Low
+CUST_00936,Email,45-54,East,4046.8823,Medium
+CUST_00937,Paid Search,45-54,East,3935.6323,Medium
+CUST_00938,Paid Search,55+,East,3698.5557,Low
+CUST_00939,Paid Search,45-54,West,4178.4106,Medium
+CUST_00940,Paid Search,55+,South,3634.5718,Low
+CUST_00941,Organic,45-54,South,2848.1648,Low
+CUST_00942,Paid Search,35-44,South,3957.1526,Medium
+CUST_00943,Social,18-24,North,705.1287,Low
+CUST_00944,Paid Search,45-54,West,4093.394,Low
+CUST_00945,Paid Search,45-54,West,3973.1985,Medium
+CUST_00946,Email,55+,South,3386.1726,Low
+CUST_00947,Paid Search,45-54,West,3892.4016,Low
+CUST_00948,Social,35-44,North,2286.4404,Low
+CUST_00949,Organic,35-44,North,4467.7036,Medium
+CUST_00950,Organic,18-24,South,4996.8965,Medium
+CUST_00951,Paid Search,18-24,South,4095.3198,Medium
+CUST_00952,Social,18-24,North,2506.4924,Low
+CUST_00953,Paid Search,55+,East,3663.2659,Low
+CUST_00954,Organic,45-54,West,4990.6987,Low
+CUST_00955,Email,25-34,South,4860.833,Low
+CUST_00956,Paid Search,35-44,South,3655.7866,Low
+CUST_00957,Paid Search,35-44,North,4095.4988,Low
+CUST_00958,Paid Search,25-34,South,3800.6409,Low
+CUST_00959,Paid Search,35-44,West,8.628015,Low
+CUST_00960,Organic,25-34,West,2700.959,Low
+CUST_00961,Social,45-54,North,2550.5493,Low
+CUST_00962,Organic,45-54,North,3338.9448,Low
+CUST_00963,Paid Search,18-24,West,3714.2166,Medium
+CUST_00964,Referral,35-44,North,13123.118,High
+CUST_00965,Paid Search,55+,East,3780.3044,Medium
+CUST_00966,Email,55+,West,4412.8647,Medium
+CUST_00967,Paid Search,45-54,West,126.52351,Low
+CUST_00968,Paid Search,45-54,East,3443.6738,Medium
+CUST_00969,Referral,18-24,South,9919.435,High
+CUST_00970,Paid Search,55+,West,3937.9382,Low
+CUST_00971,Email,45-54,East,4624.026,Medium
+CUST_00972,Social,55+,West,2203.0166,Medium
+CUST_00973,Paid Search,55+,East,3903.7246,Medium
+CUST_00974,Organic,25-34,West,5159.7607,Medium
+CUST_00975,Email,18-24,West,4479.0737,Medium
+CUST_00976,Social,45-54,North,2484.9783,Low
+CUST_00977,Social,35-44,South,2471.3123,Low
+CUST_00978,Social,18-24,West,2346.4346,Low
+CUST_00979,Social,25-34,North,2423.1646,Low
+CUST_00980,Organic,55+,East,4646.2964,Medium
+CUST_00981,Referral,25-34,South,15673.408,High
+CUST_00982,Paid Search,25-34,North,3613.843,Low
+CUST_00983,Paid Search,45-54,East,3292.4773,Medium
+CUST_00984,Referral,45-54,West,11144.853,Medium
+CUST_00985,Paid Search,25-34,West,4168.2764,Low
+CUST_00986,Paid Search,55+,South,4090.2585,Low
+CUST_00987,Paid Search,35-44,North,3470.4746,Low
+CUST_00988,Email,18-24,West,4021.5,Low
+CUST_00989,Paid Search,25-34,West,3852.8633,Medium
+CUST_00990,Referral,55+,East,16567.664,High
+CUST_00991,Social,18-24,East,2415.5938,Low
+CUST_00992,Social,18-24,East,2515.408,Low
+CUST_00993,Paid Search,45-54,North,393.33008,Low
+CUST_00994,Email,35-44,North,4679.925,Medium
+CUST_00995,Referral,25-34,North,13096.7705,High
+CUST_00996,Email,35-44,West,4035.5242,Low
+CUST_00997,Social,18-24,North,634.56824,Low
+CUST_00998,Paid Search,25-34,East,3798.1865,Medium
+CUST_00999,Organic,25-34,South,5049.328,Medium
+CUST_01000,Paid Search,35-44,North,3370.7651,Medium
+CUST_01001,Social,45-54,West,2697.5146,Medium
+CUST_01002,Referral,55+,North,15632.124,High
+CUST_01003,Paid Search,18-24,West,3694.7068,Medium
+CUST_01004,Social,25-34,West,2460.172,Low
+CUST_01005,Paid Search,25-34,West,3873.5881,Low
+CUST_01006,Social,35-44,North,2744.5583,Low
+CUST_01007,Referral,35-44,West,4187.475,Medium
+CUST_01008,Paid Search,55+,East,4124.105,Low
+CUST_01009,Paid Search,55+,South,3750.1707,Low
+CUST_01010,Social,45-54,East,2654.3887,Low
+CUST_01011,Paid Search,18-24,South,2897.009,Low
+CUST_01012,Organic,18-24,South,2390.9248,Low
+CUST_01013,Social,55+,South,2875.3342,Low
+CUST_01014,Social,55+,East,1657.3705,Low
+CUST_01015,Paid Search,25-34,East,3551.8352,Low
+CUST_01016,Social,18-24,North,2557.5767,Low
+CUST_01017,Organic,45-54,North,2511.1477,Low
+CUST_01018,Paid Search,35-44,West,3664.4907,Medium
+CUST_01019,Paid Search,55+,East,3720.888,Medium
+CUST_01020,Paid Search,35-44,West,3910.9185,Medium
+CUST_01021,Email,45-54,South,5045.4233,Medium
+CUST_01022,Social,45-54,South,2641.5393,Low
+CUST_01023,Email,18-24,South,3368.3867,Low
+CUST_01024,Referral,18-24,East,13848.804,High
+CUST_01025,Paid Search,45-54,West,3736.5442,Medium
+CUST_01026,Paid Search,18-24,East,3967.437,Medium
+CUST_01027,Paid Search,25-34,South,3349.1924,Low
+CUST_01028,Organic,45-54,West,4886.45,Medium
+CUST_01029,Referral,25-34,East,17014.836,High
+CUST_01030,Email,18-24,South,4873.9854,Medium
+CUST_01031,Social,18-24,North,2647.0881,Low
+CUST_01032,Paid Search,35-44,East,3664.4907,Medium
+CUST_01033,Paid Search,45-54,East,3983.4631,Medium
+CUST_01034,Paid Search,45-54,West,4148.412,Low
+CUST_01035,Organic,55+,North,4600.238,Medium
+CUST_01036,Social,45-54,North,2616.4858,Low
+CUST_01037,Referral,45-54,West,15674.388,High
+CUST_01038,Paid Search,25-34,East,3872.373,Medium
+CUST_01039,Paid Search,25-34,North,3613.843,Low
+CUST_01040,Referral,25-34,North,10370.326,High
+CUST_01041,Email,18-24,South,4660.928,Medium
+CUST_01042,Organic,55+,East,4708.01,Medium
+CUST_01043,Social,25-34,North,2399.4644,Medium
+CUST_01044,Email,35-44,South,4601.254,Medium
+CUST_01045,Social,25-34,East,2546.6704,Medium
+CUST_01046,Organic,18-24,West,5263.216,Low
+CUST_01047,Email,55+,South,3379.2957,Low
+CUST_01048,Referral,25-34,South,169.84846,Medium
+CUST_01049,Organic,18-24,South,2090.7207,Low
+CUST_01050,Paid Search,25-34,North,3943.3396,Medium
+CUST_01051,Organic,18-24,North,1502.1254,Low
+CUST_01052,Paid Search,55+,West,3768.3262,Medium
+CUST_01053,Referral,18-24,North,14553.845,High
+CUST_01054,Social,25-34,West,2617.6326,Medium
+CUST_01055,Referral,25-34,North,16996.639,High
+CUST_01056,Email,18-24,East,4751.75,Medium
+CUST_01057,Referral,18-24,West,13580.9375,High
+CUST_01058,Paid Search,35-44,East,3720.2249,Low
+CUST_01059,Paid Search,25-34,East,4163.954,Low
+CUST_01060,Paid Search,18-24,South,4514.2305,Low
+CUST_01061,Referral,25-34,East,11407.053,High
+CUST_01062,Email,25-34,East,4617.446,Medium
+CUST_01063,Paid Search,35-44,South,3740.5383,Medium
+CUST_01064,Organic,55+,North,4537.0327,Medium
+CUST_01065,Email,25-34,West,2093.3945,Low
+CUST_01066,Email,45-54,North,4460.492,Medium
+CUST_01067,Email,45-54,West,4467.0615,Medium
+CUST_01068,Paid Search,18-24,West,3729.646,Medium
+CUST_01069,Social,35-44,North,1876.0382,Low
+CUST_01070,Email,35-44,East,4609.9556,Medium
+CUST_01071,Paid Search,35-44,East,3711.312,Low
+CUST_01072,Organic,18-24,North,5571.975,Medium
+CUST_01073,Social,35-44,West,2469.1243,Low
+CUST_01074,Social,18-24,North,1751.8008,Low
+CUST_01075,Organic,55+,North,4628.3545,Medium
+CUST_01076,Organic,35-44,West,1099.3871,Low
+CUST_01077,Paid Search,18-24,East,3425.381,Low
+CUST_01078,Referral,35-44,North,7614.6167,Medium
+CUST_01079,Referral,55+,North,13488.662,High
+CUST_01080,Paid Search,45-54,South,4173.0986,Low
+CUST_01081,Paid Search,25-34,North,3682.9915,Low
+CUST_01082,Paid Search,55+,North,3821.3672,Medium
+CUST_01083,Social,18-24,East,2630.2559,Medium
+CUST_01084,Social,25-34,North,2575.8154,Medium
+CUST_01085,Social,18-24,South,330.05774,Low
+CUST_01086,Paid Search,55+,South,3769.09,Medium
+CUST_01087,Paid Search,45-54,West,3915.5781,Medium
+CUST_01088,Email,35-44,West,471.73785,Low
+CUST_01089,Email,45-54,West,4642.9897,Medium
+CUST_01090,Organic,25-34,South,1936.727,Low
+CUST_01091,Organic,18-24,East,5308.226,Low
+CUST_01092,Organic,55+,East,4830.3774,Medium
+CUST_01093,Organic,55+,West,4728.561,Medium
+CUST_01094,Organic,18-24,East,4242.893,Medium
+CUST_01095,Email,18-24,West,4682.1396,Medium
+CUST_01096,Paid Search,35-44,East,3699.43,Medium
+CUST_01097,Paid Search,18-24,West,3095.688,Low
+CUST_01098,Email,45-54,East,4676.238,Medium
+CUST_01099,Paid Search,55+,East,3648.0305,Low
+CUST_01100,Paid Search,25-34,East,3593.7527,Medium
+CUST_01101,Organic,25-34,South,4903.658,Medium
+CUST_01102,Paid Search,55+,East,0.0,Low
+CUST_01103,Organic,25-34,South,5019.9087,Medium
+CUST_01104,Social,25-34,East,2546.7393,Medium
+CUST_01105,Referral,18-24,South,17192.672,High
+CUST_01106,Social,55+,West,2546.8975,Low
+CUST_01107,Paid Search,55+,East,3762.0479,Medium
+CUST_01108,Referral,18-24,East,14076.627,High
+CUST_01109,Paid Search,55+,North,499.78476,Low
+CUST_01110,Organic,18-24,West,5093.959,Medium
+CUST_01111,Paid Search,18-24,West,1406.9131,Low
+CUST_01112,Paid Search,25-34,North,3682.7622,Medium
+CUST_01113,Social,35-44,South,2805.115,Low
+CUST_01114,Social,55+,East,2712.824,Low
+CUST_01115,Email,45-54,West,4598.892,Medium
+CUST_01116,Referral,18-24,East,13848.804,High
+CUST_01117,Paid Search,35-44,South,2950.5737,Low
+CUST_01118,Social,55+,South,2570.25,Medium
+CUST_01119,Paid Search,45-54,West,3649.6567,Low
+CUST_01120,Paid Search,25-34,West,3567.0708,Low
+CUST_01121,Paid Search,18-24,West,3464.7595,Low
+CUST_01122,Paid Search,35-44,South,1222.3254,Low
+CUST_01123,Paid Search,35-44,South,3733.3381,Low
+CUST_01124,Email,25-34,North,4518.7007,Medium
+CUST_01125,Paid Search,18-24,West,3635.9253,Low
+CUST_01126,Paid Search,18-24,West,3633.5046,Low
+CUST_01127,Email,35-44,North,4800.2817,Medium
+CUST_01128,Paid Search,55+,North,4122.915,Low
+CUST_01129,Social,35-44,East,2485.0718,Medium
+CUST_01130,Organic,35-44,South,4860.4307,Medium
+CUST_01131,Email,55+,South,4627.2104,Medium
+CUST_01132,Organic,45-54,South,5005.9927,Medium
+CUST_01133,Paid Search,45-54,East,3583.9954,Medium
+CUST_01134,Paid Search,35-44,West,3937.181,Medium
+CUST_01135,Social,45-54,West,2767.4976,Low
+CUST_01136,Social,35-44,South,2202.1792,Low
+CUST_01137,Social,45-54,West,2720.6646,Low
+CUST_01138,Paid Search,45-54,East,3994.0364,Low
+CUST_01139,Social,45-54,North,2253.5776,Low
+CUST_01140,Email,55+,West,4526.78,Medium
+CUST_01141,Paid Search,25-34,South,3883.511,Low
+CUST_01142,Paid Search,45-54,East,3850.9,Medium
+CUST_01143,Organic,18-24,East,1964.7914,Low
+CUST_01144,Paid Search,35-44,West,3381.1802,Low
+CUST_01145,Social,55+,West,2782.0908,Low
+CUST_01146,Referral,45-54,West,13253.265,High
+CUST_01147,Social,25-34,East,2511.0144,Low
+CUST_01148,Social,45-54,South,2679.2568,Medium
+CUST_01149,Organic,25-34,South,4963.704,Medium
+CUST_01150,Paid Search,35-44,West,3887.3408,Medium
+CUST_01151,Paid Search,25-34,North,3878.988,Low
+CUST_01152,Referral,45-54,East,16523.574,High
+CUST_01153,Email,18-24,East,4546.6733,Medium
+CUST_01154,Paid Search,35-44,North,3564.618,Medium
+CUST_01155,Paid Search,55+,East,3575.13,Low
+CUST_01156,Paid Search,45-54,South,4452.725,Low
+CUST_01157,Paid Search,35-44,South,3733.3381,Low
+CUST_01158,Paid Search,55+,East,3732.507,Medium
+CUST_01159,Organic,18-24,North,5298.908,Low
+CUST_01160,Paid Search,55+,North,3719.7585,Low
+CUST_01161,Organic,25-34,South,5152.7485,Medium
+CUST_01162,Organic,55+,East,4879.9165,Medium
+CUST_01163,Paid Search,55+,North,3722.1555,Low
+CUST_01164,Social,45-54,South,426.03494,Low
+CUST_01165,Referral,45-54,South,0.0,Medium
+CUST_01166,Social,45-54,East,2092.4465,Low
+CUST_01167,Paid Search,25-34,South,3634.188,Medium
+CUST_01168,Paid Search,18-24,North,3782.6228,Medium
+CUST_01169,Paid Search,25-34,East,358.42938,Low
+CUST_01170,Referral,35-44,West,16016.828,High
+CUST_01171,Organic,45-54,East,4987.258,Medium
+CUST_01172,Social,25-34,South,2868.3745,Low
+CUST_01173,Social,35-44,South,2421.2354,Low
+CUST_01174,Organic,18-24,North,4689.491,Medium
+CUST_01175,Social,18-24,North,2297.5112,Medium
+CUST_01176,Paid Search,55+,South,3830.469,Medium
+CUST_01177,Organic,55+,East,3314.1953,Low
+CUST_01178,Email,55+,South,4613.3623,Medium
+CUST_01179,Paid Search,25-34,West,3993.7656,Medium
+CUST_01180,Email,35-44,East,1814.5146,Low
+CUST_01181,Organic,45-54,North,4999.8037,Medium
+CUST_01182,Paid Search,25-34,East,3620.9036,Low
+CUST_01183,Email,45-54,East,4820.5356,Medium
+CUST_01184,Paid Search,45-54,North,3955.157,Low
+CUST_01185,Paid Search,35-44,South,3961.5947,Medium
+CUST_01186,Paid Search,35-44,West,4161.9824,Low
+CUST_01187,Social,25-34,South,3105.3481,Medium
+CUST_01188,Organic,55+,South,4996.81,Medium
+CUST_01189,Paid Search,55+,North,3874.6174,Medium
+CUST_01190,Paid Search,55+,North,3465.371,Low
+CUST_01191,Paid Search,45-54,South,3834.3574,Medium
+CUST_01192,Paid Search,25-34,West,3497.3472,Medium
+CUST_01193,Referral,45-54,West,15410.056,High
+CUST_01194,Social,25-34,East,2745.2412,Medium
+CUST_01195,Referral,55+,West,16920.982,High
+CUST_01196,Email,25-34,East,4601.1343,Low
+CUST_01197,Referral,35-44,East,11480.955,High
+CUST_01198,Paid Search,18-24,South,3794.6348,Low
+CUST_01199,Paid Search,18-24,North,3844.0352,Medium
+CUST_01200,Organic,25-34,South,318.3127,Low
+CUST_01201,Social,35-44,West,2680.8088,Medium
+CUST_01202,Organic,18-24,East,3735.938,Low
+CUST_01203,Organic,55+,West,5038.588,Low
+CUST_01204,Referral,18-24,North,200.6669,Low
+CUST_01205,Organic,55+,North,5088.865,Low
+CUST_01206,Email,25-34,South,4696.4043,Medium
+CUST_01207,Paid Search,25-34,South,4166.5415,Low
+CUST_01208,Paid Search,18-24,West,0.0,Low
+CUST_01209,Paid Search,55+,South,4465.9214,Low
+CUST_01210,Paid Search,45-54,East,3802.573,Low
+CUST_01211,Email,18-24,East,4121.9487,Low
+CUST_01212,Social,18-24,South,3114.3545,Low
+CUST_01213,Social,45-54,West,2831.9187,Medium
+CUST_01214,Referral,55+,North,13703.462,High
+CUST_01215,Paid Search,18-24,North,4067.2725,Low
+CUST_01216,Social,25-34,East,2622.0234,Medium
+CUST_01217,Email,35-44,East,4095.8523,Medium
+CUST_01218,Paid Search,18-24,South,4240.4194,Low
+CUST_01219,Paid Search,25-34,West,3852.8633,Medium
+CUST_01220,Paid Search,18-24,North,4338.945,Low
+CUST_01221,Paid Search,35-44,South,4102.298,Low
+CUST_01222,Social,45-54,North,2593.33,Medium
+CUST_01223,Social,35-44,North,2600.0398,Medium
+CUST_01224,Social,25-34,East,2426.8428,Medium
+CUST_01225,Paid Search,35-44,East,3586.1775,Medium
+CUST_01226,Social,35-44,East,2723.0576,Medium
+CUST_01227,Social,18-24,West,484.969,Low
+CUST_01228,Paid Search,18-24,North,3477.424,Medium
+CUST_01229,Referral,18-24,East,14128.811,High
+CUST_01230,Email,55+,North,4856.4575,Medium
+CUST_01231,Email,45-54,West,4569.001,Medium
+CUST_01232,Paid Search,18-24,East,3618.7527,Low
+CUST_01233,Email,25-34,West,4682.723,Medium
+CUST_01234,Paid Search,35-44,East,3560.837,Low
+CUST_01235,Paid Search,18-24,South,3520.7742,Low
+CUST_01236,Paid Search,55+,East,3742.8699,Medium
+CUST_01237,Organic,55+,West,4714.7773,Medium
+CUST_01238,Paid Search,25-34,North,1283.8855,Low
+CUST_01239,Email,18-24,West,4460.7974,Low
+CUST_01240,Paid Search,25-34,East,3855.2654,Low
+CUST_01241,Organic,35-44,North,5562.8086,High
+CUST_01242,Referral,55+,West,17110.898,High
+CUST_01243,Organic,25-34,North,3721.3645,Medium
+CUST_01244,Paid Search,25-34,East,3902.7434,Medium
+CUST_01245,Paid Search,25-34,North,1086.5303,Low
+CUST_01246,Referral,18-24,North,15040.408,High
+CUST_01247,Paid Search,18-24,East,3603.834,Low
+CUST_01248,Social,35-44,East,2610.5645,Low
+CUST_01249,Organic,45-54,East,5405.109,Medium
+CUST_01250,Email,18-24,South,0.0,Low
+CUST_01251,Organic,25-34,West,5520.0796,Low
+CUST_01252,Referral,55+,North,12642.843,High
+CUST_01253,Paid Search,55+,West,3466.558,Low
+CUST_01254,Email,45-54,South,0.0,Low
+CUST_01255,Paid Search,35-44,East,3344.7036,Medium
+CUST_01256,Social,35-44,West,2690.8674,Low
+CUST_01257,Paid Search,25-34,South,3726.606,Low
+CUST_01258,Paid Search,25-34,South,4001.2275,Medium
+CUST_01259,Referral,25-34,West,13477.965,High
+CUST_01260,Paid Search,45-54,West,3543.1047,Medium
+CUST_01261,Paid Search,45-54,North,2697.4067,Medium
+CUST_01262,Social,45-54,East,2368.3604,Low
+CUST_01263,Paid Search,45-54,South,3763.7793,Medium
+CUST_01264,Email,18-24,East,4576.5645,Medium
+CUST_01265,Paid Search,45-54,South,3982.0605,Medium
+CUST_01266,Paid Search,55+,North,3776.314,Medium
+CUST_01267,Paid Search,45-54,West,3729.4165,Low
+CUST_01268,Social,35-44,East,2834.535,Low
+CUST_01269,Organic,25-34,South,5100.0396,Medium
+CUST_01270,Paid Search,45-54,North,3796.231,Medium
+CUST_01271,Organic,35-44,North,4378.0503,Low
+CUST_01272,Referral,25-34,South,17398.71,High
+CUST_01273,Referral,35-44,East,10577.272,High
+CUST_01274,Social,18-24,South,3038.356,Low
+CUST_01275,Social,55+,East,2648.5408,Medium
+CUST_01276,Social,45-54,South,2641.5393,Low
+CUST_01277,Email,25-34,North,1150.933,Low
+CUST_01278,Email,45-54,East,4695.7476,Medium
+CUST_01279,Paid Search,18-24,North,3659.0269,Low
+CUST_01280,Paid Search,25-34,North,3827.8677,Medium
+CUST_01281,Social,45-54,North,2952.209,Low
+CUST_01282,Paid Search,18-24,South,3784.2844,Medium
+CUST_01283,Paid Search,45-54,East,168.25237,Low
+CUST_01284,Paid Search,55+,West,4119.578,Low
+CUST_01285,Paid Search,35-44,North,3897.591,Medium
+CUST_01286,Referral,25-34,North,14970.326,High
+CUST_01287,Referral,45-54,North,12642.985,High
+CUST_01288,Email,25-34,South,4852.554,Medium
+CUST_01289,Paid Search,45-54,North,3446.0908,Low
+CUST_01290,Email,45-54,South,4610.6973,Medium
+CUST_01291,Email,18-24,West,4726.875,Medium
+CUST_01292,Social,18-24,South,2829.8452,Medium
+CUST_01293,Referral,18-24,East,7706.774,Medium
+CUST_01294,Email,18-24,East,4557.3867,Medium
+CUST_01295,Email,25-34,North,4618.1045,Medium
+CUST_01296,Organic,18-24,North,4764.3525,Medium
+CUST_01297,Social,55+,South,696.36017,Low
+CUST_01298,Email,55+,South,4581.4717,Medium
+CUST_01299,Email,18-24,North,4563.885,Medium
+CUST_01300,Paid Search,25-34,East,3548.5288,Low
+CUST_01301,Organic,45-54,South,5489.2686,Medium
+CUST_01302,Paid Search,45-54,South,3740.993,Medium
+CUST_01303,Paid Search,35-44,East,3906.64,Low
+CUST_01304,Organic,55+,West,5452.431,Low
+CUST_01305,Social,45-54,West,2862.0195,Low
+CUST_01306,Paid Search,45-54,West,4224.464,Low
+CUST_01307,Paid Search,35-44,South,4424.0273,Low
+CUST_01308,Paid Search,35-44,North,4018.8396,Medium
+CUST_01309,Referral,25-34,North,13966.902,High
+CUST_01310,Paid Search,35-44,South,3719.3616,Medium
+CUST_01311,Organic,55+,South,4326.733,Medium
+CUST_01312,Organic,25-34,North,4105.635,Medium
+CUST_01313,Email,18-24,North,4909.9604,Medium
+CUST_01314,Referral,35-44,North,13971.23,High
+CUST_01315,Paid Search,45-54,East,274.17548,Low
+CUST_01316,Paid Search,55+,South,3924.8257,Medium
+CUST_01317,Social,35-44,North,2534.5557,Medium
+CUST_01318,Paid Search,45-54,East,4029.2634,Low
+CUST_01319,Paid Search,25-34,West,4050.755,Medium
+CUST_01320,Paid Search,35-44,South,4053.2468,Low
+CUST_01321,Paid Search,35-44,South,3719.3616,Medium
+CUST_01322,Email,25-34,South,4735.092,Medium
+CUST_01323,Social,45-54,South,2614.2756,Low
+CUST_01324,Social,55+,South,2955.0571,Medium
+CUST_01325,Referral,25-34,West,13361.412,High
+CUST_01326,Social,18-24,West,2489.6313,Low
+CUST_01327,Email,55+,South,5174.46,Medium
+CUST_01328,Social,55+,West,2651.2869,Low
+CUST_01329,Email,55+,West,4238.4185,Medium
+CUST_01330,Paid Search,25-34,North,3820.998,Low
+CUST_01331,Organic,45-54,South,4850.1714,Medium
+CUST_01332,Paid Search,45-54,East,4261.305,Low
+CUST_01333,Paid Search,45-54,South,3834.3574,Medium
+CUST_01334,Paid Search,55+,South,3589.1516,Low
+CUST_01335,Email,55+,South,4755.2207,Medium
+CUST_01336,Email,35-44,East,4538.014,Medium
+CUST_01337,Email,18-24,South,3963.8486,Medium
+CUST_01338,Organic,18-24,East,4960.4414,Low
+CUST_01339,Paid Search,55+,North,3549.3708,Low
+CUST_01340,Email,55+,West,4979.8486,Medium
+CUST_01341,Paid Search,18-24,North,3988.5234,Medium
+CUST_01342,Social,25-34,North,2877.3406,Medium
+CUST_01343,Paid Search,25-34,North,4040.5872,Low
+CUST_01344,Paid Search,25-34,South,3846.424,Medium
+CUST_01345,Email,45-54,East,4730.023,Medium
+CUST_01346,Social,35-44,West,2600.873,Medium
+CUST_01347,Social,35-44,South,2560.5405,Low
+CUST_01348,Referral,35-44,North,0.0,Low
+CUST_01349,Social,45-54,South,2398.0781,Low
+CUST_01350,Email,45-54,North,5.113345,Low
+CUST_01351,Paid Search,18-24,South,3592.9382,Medium
+CUST_01352,Paid Search,18-24,East,3729.646,Medium
+CUST_01353,Paid Search,25-34,North,3021.3372,Low
+CUST_01354,Paid Search,35-44,West,661.2654,Low
+CUST_01355,Email,55+,North,3408.809,Low
+CUST_01356,Email,55+,East,4552.569,Medium
+CUST_01357,Referral,45-54,West,14869.424,High
+CUST_01358,Email,18-24,West,3877.477,Low
+CUST_01359,Social,18-24,East,2839.692,Low
+CUST_01360,Social,35-44,East,2132.2163,Low
+CUST_01361,Paid Search,35-44,North,3558.1123,Medium
+CUST_01362,Paid Search,45-54,North,3608.7686,Low
+CUST_01363,Referral,18-24,South,13419.347,High
+CUST_01364,Referral,55+,East,15902.387,High
+CUST_01365,Paid Search,35-44,East,171.89252,Low
+CUST_01366,Paid Search,35-44,West,3731.3203,Medium
+CUST_01367,Social,18-24,South,382.37994,Low
+CUST_01368,Referral,55+,West,9782.449,High
+CUST_01369,Paid Search,35-44,South,3762.1118,Low
+CUST_01370,Email,25-34,North,4499.191,Medium
+CUST_01371,Organic,25-34,East,4970.732,Medium
+CUST_01372,Paid Search,25-34,North,3926.6587,Medium
+CUST_01373,Organic,18-24,South,4877.436,Medium
+CUST_01374,Paid Search,55+,West,4106.733,Low
+CUST_01375,Email,55+,West,4237.4673,Medium
+CUST_01376,Email,55+,South,4663.048,Medium
+CUST_01377,Paid Search,25-34,North,3977.6045,Low
+CUST_01378,Organic,35-44,North,4601.386,Medium
+CUST_01379,Email,35-44,North,0.0,Low
+CUST_01380,Organic,35-44,West,318.0422,Low
+CUST_01381,Paid Search,35-44,West,3731.3203,Medium
+CUST_01382,Organic,35-44,East,4937.303,Medium
+CUST_01383,Organic,45-54,East,4811.6934,Low
+CUST_01384,Referral,18-24,South,16340.285,High
+CUST_01385,Paid Search,18-24,North,3989.5098,Medium
+CUST_01386,Social,55+,North,2058.7283,Medium
+CUST_01387,Email,55+,East,4318.8633,Medium
+CUST_01388,Organic,55+,North,4110.481,Medium
+CUST_01389,Email,25-34,North,3555.5342,Low
+CUST_01390,Paid Search,35-44,West,3661.81,Medium
+CUST_01391,Paid Search,18-24,East,3910.5012,Low
+CUST_01392,Social,25-34,South,477.8256,Low
+CUST_01393,Organic,45-54,North,5125.13,Low
+CUST_01394,Paid Search,25-34,North,410.78366,Low
+CUST_01395,Social,35-44,South,276.9665,Low
+CUST_01396,Organic,18-24,South,3962.7952,Medium
+CUST_01397,Paid Search,35-44,East,3867.831,Medium
+CUST_01398,Paid Search,45-54,North,374.13943,Low
+CUST_01399,Social,35-44,North,3005.5027,Low
+CUST_01400,Referral,35-44,North,13412.388,High
+CUST_01401,Paid Search,55+,South,4359.19,Low
+CUST_01402,Social,25-34,South,2877.6982,Low
+CUST_01403,Email,25-34,North,4737.7886,Medium
+CUST_01404,Organic,45-54,East,4749.399,Medium
+CUST_01405,Organic,35-44,South,4194.987,Medium
+CUST_01406,Social,55+,North,2550.2737,Low
+CUST_01407,Email,18-24,East,4346.734,Medium
+CUST_01408,Paid Search,18-24,South,159.23994,Low
+CUST_01409,Email,25-34,South,4578.471,Medium
+CUST_01410,Paid Search,35-44,South,3798.6243,Low
+CUST_01411,Social,55+,North,2621.0554,Low
+CUST_01412,Paid Search,35-44,South,3466.9873,Low
+CUST_01413,Email,35-44,East,4509.0635,Medium
+CUST_01414,Paid Search,18-24,North,4081.9165,Low
+CUST_01415,Paid Search,35-44,East,3749.427,Medium
+CUST_01416,Paid Search,35-44,North,4066.0752,Medium
+CUST_01417,Referral,35-44,East,14247.134,High
+CUST_01418,Social,45-54,North,2571.1848,Low
+CUST_01419,Paid Search,35-44,North,2780.088,Low
+CUST_01420,Organic,18-24,South,5206.1445,Low
+CUST_01421,Organic,18-24,East,5269.8477,Low
+CUST_01422,Paid Search,18-24,East,3761.5364,Medium
+CUST_01423,Social,45-54,South,583.7698,Low
+CUST_01424,Email,55+,North,2717.9812,Low
+CUST_01425,Paid Search,55+,South,850.16754,Low
+CUST_01426,Email,25-34,West,4401.999,Medium
+CUST_01427,Paid Search,18-24,North,4103.908,Low
+CUST_01428,Organic,45-54,East,4967.748,Medium
+CUST_01429,Organic,18-24,South,5317.9277,Medium
+CUST_01430,Social,45-54,North,2756.9783,Low
+CUST_01431,Referral,25-34,East,13782.766,High
+CUST_01432,Referral,55+,North,16036.04,High
+CUST_01433,Organic,45-54,South,5382.7354,Low
+CUST_01434,Paid Search,45-54,North,3705.7634,Low
+CUST_01435,Paid Search,35-44,East,3508.2808,Medium
+CUST_01436,Referral,55+,North,16279.548,High
+CUST_01437,Paid Search,35-44,North,4205.7324,Medium
+CUST_01438,Paid Search,45-54,East,3763.7417,Medium
+CUST_01439,Paid Search,25-34,West,3504.948,Low
+CUST_01440,Referral,35-44,North,0.0,Medium
+CUST_01441,Paid Search,55+,South,3719.7705,Low
+CUST_01442,Paid Search,25-34,West,3368.7534,Medium
+CUST_01443,Paid Search,18-24,South,3796.9775,Medium
+CUST_01444,Email,25-34,South,4715.605,Medium
+CUST_01445,Organic,25-34,West,5287.809,Low
+CUST_01446,Paid Search,35-44,East,3603.2886,Low
+CUST_01447,Social,18-24,South,2830.3347,Medium
+CUST_01448,Social,18-24,West,2780.3865,Medium
+CUST_01449,Paid Search,25-34,East,3961.094,Low
+CUST_01450,Social,35-44,East,2394.4836,Low
+CUST_01451,Social,18-24,South,477.8256,Low
+CUST_01452,Referral,25-34,West,13902.527,High
+CUST_01453,Paid Search,25-34,West,3366.2124,Low
+CUST_01454,Paid Search,18-24,West,104.19592,Low
+CUST_01455,Organic,25-34,East,5221.5776,Low
+CUST_01456,Social,25-34,South,2560.7424,Low
+CUST_01457,Organic,18-24,North,4676.849,Medium
+CUST_01458,Organic,45-54,North,4929.428,Medium
+CUST_01459,Paid Search,18-24,West,3944.522,Low
+CUST_01460,Social,35-44,South,2644.891,Medium
+CUST_01461,Email,45-54,North,4713.658,Medium
+CUST_01462,Social,55+,North,2594.4358,Low
+CUST_01463,Paid Search,35-44,North,3701.4497,Medium
+CUST_01464,Paid Search,35-44,East,3985.4487,Medium
+CUST_01465,Social,45-54,East,2694.036,Low
+CUST_01466,Social,55+,South,2436.8574,Medium
+CUST_01467,Referral,25-34,East,763.2059,Low
+CUST_01468,Paid Search,45-54,South,3834.3574,Medium
+CUST_01469,Paid Search,35-44,West,4015.97,Low
+CUST_01470,Organic,18-24,West,5348.736,Low
+CUST_01471,Email,45-54,North,4742.9824,Medium
+CUST_01472,Email,55+,South,4701.4985,Medium
+CUST_01473,Referral,18-24,West,14257.493,High
+CUST_01474,Email,18-24,East,3790.5227,Medium
+CUST_01475,Referral,55+,West,16248.124,High
+CUST_01476,Email,35-44,South,1001.9841,Low
+CUST_01477,Social,25-34,North,2526.9067,Medium
+CUST_01478,Organic,45-54,West,5835.7,Low
+CUST_01479,Organic,25-34,West,5227.1685,Medium
+CUST_01480,Referral,25-34,East,15129.155,High
+CUST_01481,Email,25-34,South,4593.4277,Medium
+CUST_01482,Social,35-44,North,2372.448,Low
+CUST_01483,Social,18-24,East,2566.2502,Low
+CUST_01484,Referral,25-34,East,12335.982,High
+CUST_01485,Social,25-34,East,2884.0596,Low
+CUST_01486,Social,18-24,North,2662.6973,Medium
+CUST_01487,Social,45-54,East,2842.664,Low
+CUST_01488,Social,18-24,East,2527.6797,Medium
+CUST_01489,Paid Search,55+,West,3989.8271,Low
+CUST_01490,Email,18-24,East,4656.4995,Medium
+CUST_01491,Referral,25-34,East,17201.674,High
+CUST_01492,Paid Search,18-24,South,3743.1472,Low
+CUST_01493,Organic,25-34,East,5466.5933,Medium
+CUST_01494,Referral,45-54,East,0.0,Low
+CUST_01495,Paid Search,18-24,West,3724.8372,Low
+CUST_01496,Social,35-44,West,2485.192,Low
+CUST_01497,Social,45-54,North,2506.5193,Medium
+CUST_01498,Social,35-44,West,2592.467,Medium
+CUST_01499,Email,18-24,West,4447.183,Medium
+CUST_01500,Organic,45-54,East,4710.3926,Medium
+CUST_01501,Email,18-24,East,4620.662,Medium
+CUST_01502,Referral,18-24,East,15774.649,High
+CUST_01503,Paid Search,35-44,South,3270.1223,Low
+CUST_01504,Referral,25-34,South,15848.47,High
+CUST_01505,Social,18-24,West,373.2724,Low
+CUST_01506,Referral,45-54,West,13356.667,High
+CUST_01507,Email,35-44,North,3366.0686,Low
+CUST_01508,Social,55+,West,2446.5906,Low
+CUST_01509,Social,35-44,South,2202.1792,Low
+CUST_01510,Paid Search,35-44,North,3608.6982,Low
+CUST_01511,Organic,55+,West,5141.4287,Medium
+CUST_01512,Social,18-24,North,2537.7795,Medium
+CUST_01513,Organic,25-34,North,1817.2932,Low
+CUST_01514,Organic,45-54,South,5005.9927,Medium
+CUST_01515,Organic,25-34,South,5655.4893,Medium
+CUST_01516,Social,55+,North,2484.1738,Medium
+CUST_01517,Referral,25-34,North,13750.504,High
+CUST_01518,Paid Search,35-44,South,3557.2544,Low
+CUST_01519,Email,55+,North,4594.6675,Medium
+CUST_01520,Social,25-34,North,2542.6084,Low
+CUST_01521,Email,55+,West,4249.854,Medium
+CUST_01522,Organic,18-24,East,4901.928,Medium
+CUST_01523,Paid Search,25-34,North,3501.2427,Low
+CUST_01524,Email,35-44,North,4481.7974,Medium
+CUST_01525,Email,35-44,West,753.481,Low
+CUST_01526,Email,55+,South,4750.3115,Medium
+CUST_01527,Paid Search,55+,North,3610.4038,Low
+CUST_01528,Paid Search,45-54,East,3883.6821,Low
+CUST_01529,Social,45-54,West,2567.4092,Medium
+CUST_01530,Email,25-34,South,4821.157,Medium
+CUST_01531,Paid Search,55+,East,3769.9988,Low
+CUST_01532,Paid Search,45-54,South,3852.397,Low
+CUST_01533,Email,18-24,North,4760.551,Medium
+CUST_01534,Paid Search,55+,West,3854.0442,Medium
+CUST_01535,Social,25-34,West,2547.0874,Low
+CUST_01536,Social,35-44,West,2632.736,Medium
+CUST_01537,Paid Search,35-44,North,4083.2542,Low
+CUST_01538,Referral,55+,East,13880.945,High
+CUST_01539,Paid Search,25-34,East,3872.333,Medium
+CUST_01540,Paid Search,25-34,North,3830.647,Low
+CUST_01541,Organic,18-24,West,6013.268,Medium
+CUST_01542,Email,25-34,North,4533.0444,Medium
+CUST_01543,Organic,18-24,South,5056.739,Medium
+CUST_01544,Paid Search,35-44,West,3553.5825,Low
+CUST_01545,Paid Search,55+,East,3746.4165,Medium
+CUST_01546,Email,35-44,East,4616.7236,Medium
+CUST_01547,Email,55+,South,4788.993,Medium
+CUST_01548,Organic,55+,West,4958.411,Medium
+CUST_01549,Paid Search,18-24,North,3828.619,Medium
+CUST_01550,Organic,35-44,East,4885.7593,Medium
+CUST_01551,Organic,35-44,North,4586.6724,Medium
+CUST_01552,Referral,25-34,North,13277.208,High
+CUST_01553,Paid Search,55+,East,3829.9534,Medium
+CUST_01554,Email,25-34,South,4852.554,Medium
+CUST_01555,Paid Search,18-24,North,3969.0137,Medium
+CUST_01556,Social,35-44,West,2698.4592,Low
+CUST_01557,Email,25-34,South,4996.001,Medium
+CUST_01558,Organic,25-34,West,4336.998,Medium
+CUST_01559,Referral,35-44,North,0.0,Low
+CUST_01560,Email,45-54,North,4577.29,Medium
+CUST_01561,Social,25-34,South,2668.7131,Medium
+CUST_01562,Email,25-34,East,0.0,Low
+CUST_01563,Organic,18-24,South,4813.487,Medium
+CUST_01564,Paid Search,25-34,North,3603.2317,Low
+CUST_01565,Organic,35-44,East,4917.7935,Medium
+CUST_01566,Social,45-54,West,2598.359,Low
+CUST_01567,Organic,25-34,North,4927.271,Medium
+CUST_01568,Email,18-24,South,4673.637,Medium
+CUST_01569,Social,35-44,South,2428.771,Low
+CUST_01570,Paid Search,45-54,East,3749.9688,Medium
+CUST_01571,Social,18-24,North,2913.7502,Low
+CUST_01572,Paid Search,35-44,North,3743.5464,Medium
+CUST_01573,Paid Search,18-24,North,4019.3267,Low
+CUST_01574,Email,35-44,East,4714.2593,Medium
+CUST_01575,Paid Search,45-54,North,4515.1714,Low
+CUST_01576,Email,45-54,East,4746.6133,Medium
+CUST_01577,Social,45-54,South,2476.1965,Low
+CUST_01578,Paid Search,45-54,South,2361.554,Low
+CUST_01579,Social,25-34,West,2694.4639,Low
+CUST_01580,Paid Search,55+,West,3733.776,Medium
+CUST_01581,Social,25-34,West,2850.169,Low
+CUST_01582,Social,25-34,West,2610.578,Low
+CUST_01583,Email,45-54,North,4558.315,Medium
+CUST_01584,Social,25-34,West,2402.8018,Low
+CUST_01585,Organic,18-24,North,4657.404,Medium
+CUST_01586,Social,45-54,South,2638.2405,Medium
+CUST_01587,Email,45-54,East,4560.2812,Medium
+CUST_01588,Email,35-44,East,4626.283,Medium
+CUST_01589,Social,18-24,East,2525.1003,Medium
+CUST_01590,Paid Search,45-54,East,3553.5713,Medium
+CUST_01591,Social,18-24,South,2553.7798,Low
+CUST_01592,Paid Search,35-44,East,3579.2356,Medium
+CUST_01593,Social,35-44,South,2661.8308,Medium
+CUST_01594,Paid Search,45-54,South,406.1331,Low
+CUST_01595,Paid Search,55+,East,3720.888,Medium
+CUST_01596,Organic,18-24,East,4908.0586,Medium
+CUST_01597,Organic,18-24,South,4532.3013,Medium
+CUST_01598,Organic,35-44,North,4554.965,Medium
+CUST_01599,Organic,55+,South,4894.8003,Medium
+CUST_01600,Email,18-24,South,4127.6953,Medium
+CUST_01601,Paid Search,35-44,North,3854.2883,Low
+CUST_01602,Paid Search,35-44,North,3867.6853,Low
+CUST_01603,Email,25-34,West,4621.367,Medium
+CUST_01604,Paid Search,45-54,South,4351.071,Low
+CUST_01605,Organic,25-34,East,4830.396,Medium
+CUST_01606,Paid Search,35-44,North,3517.4663,Medium
+CUST_01607,Paid Search,55+,West,3827.7417,Medium
+CUST_01608,Paid Search,25-34,North,3923.8298,Medium
+CUST_01609,Paid Search,18-24,South,3802.1309,Medium
+CUST_01610,Paid Search,55+,West,6.826785,Low
+CUST_01611,Social,25-34,North,2297.7383,Low
+CUST_01612,Paid Search,45-54,East,3758.2102,Medium
+CUST_01613,Referral,45-54,West,8553.766,Medium
+CUST_01614,Organic,35-44,North,4554.965,Medium
+CUST_01615,Referral,18-24,North,12092.637,High
+CUST_01616,Social,55+,West,2482.1482,Low
+CUST_01617,Email,45-54,South,0.0,Low
+CUST_01618,Paid Search,35-44,West,3937.221,Medium
+CUST_01619,Paid Search,55+,West,3768.3262,Medium
+CUST_01620,Organic,45-54,West,4956.2637,Low
+CUST_01621,Referral,45-54,West,16596.059,High
+CUST_01622,Paid Search,18-24,West,3596.3364,Low
+CUST_01623,Email,45-54,South,4696.7627,Medium
+CUST_01624,Social,25-34,West,364.22433,Low
+CUST_01625,Social,18-24,South,1883.952,Low
+CUST_01626,Referral,25-34,East,14858.92,High
+CUST_01627,Organic,18-24,North,164.12395,Low
+CUST_01628,Social,18-24,West,2625.0806,Medium
+CUST_01629,Referral,45-54,East,14696.828,High
+CUST_01630,Paid Search,35-44,West,3572.6768,Low
+CUST_01631,Paid Search,25-34,South,3970.532,Medium
+CUST_01632,Organic,18-24,South,3920.2822,Low
+CUST_01633,Referral,45-54,East,13884.087,High
+CUST_01634,Email,45-54,West,4493.986,Low
+CUST_01635,Referral,35-44,East,14224.989,High
+CUST_01636,Paid Search,18-24,West,3591.053,Low
+CUST_01637,Social,18-24,North,560.4262,Low
+CUST_01638,Paid Search,18-24,West,3800.224,Medium
+CUST_01639,Social,18-24,East,2524.8794,Medium
+CUST_01640,Email,55+,West,4724.264,Medium
+CUST_01641,Paid Search,25-34,North,387.2582,Low
+CUST_01642,Paid Search,45-54,South,3999.8374,Medium
+CUST_01643,Social,55+,North,2876.915,Medium
+CUST_01644,Paid Search,55+,South,3892.1997,Medium
+CUST_01645,Paid Search,25-34,West,3747.9731,Low
+CUST_01646,Social,35-44,East,2536.0342,Low
+CUST_01647,Email,35-44,West,4696.8096,Medium
+CUST_01648,Email,18-24,East,4510.0664,Medium
+CUST_01649,Paid Search,45-54,West,0.0,Low
+CUST_01650,Organic,35-44,West,5063.54,Medium
+CUST_01651,Paid Search,25-34,East,4367.707,Medium
+CUST_01652,Paid Search,35-44,West,98.51278,Low
+CUST_01653,Paid Search,45-54,North,3834.7168,Medium
+CUST_01654,Paid Search,18-24,East,3936.389,Medium
+CUST_01655,Paid Search,45-54,East,187.44305,Low
+CUST_01656,Paid Search,55+,West,3509.5022,Low
+CUST_01657,Paid Search,45-54,East,3473.7634,Low
+CUST_01658,Email,45-54,North,4406.721,Medium
+CUST_01659,Organic,18-24,East,4744.362,Medium
+CUST_01660,Paid Search,45-54,West,4343.325,Low
+CUST_01661,Paid Search,45-54,North,1980.0833,Low
+CUST_01662,Organic,35-44,North,4899.9585,Low
+CUST_01663,Organic,35-44,East,4677.903,Medium
+CUST_01664,Social,45-54,East,2548.6377,Medium
+CUST_01665,Paid Search,18-24,East,3405.4744,Low
+CUST_01666,Email,25-34,North,4509.3364,Medium
+CUST_01667,Paid Search,45-54,East,4097.621,Low
+CUST_01668,Paid Search,55+,East,4357.6187,Low
+CUST_01669,Email,25-34,West,4531.7124,Medium
+CUST_01670,Referral,35-44,South,12746.074,High
+CUST_01671,Email,55+,South,1781.2998,Low
+CUST_01672,Referral,18-24,North,13907.81,High
+CUST_01673,Paid Search,25-34,East,204.89665,Low
+CUST_01674,Paid Search,18-24,East,4236.67,Low
+CUST_01675,Social,25-34,South,477.8256,Low
+CUST_01676,Organic,45-54,East,4807.6416,Low
+CUST_01677,Paid Search,25-34,West,3975.6875,Medium
+CUST_01678,Referral,55+,North,16020.809,High
+CUST_01679,Paid Search,55+,East,566.65344,Low
+CUST_01680,Paid Search,55+,East,3646.6611,Low
+CUST_01681,Social,45-54,North,2596.7888,Medium
+CUST_01682,Paid Search,45-54,North,3939.193,Medium
+CUST_01683,Email,35-44,South,4401.959,Medium
+CUST_01684,Email,55+,North,3014.5884,Low
+CUST_01685,Paid Search,18-24,South,353.80164,Low
+CUST_01686,Paid Search,45-54,North,4184.4185,Medium
+CUST_01687,Paid Search,18-24,West,4005.6929,Medium
+CUST_01688,Organic,25-34,East,5320.1904,Medium
+CUST_01689,Referral,25-34,South,152.83421,Low
+CUST_01690,Email,45-54,West,4678.827,Medium
+CUST_01691,Paid Search,45-54,North,3699.9192,Low
+CUST_01692,Referral,18-24,East,13463.375,High
+CUST_01693,Paid Search,45-54,East,3743.2542,Medium
+CUST_01694,Email,25-34,West,3351.4275,Low
+CUST_01695,Social,18-24,North,2294.948,Medium
+CUST_01696,Email,35-44,East,4469.131,Medium
+CUST_01697,Paid Search,35-44,West,3925.3508,Medium
+CUST_01698,Paid Search,25-34,West,3806.7812,Medium
+CUST_01699,Paid Search,25-34,North,3726.7253,Medium
+CUST_01700,Email,55+,West,4477.181,Medium
+CUST_01701,Organic,25-34,South,5186.793,Low
+CUST_01702,Paid Search,55+,South,4136.109,Medium
+CUST_01703,Referral,55+,North,13211.188,High
+CUST_01704,Social,25-34,North,2310.3696,Low
+CUST_01705,Paid Search,35-44,South,4244.3125,Low
+CUST_01706,Paid Search,45-54,North,3586.9304,Low
+CUST_01707,Paid Search,35-44,East,3452.9458,Low
+CUST_01708,Social,35-44,East,2578.8745,Medium
+CUST_01709,Email,25-34,South,4728.9844,Medium
+CUST_01710,Social,18-24,East,2947.2744,Low
+CUST_01711,Organic,18-24,East,4859.3354,Medium
+CUST_01712,Social,25-34,North,589.3842,Low
+CUST_01713,Organic,45-54,South,4790.5376,Medium
+CUST_01714,Social,25-34,West,2617.6326,Medium
+CUST_01715,Organic,18-24,North,4501.4497,Medium
+CUST_01716,Social,25-34,West,2585.9053,Medium
+CUST_01717,Social,35-44,West,2391.1914,Medium
+CUST_01718,Social,25-34,South,3068.7039,Low
+CUST_01719,Organic,25-34,South,4975.104,Medium
+CUST_01720,Email,18-24,North,4200.7,Low
+CUST_01721,Referral,25-34,East,16845.166,High
+CUST_01722,Email,25-34,North,3071.391,Low
+CUST_01723,Organic,55+,West,5109.1255,Medium
+CUST_01724,Email,55+,South,1109.6033,Low
+CUST_01725,Social,25-34,West,2701.9592,Medium
+CUST_01726,Social,18-24,West,2667.2073,Medium
+CUST_01727,Organic,18-24,South,5060.6396,Medium
+CUST_01728,Paid Search,25-34,East,3960.509,Medium
+CUST_01729,Social,35-44,North,2387.02,Medium
+CUST_01730,Social,35-44,North,660.7485,Low
+CUST_01731,Organic,25-34,East,4838.0083,Medium
+CUST_01732,Organic,25-34,South,5655.4893,Medium
+CUST_01733,Referral,25-34,South,15347.437,High
+CUST_01734,Referral,35-44,North,12524.775,High
+CUST_01735,Paid Search,45-54,West,4177.145,Medium
+CUST_01736,Organic,18-24,South,4536.5117,Low
+CUST_01737,Paid Search,35-44,South,3837.2952,Medium
+CUST_01738,Social,45-54,South,2397.2427,Medium
+CUST_01739,Social,45-54,South,2667.8286,Medium
+CUST_01740,Email,35-44,East,4651.8823,Medium
+CUST_01741,Paid Search,35-44,West,3414.1772,Medium
+CUST_01742,Paid Search,45-54,East,3480.7114,Low
+CUST_01743,Organic,25-34,North,4765.4014,Medium
+CUST_01744,Email,35-44,West,3212.4824,Low
+CUST_01745,Paid Search,25-34,South,4126.997,Low
+CUST_01746,Social,35-44,North,2686.9395,Medium
+CUST_01747,Paid Search,18-24,North,4377.343,Medium
+CUST_01748,Organic,25-34,West,5168.579,Medium
+CUST_01749,Paid Search,18-24,South,3814.5115,Medium
+CUST_01750,Paid Search,25-34,North,3776.1267,Medium
+CUST_01751,Paid Search,35-44,West,0.0,Low
+CUST_01752,Email,35-44,South,4566.612,Medium
+CUST_01753,Email,55+,West,4479.695,Medium
+CUST_01754,Social,18-24,West,2021.2952,Low
+CUST_01755,Email,55+,North,4391.2793,Medium
+CUST_01756,Paid Search,25-34,East,4236.2104,Low
+CUST_01757,Paid Search,45-54,East,3801.428,Low
+CUST_01758,Paid Search,45-54,North,501.3202,Low
+CUST_01759,Organic,55+,South,4099.949,Low
+CUST_01760,Paid Search,18-24,South,3884.6316,Medium
+CUST_01761,Organic,55+,North,5154.841,Medium
+CUST_01762,Paid Search,18-24,East,3682.2546,Low
+CUST_01763,Paid Search,55+,South,3690.7012,Medium
+CUST_01764,Paid Search,45-54,West,3717.0344,Medium
+CUST_01765,Paid Search,35-44,West,4006.9707,Low
+CUST_01766,Social,25-34,East,2248.747,Low
+CUST_01767,Email,18-24,North,3476.9028,Low
+CUST_01768,Paid Search,55+,North,3802.6382,Medium
+CUST_01769,Social,45-54,North,2489.0002,Medium
+CUST_01770,Referral,55+,South,17196.99,High
+CUST_01771,Organic,45-54,West,5505.48,Low
+CUST_01772,Organic,55+,North,4529.353,Medium
+CUST_01773,Social,55+,East,2528.8667,Low
+CUST_01774,Social,35-44,North,2531.992,Medium
+CUST_01775,Social,45-54,South,2590.892,Medium
+CUST_01776,Email,25-34,East,4531.7124,Medium
+CUST_01777,Social,45-54,West,2653.4167,Medium
+CUST_01778,Paid Search,45-54,West,3601.5786,Low
+CUST_01779,Social,35-44,East,2735.7236,Medium
+CUST_01780,Organic,45-54,North,4959.074,Medium
+CUST_01781,Paid Search,25-34,South,3832.3184,Low
+CUST_01782,Social,45-54,West,2567.4092,Medium
+CUST_01783,Organic,35-44,North,3923.2175,Medium
+CUST_01784,Paid Search,25-34,East,3613.72,Medium
+CUST_01785,Email,55+,East,4471.8906,Medium
+CUST_01786,Organic,18-24,West,4409.006,Medium
+CUST_01787,Organic,45-54,North,4830.462,Medium
+CUST_01788,Paid Search,25-34,North,3781.0386,Low
+CUST_01789,Paid Search,25-34,North,3668.1523,Low
+CUST_01790,Social,18-24,South,2830.3347,Medium
+CUST_01791,Paid Search,18-24,East,3472.9934,Low
+CUST_01792,Paid Search,18-24,North,3969.0137,Medium
+CUST_01793,Paid Search,55+,East,3853.531,Medium
+CUST_01794,Paid Search,55+,North,3911.0427,Low
+CUST_01795,Referral,35-44,East,15358.317,High
+CUST_01796,Social,18-24,South,2408.9841,Medium
+CUST_01797,Referral,55+,West,1932.5076,Medium
+CUST_01798,Social,45-54,South,526.022,Low
+CUST_01799,Email,35-44,West,3646.6633,Low
+CUST_01800,Paid Search,55+,North,3959.632,Low
+CUST_01801,Paid Search,35-44,North,3752.2048,Low
+CUST_01802,Paid Search,25-34,North,3756.9487,Medium
+CUST_01803,Paid Search,45-54,South,4387.1665,Low
+CUST_01804,Paid Search,35-44,West,4258.6606,Medium
+CUST_01805,Paid Search,45-54,North,3625.7476,Low
+CUST_01806,Paid Search,45-54,West,3640.232,Low
+CUST_01807,Social,55+,East,2685.18,Medium
+CUST_01808,Referral,25-34,South,1299.564,Medium
+CUST_01809,Organic,18-24,South,4611.9683,Medium
+CUST_01810,Social,35-44,West,2250.1455,Low
+CUST_01811,Referral,45-54,East,10694.672,High
+CUST_01812,Paid Search,55+,North,4212.2837,Low
+CUST_01813,Referral,25-34,West,16002.852,High
+CUST_01814,Paid Search,45-54,South,4291.4194,Low
+CUST_01815,Email,55+,North,4439.701,Medium
+CUST_01816,Email,55+,West,4546.2485,Medium
+CUST_01817,Email,55+,West,513.08777,Low
+CUST_01818,Paid Search,55+,South,197.185,Low
+CUST_01819,Social,45-54,East,526.3043,Low
+CUST_01820,Social,25-34,North,564.499,Low
+CUST_01821,Social,35-44,West,2176.0415,Low
+CUST_01822,Referral,45-54,South,2439.9897,Medium
+CUST_01823,Email,25-34,South,4715.605,Medium
+CUST_01824,Paid Search,45-54,East,3911.6553,Medium
+CUST_01825,Social,35-44,South,2548.5916,Medium
+CUST_01826,Email,45-54,East,3216.022,Low
+CUST_01827,Paid Search,35-44,East,2397.3848,Low
+CUST_01828,Paid Search,45-54,South,4076.4775,Medium
+CUST_01829,Organic,18-24,West,5156.416,Medium
+CUST_01830,Referral,45-54,South,0.0,Low
+CUST_01831,Email,55+,West,4718.134,Medium
+CUST_01832,Referral,55+,South,13348.886,High
+CUST_01833,Email,55+,East,4607.875,Medium
+CUST_01834,Email,25-34,East,3738.3765,Low
+CUST_01835,Paid Search,18-24,West,1822.0273,Low
+CUST_01836,Email,45-54,North,4708.2935,Medium
+CUST_01837,Social,18-24,North,2698.43,Medium
+CUST_01838,Paid Search,25-34,West,3747.9731,Low
+CUST_01839,Social,45-54,West,2533.927,Medium
+CUST_01840,Paid Search,35-44,East,64.08956,Low
+CUST_01841,Social,45-54,South,2460.2478,Medium
+CUST_01842,Referral,45-54,South,15403.424,High
+CUST_01843,Social,18-24,East,2849.0156,Low
+CUST_01844,Referral,45-54,East,13453.608,High
+CUST_01845,Organic,35-44,South,4528.889,Low
+CUST_01846,Email,35-44,North,4577.737,Medium
+CUST_01847,Social,35-44,North,2536.0342,Low
+CUST_01848,Social,35-44,South,2615.8335,Low
+CUST_01849,Paid Search,35-44,East,171.89252,Low
+CUST_01850,Paid Search,25-34,South,3661.098,Low
+CUST_01851,Email,25-34,East,3350.9844,Low
+CUST_01852,Paid Search,18-24,South,3849.3435,Low
+CUST_01853,Email,25-34,South,4747.311,Medium
+CUST_01854,Email,25-34,East,4562.4995,Medium
+CUST_01855,Referral,35-44,East,14349.29,High
+CUST_01856,Paid Search,55+,West,3465.7673,Low
+CUST_01857,Social,18-24,West,3042.6365,Low
+CUST_01858,Email,25-34,South,4240.2866,Medium
+CUST_01859,Social,18-24,East,2970.701,Low
+CUST_01860,Paid Search,55+,South,3904.5952,Medium
+CUST_01861,Email,45-54,West,597.01294,Low
+CUST_01862,Paid Search,25-34,East,3554.4854,Medium
+CUST_01863,Social,35-44,West,2744.5583,Low
+CUST_01864,Paid Search,45-54,South,4291.4194,Low
+CUST_01865,Organic,55+,North,4663.713,Low
+CUST_01866,Paid Search,35-44,North,3897.591,Medium
+CUST_01867,Referral,25-34,East,16080.208,High
+CUST_01868,Paid Search,45-54,West,3722.0803,Low
+CUST_01869,Referral,45-54,East,18494.918,High
+CUST_01870,Email,45-54,West,3415.2979,Low
+CUST_01871,Email,18-24,South,1441.0553,Low
+CUST_01872,Paid Search,45-54,West,3989.9634,Low
+CUST_01873,Paid Search,18-24,West,3880.2104,Low
+CUST_01874,Paid Search,55+,North,351.63242,Low
+CUST_01875,Organic,55+,West,5651.556,Low
+CUST_01876,Email,35-44,North,4556.686,Medium
+CUST_01877,Paid Search,45-54,East,3880.5562,Medium
+CUST_01878,Organic,18-24,South,5366.877,Medium
+CUST_01879,Paid Search,55+,South,3744.4878,Low
+CUST_01880,Email,25-34,West,4655.165,Medium
+CUST_01881,Social,25-34,East,2534.837,Medium
+CUST_01882,Organic,45-54,North,4835.591,Low
+CUST_01883,Social,55+,North,2324.1401,Low
+CUST_01884,Email,35-44,North,4702.789,Medium
+CUST_01885,Organic,35-44,South,4798.473,Medium
+CUST_01886,Paid Search,35-44,North,4045.73,Low
+CUST_01887,Organic,25-34,South,3964.3445,Low
+CUST_01888,Social,35-44,West,2334.4976,Low
+CUST_01889,Organic,55+,West,4958.411,Medium
+CUST_01890,Paid Search,25-34,West,3859.3147,Medium
+CUST_01891,Paid Search,45-54,South,3821.9531,Low
+CUST_01892,Social,45-54,East,2694.3281,Low
+CUST_01893,Email,55+,West,4738.7295,Medium
+CUST_01894,Email,45-54,North,4337.235,Medium
+CUST_01895,Organic,55+,West,5091.2153,Medium
+CUST_01896,Referral,45-54,East,6569.288,Medium
+CUST_01897,Paid Search,55+,South,3750.6821,Medium
+CUST_01898,Email,45-54,South,4690.6323,Medium
+CUST_01899,Paid Search,55+,South,22.490482,Low
+CUST_01900,Paid Search,55+,North,3437.013,Medium
+CUST_01901,Paid Search,55+,North,3959.632,Low
+CUST_01902,Social,35-44,South,2760.682,Low
+CUST_01903,Social,45-54,North,839.948,Low
+CUST_01904,Email,55+,East,0.0,Low
+CUST_01905,Email,25-34,South,4500.158,Medium
+CUST_01906,Social,18-24,South,2709.4026,Low
+CUST_01907,Social,55+,North,2467.3228,Medium
+CUST_01908,Organic,45-54,West,5088.603,Low
+CUST_01909,Email,35-44,East,4632.4136,Medium
+CUST_01910,Social,45-54,South,2726.8242,Low
+CUST_01911,Email,18-24,East,4933.2246,Medium
+CUST_01912,Email,35-44,South,4646.215,Medium
+CUST_01913,Organic,25-34,North,5270.9565,Medium
+CUST_01914,Email,25-34,East,4617.446,Medium
+CUST_01915,Email,55+,West,4805.242,Medium
+CUST_01916,Paid Search,35-44,East,3917.7112,Medium
+CUST_01917,Email,18-24,East,4540.4526,Medium
+CUST_01918,Email,25-34,North,4628.2817,Medium
+CUST_01919,Social,25-34,East,2794.1992,Medium
+CUST_01920,Email,55+,East,4018.2358,Low
+CUST_01921,Paid Search,25-34,South,3624.5168,Low
+CUST_01922,Organic,25-34,North,2752.329,Low
+CUST_01923,Paid Search,25-34,West,3951.122,Low
+CUST_01924,Organic,18-24,South,5206.1445,Low
+CUST_01925,Paid Search,45-54,South,3982.0605,Medium
+CUST_01926,Referral,35-44,East,0.0,Low
+CUST_01927,Email,35-44,South,4610.3774,Medium
+CUST_01928,Social,25-34,East,2795.3818,Low
+CUST_01929,Paid Search,45-54,East,4109.547,Medium
+CUST_01930,Organic,18-24,South,3349.9258,Medium
+CUST_01931,Email,55+,North,4583.6978,Medium
+CUST_01932,Referral,35-44,North,14104.323,High
+CUST_01933,Email,25-34,West,4480.312,Medium
+CUST_01934,Paid Search,35-44,East,3734.867,Medium
+CUST_01935,Email,55+,South,4668.4233,Medium
+CUST_01936,Paid Search,18-24,South,4136.686,Low
+CUST_01937,Paid Search,35-44,East,3779.3267,Low
+CUST_01938,Referral,35-44,West,14129.72,High
+CUST_01939,Email,55+,West,1740.6794,Low
+CUST_01940,Paid Search,35-44,East,3839.3433,Medium
+CUST_01941,Paid Search,45-54,South,3660.2715,Low
+CUST_01942,Paid Search,45-54,West,3886.379,Low
+CUST_01943,Paid Search,55+,West,3534.2693,Low
+CUST_01944,Referral,25-34,South,14752.765,High
+CUST_01945,Paid Search,45-54,West,3571.2056,Medium
+CUST_01946,Organic,25-34,West,5162.524,Low
+CUST_01947,Paid Search,55+,West,43.161377,Low
+CUST_01948,Paid Search,55+,North,3663.4026,Low
+CUST_01949,Organic,25-34,North,428.14273,Low
+CUST_01950,Paid Search,35-44,South,3691.6213,Medium
+CUST_01951,Email,55+,West,4568.7476,Medium
+CUST_01952,Organic,18-24,North,5193.515,Medium
+CUST_01953,Organic,45-54,North,3363.2847,Medium
+CUST_01954,Social,55+,North,2566.9148,Low
+CUST_01955,Paid Search,55+,North,3692.1165,Low
+CUST_01956,Referral,18-24,West,16524.797,High
+CUST_01957,Organic,45-54,East,4632.821,Medium
+CUST_01958,Organic,45-54,East,5594.257,Medium
+CUST_01959,Paid Search,18-24,South,4040.8496,Low
+CUST_01960,Email,45-54,East,1986.1044,Low
+CUST_01961,Paid Search,45-54,West,4048.3813,Medium
+CUST_01962,Paid Search,55+,East,3484.142,Low
+CUST_01963,Social,18-24,West,3066.3176,Medium
+CUST_01964,Paid Search,55+,East,3317.578,Low
+CUST_01965,Paid Search,35-44,South,3985.8706,Medium
+CUST_01966,Paid Search,25-34,East,199.47684,Low
+CUST_01967,Email,25-34,West,141.61485,Low
+CUST_01968,Paid Search,45-54,West,4038.5032,Medium
+CUST_01969,Email,55+,South,4949.574,Medium
+CUST_01970,Paid Search,25-34,East,3436.353,Medium
+CUST_01971,Organic,55+,West,5028.465,Medium
+CUST_01972,Paid Search,45-54,East,3653.9292,Medium
+CUST_01973,Email,18-24,East,0.0,Low
+CUST_01974,Paid Search,35-44,South,3731.2437,Low
+CUST_01975,Paid Search,55+,West,3804.164,Medium
+CUST_01976,Paid Search,18-24,West,3851.0906,Medium
+CUST_01977,Paid Search,18-24,North,3750.7324,Medium
+CUST_01978,Paid Search,18-24,North,4410.357,Low
+CUST_01979,Email,35-44,North,4704.198,Medium
+CUST_01980,Social,18-24,South,2482.2495,Low
+CUST_01981,Paid Search,55+,North,3885.5781,Medium
+CUST_01982,Email,18-24,West,4810.9883,Medium
+CUST_01983,Referral,18-24,West,12654.966,High
+CUST_01984,Paid Search,25-34,North,4206.7637,Medium
+CUST_01985,Email,45-54,West,4698.296,Medium
+CUST_01986,Paid Search,55+,North,4205.263,Low
+CUST_01987,Paid Search,25-34,West,3749.4575,Low
+CUST_01988,Email,35-44,South,4652.345,Medium
+CUST_01989,Organic,45-54,North,4881.8623,Medium
+CUST_01990,Organic,45-54,South,3478.32,Low
+CUST_01991,Organic,18-24,West,5015.1753,Low
+CUST_01992,Email,55+,West,4447.804,Medium
+CUST_01993,Paid Search,55+,North,3851.0398,Medium
+CUST_01994,Paid Search,45-54,West,3824.6802,Medium
+CUST_01995,Paid Search,35-44,South,37.133625,Low
+CUST_01996,Paid Search,25-34,South,3919.1543,Low
+CUST_01997,Paid Search,55+,North,3741.9744,Medium
+CUST_01998,Email,55+,West,4498.8726,Medium
+CUST_01999,Paid Search,35-44,West,3954.3735,Low
+CUST_02000,Paid Search,45-54,East,3522.4106,Medium
+CUST_02001,Social,25-34,East,2666.1213,Medium
+CUST_02002,Email,45-54,West,4596.908,Medium
+CUST_02003,Organic,18-24,North,5146.497,Low
+CUST_02004,Paid Search,55+,North,3536.3796,Low
+CUST_02005,Email,35-44,North,4743.6694,Medium
+CUST_02006,Paid Search,35-44,South,4332.4487,Low
+CUST_02007,Email,18-24,South,4717.023,Medium
+CUST_02008,Paid Search,35-44,North,4021.5125,Low
+CUST_02009,Paid Search,18-24,East,3967.437,Medium
+CUST_02010,Referral,55+,North,10523.731,High
+CUST_02011,Paid Search,45-54,West,3939.8845,Medium
+CUST_02012,Paid Search,35-44,East,3718.9397,Medium
+CUST_02013,Organic,55+,West,4442.9116,Low
+CUST_02014,Paid Search,55+,North,1494.08,Low
+CUST_02015,Referral,18-24,West,15710.733,High
+CUST_02016,Email,18-24,East,4656.4995,Medium
+CUST_02017,Paid Search,25-34,West,4025.883,Low
+CUST_02018,Email,18-24,East,4691.0376,Medium
+CUST_02019,Paid Search,35-44,East,3718.9397,Medium
+CUST_02020,Social,35-44,North,1965.7356,Low
+CUST_02021,Paid Search,35-44,East,3779.6816,Low
+CUST_02022,Paid Search,18-24,South,3767.1917,Medium
+CUST_02023,Paid Search,55+,West,3902.322,Low
+CUST_02024,Organic,55+,East,4789.96,Low
+CUST_02025,Social,35-44,North,2370.6914,Low
+CUST_02026,Organic,18-24,West,5000.5947,Medium
+CUST_02027,Social,25-34,North,2652.2102,Low
+CUST_02028,Social,45-54,South,2760.9163,Medium
+CUST_02029,Email,45-54,North,4465.7314,Low
+CUST_02030,Organic,25-34,West,5121.7344,Medium
+CUST_02031,Email,55+,North,3957.2405,Low
+CUST_02032,Email,55+,West,4557.5664,Medium
+CUST_02033,Referral,35-44,North,0.0,Low
+CUST_02034,Email,25-34,East,4571.3643,Medium
+CUST_02035,Paid Search,35-44,North,502.68964,Low
+CUST_02036,Email,18-24,South,4697.079,Medium
+CUST_02037,Paid Search,35-44,East,3553.171,Low
+CUST_02038,Social,18-24,East,428.68167,Low
+CUST_02039,Email,18-24,West,4662.63,Medium
+CUST_02040,Social,35-44,West,2273.7668,Low
+CUST_02041,Email,35-44,East,4571.6064,Medium
+CUST_02042,Social,55+,South,2688.5488,Medium
+CUST_02043,Paid Search,35-44,South,3887.617,Low
+CUST_02044,Organic,55+,West,4977.5796,Medium
+CUST_02045,Email,55+,East,4557.8984,Medium
+CUST_02046,Paid Search,25-34,West,3365.3354,Low
+CUST_02047,Paid Search,55+,South,3785.6213,Medium
+CUST_02048,Paid Search,35-44,South,3619.2056,Low
+CUST_02049,Email,35-44,West,4694.3335,Medium
+CUST_02050,Social,18-24,East,2551.523,Low
+CUST_02051,Organic,25-34,North,5020.5405,Medium
+CUST_02052,Social,35-44,East,2809.4758,Low
+CUST_02053,Email,25-34,North,4702.4536,Medium
+CUST_02054,Email,35-44,West,4469.7573,Medium
+CUST_02055,Social,18-24,North,2601.2107,Medium
+CUST_02056,Social,25-34,West,2684.4119,Low
+CUST_02057,Paid Search,45-54,West,3717.0344,Medium
+CUST_02058,Organic,45-54,North,5077.6,Low
+CUST_02059,Email,55+,East,4607.875,Medium
+CUST_02060,Social,55+,North,524.5078,Low
+CUST_02061,Organic,55+,South,5217.9106,Medium
+CUST_02062,Social,18-24,South,2728.404,Low
+CUST_02063,Paid Search,45-54,East,4319.261,Low
+CUST_02064,Referral,25-34,West,15097.599,High
+CUST_02065,Paid Search,25-34,South,3604.4937,Medium
+CUST_02066,Social,25-34,South,2921.7612,Low
+CUST_02067,Paid Search,35-44,North,3780.59,Medium
+CUST_02068,Social,18-24,West,2648.757,Low
+CUST_02069,Organic,35-44,South,4644.198,Medium
+CUST_02070,Paid Search,18-24,South,3915.1843,Medium
+CUST_02071,Email,35-44,North,4726.4126,Medium
+CUST_02072,Referral,45-54,South,10419.994,High
+CUST_02073,Email,18-24,East,3587.7893,Low
+CUST_02074,Paid Search,18-24,West,4177.4053,Low
+CUST_02075,Paid Search,55+,South,3311.7712,Low
+CUST_02076,Email,45-54,East,4634.27,Medium
+CUST_02077,Referral,25-34,West,15845.611,High
+CUST_02078,Referral,55+,South,15664.093,High
+CUST_02079,Paid Search,25-34,South,317.8835,Low
+CUST_02080,Email,55+,North,4525.709,Medium
+CUST_02081,Email,18-24,West,4644.104,Medium
+CUST_02082,Paid Search,45-54,North,3674.7246,Medium
+CUST_02083,Social,18-24,North,2505.2715,Medium
+CUST_02084,Paid Search,18-24,North,4275.24,Low
+CUST_02085,Email,35-44,East,0.0,Low
+CUST_02086,Organic,18-24,South,4837.123,Medium
+CUST_02087,Email,35-44,East,4416.967,Medium
+CUST_02088,Referral,25-34,East,15504.431,High
+CUST_02089,Paid Search,18-24,North,3583.7542,Medium
+CUST_02090,Paid Search,55+,South,4364.326,Low
+CUST_02091,Paid Search,55+,North,1367.4878,Low
+CUST_02092,Social,55+,North,2310.4055,Low
+CUST_02093,Social,18-24,South,2782.9807,Low
+CUST_02094,Paid Search,25-34,South,3617.6072,Low
+CUST_02095,Paid Search,25-34,North,3641.1272,Low
+CUST_02096,Paid Search,25-34,South,3782.621,Medium
+CUST_02097,Referral,35-44,South,15902.7,High
+CUST_02098,Referral,35-44,West,15743.222,High
+CUST_02099,Social,35-44,East,2809.4758,Low
+CUST_02100,Organic,25-34,South,4787.0444,Low
+CUST_02101,Paid Search,55+,South,4364.326,Low
+CUST_02102,Social,55+,North,2704.8665,Medium
+CUST_02103,Referral,25-34,South,8997.391,Medium
+CUST_02104,Paid Search,25-34,East,4238.3984,Low
+CUST_02105,Organic,35-44,North,5152.6733,Medium
+CUST_02106,Paid Search,25-34,West,3735.5305,Medium
+CUST_02107,Social,55+,East,2646.0137,Low
+CUST_02108,Social,35-44,West,2832.3386,Low
+CUST_02109,Organic,18-24,South,5352.9526,Medium
+CUST_02110,Email,18-24,West,4682.4834,Medium
+CUST_02111,Paid Search,18-24,South,3643.416,Medium
+CUST_02112,Social,25-34,West,2809.083,Low
+CUST_02113,Social,25-34,East,2271.163,Low
+CUST_02114,Email,55+,East,4526.299,Medium
+CUST_02115,Social,55+,North,2386.52,Low
+CUST_02116,Paid Search,18-24,West,4018.3035,Medium
+CUST_02117,Referral,55+,North,13315.051,High
+CUST_02118,Organic,35-44,North,765.77844,Low
+CUST_02119,Paid Search,25-34,South,3951.0222,Medium
+CUST_02120,Email,35-44,West,4320.412,Low
+CUST_02121,Organic,35-44,West,4016.695,Low
+CUST_02122,Social,18-24,West,2611.9111,Medium
+CUST_02123,Organic,55+,East,3315.1008,Low
+CUST_02124,Email,18-24,West,4067.6272,Medium
+CUST_02125,Organic,18-24,South,4951.2837,Medium
+CUST_02126,Paid Search,25-34,South,2993.829,Low
+CUST_02127,Email,18-24,North,4544.375,Medium
+CUST_02128,Email,18-24,West,4933.2246,Medium
+CUST_02129,Social,25-34,South,382.37994,Low
+CUST_02130,Organic,25-34,North,4786.5933,Medium
+CUST_02131,Social,18-24,South,2804.9114,Low
+CUST_02132,Referral,55+,East,10018.756,Medium
+CUST_02133,Email,55+,South,34.399162,Low
+CUST_02134,Email,45-54,South,4544.199,Medium
+CUST_02135,Email,35-44,South,3825.6907,Low
+CUST_02136,Paid Search,55+,East,3829.9534,Medium
+CUST_02137,Email,25-34,East,4501.4893,Medium
+CUST_02138,Organic,35-44,East,5215.603,Medium
+CUST_02139,Social,18-24,North,2662.6973,Medium
+CUST_02140,Social,45-54,South,2552.311,Low
+CUST_02141,Email,18-24,East,4576.5645,Medium
+CUST_02142,Email,45-54,North,4935.5117,Low
+CUST_02143,Paid Search,45-54,North,3705.7634,Low
+CUST_02144,Email,25-34,South,0.0,Low
+CUST_02145,Email,45-54,East,4641.37,Medium
+CUST_02146,Paid Search,25-34,East,181.37134,Low
+CUST_02147,Paid Search,25-34,North,4228.1724,Low
+CUST_02148,Social,35-44,East,2610.5645,Low
+CUST_02149,Email,25-34,North,4518.7007,Medium
+CUST_02150,Email,45-54,East,4504.1646,Medium
+CUST_02151,Paid Search,25-34,East,3753.2576,Medium
+CUST_02152,Email,35-44,North,4632.4136,Medium
+CUST_02153,Email,55+,South,4669.178,Medium
+CUST_02154,Email,25-34,West,4086.8167,Low
+CUST_02155,Referral,35-44,South,0.0,Low
+CUST_02156,Paid Search,55+,East,3713.0747,Low
+CUST_02157,Organic,25-34,East,4884.738,Medium
+CUST_02158,Paid Search,18-24,North,3723.0447,Medium
+CUST_02159,Email,25-34,West,4493.283,Medium
+CUST_02160,Paid Search,55+,South,3775.463,Low
+CUST_02161,Email,45-54,West,4371.2217,Medium
+CUST_02162,Paid Search,55+,South,4056.3003,Low
+CUST_02163,Organic,25-34,East,4551.92,Medium
+CUST_02164,Email,55+,South,4414.0293,Medium
+CUST_02165,Referral,25-34,West,10847.851,High
+CUST_02166,Paid Search,45-54,North,3748.9111,Medium
+CUST_02167,Paid Search,55+,West,3902.322,Low
+CUST_02168,Email,25-34,North,4518.498,Medium
+CUST_02169,Email,55+,West,4562.617,Medium
+CUST_02170,Email,45-54,North,270.42172,Low
+CUST_02171,Organic,45-54,North,5301.7153,Low
+CUST_02172,Social,45-54,North,2644.942,Medium
+CUST_02173,Organic,18-24,East,4820.7295,Low
+CUST_02174,Paid Search,45-54,South,3742.1455,Low
+CUST_02175,Social,25-34,East,2655.789,Medium
+CUST_02176,Referral,25-34,West,15705.234,High
+CUST_02177,Referral,18-24,North,13154.601,High
+CUST_02178,Organic,18-24,East,4423.8516,Low
+CUST_02179,Social,55+,East,423.9438,Low
+CUST_02180,Organic,25-34,South,5458.6523,Medium
+CUST_02181,Social,25-34,West,992.81793,Low
+CUST_02182,Paid Search,35-44,East,3690.016,Medium
+CUST_02183,Social,45-54,North,839.948,Low
+CUST_02184,Email,35-44,East,4491.6714,Medium
+CUST_02185,Organic,35-44,South,4773.452,Low
+CUST_02186,Social,55+,North,2555.8914,Low
+CUST_02187,Paid Search,35-44,West,18.680006,Low
+CUST_02188,Paid Search,45-54,North,3952.2515,Medium
+CUST_02189,Paid Search,55+,North,3802.6382,Medium
+CUST_02190,Email,45-54,North,4773.6885,Medium
+CUST_02191,Paid Search,18-24,West,3839.0552,Medium
+CUST_02192,Social,25-34,East,2719.422,Low
+CUST_02193,Referral,45-54,West,14119.594,High
+CUST_02194,Social,35-44,South,2637.7947,Low
+CUST_02195,Paid Search,25-34,North,3923.8298,Medium
+CUST_02196,Email,25-34,South,4795.517,Medium
+CUST_02197,Paid Search,18-24,North,4050.1482,Low
+CUST_02198,Organic,25-34,East,63.63388,Low
+CUST_02199,Paid Search,45-54,South,224.32755,Low
+CUST_02200,Paid Search,18-24,West,4074.0217,Low
+CUST_02201,Paid Search,55+,South,4241.001,Medium
+CUST_02202,Social,25-34,South,333.1231,Low
+CUST_02203,Paid Search,55+,West,3683.8438,Medium
+CUST_02204,Referral,25-34,East,15944.292,High
+CUST_02205,Social,55+,North,2431.1533,Low
+CUST_02206,Social,35-44,South,2723.5657,Medium
+CUST_02207,Paid Search,55+,South,4085.0405,Medium
+CUST_02208,Paid Search,18-24,East,3900.4492,Low
+CUST_02209,Email,45-54,East,4609.682,Medium
+CUST_02210,Paid Search,25-34,East,4104.541,Medium
+CUST_02211,Social,25-34,West,1993.1321,Low
+CUST_02212,Email,18-24,East,4435.88,Medium
+CUST_02213,Email,55+,South,4736.695,Medium
+CUST_02214,Paid Search,45-54,North,4367.2344,Low
+CUST_02215,Referral,55+,East,17219.549,High
+CUST_02216,Paid Search,35-44,South,3985.8706,Medium
+CUST_02217,Social,18-24,South,415.17197,Low
+CUST_02218,Paid Search,25-34,West,3545.8691,Low
+CUST_02219,Organic,35-44,West,4660.072,Low
+CUST_02220,Social,18-24,South,2613.51,Medium
+CUST_02221,Paid Search,55+,East,3399.0095,Low
+CUST_02222,Paid Search,55+,West,231.0821,Low
+CUST_02223,Paid Search,35-44,North,368.34756,Low
+CUST_02224,Paid Search,35-44,South,3270.1223,Low
+CUST_02225,Paid Search,45-54,East,3901.9683,Medium
+CUST_02226,Organic,45-54,South,5316.327,Medium
+CUST_02227,Referral,18-24,West,9357.969,High
+CUST_02228,Paid Search,35-44,South,3770.43,Medium
+CUST_02229,Referral,45-54,North,8539.406,High
+CUST_02230,Paid Search,55+,South,4183.9536,Low
+CUST_02231,Organic,35-44,South,5246.9985,Medium
+CUST_02232,Paid Search,55+,West,3703.0217,Medium
+CUST_02233,Social,35-44,North,2527.468,Medium
+CUST_02234,Social,25-34,North,2793.0552,Low
+CUST_02235,Paid Search,35-44,North,3780.55,Medium
+CUST_02236,Paid Search,45-54,East,4165.628,Low
+CUST_02237,Email,55+,West,4167.888,Low
+CUST_02238,Organic,25-34,East,194.6649,Low
+CUST_02239,Email,25-34,West,0.0,Low
+CUST_02240,Social,45-54,West,2828.354,Medium
+CUST_02241,Social,45-54,East,2748.3557,Medium
+CUST_02242,Social,25-34,East,2682.8428,Low
+CUST_02243,Email,45-54,North,889.57056,Medium
+CUST_02244,Email,18-24,West,4245.571,Low
+CUST_02245,Social,25-34,West,1064.7716,Low
+CUST_02246,Paid Search,55+,West,3873.7527,Low
+CUST_02247,Organic,35-44,West,5301.0366,Medium
+CUST_02248,Paid Search,55+,South,3785.6213,Medium
+CUST_02249,Paid Search,25-34,North,405.3637,Low
+CUST_02250,Social,25-34,West,2996.1118,Medium
+CUST_02251,Paid Search,55+,South,3436.0068,Low
+CUST_02252,Paid Search,55+,West,3743.7341,Low
+CUST_02253,Paid Search,55+,East,3849.423,Medium
+CUST_02254,Email,25-34,South,4624.7285,Medium
+CUST_02255,Social,55+,South,1855.8029,Low
+CUST_02256,Paid Search,35-44,East,181.94452,Low
+CUST_02257,Paid Search,55+,South,463.31836,Low
+CUST_02258,Email,55+,South,3379.2957,Low
+CUST_02259,Organic,35-44,North,4618.303,Medium
+CUST_02260,Paid Search,25-34,East,4029.8057,Low
+CUST_02261,Organic,55+,North,4983.4185,Low
+CUST_02262,Organic,35-44,North,4608.6206,Medium
+CUST_02263,Paid Search,35-44,North,3299.3762,Low
+CUST_02264,Social,45-54,East,2219.4443,Low
+CUST_02265,Social,55+,North,1225.8802,Low
+CUST_02266,Email,18-24,South,3117.9302,Low
+CUST_02267,Email,55+,North,4336.844,Medium
+CUST_02268,Social,35-44,East,2917.0583,Low
+CUST_02269,Social,18-24,North,2600.0283,Low
+CUST_02270,Social,25-34,North,2570.6562,Medium
+CUST_02271,Organic,35-44,South,5177.876,Low
+CUST_02272,Email,45-54,East,4676.238,Medium
+CUST_02273,Social,35-44,North,598.3088,Low
+CUST_02274,Organic,18-24,South,4825.406,Medium
+CUST_02275,Paid Search,35-44,West,3851.503,Medium
+CUST_02276,Paid Search,25-34,East,3614.3276,Medium
+CUST_02277,Email,25-34,West,4570.359,Medium
+CUST_02278,Organic,45-54,South,4971.924,Medium
+CUST_02279,Paid Search,55+,West,2846.2883,Low
+CUST_02280,Social,18-24,North,2656.6353,Low
+CUST_02281,Paid Search,45-54,East,3734.6877,Medium
+CUST_02282,Email,35-44,South,3354.2466,Low
+CUST_02283,Referral,25-34,North,16392.16,High
+CUST_02284,Paid Search,45-54,West,3736.5442,Medium
+CUST_02285,Organic,25-34,East,200.08469,Low
+CUST_02286,Paid Search,45-54,North,3748.9111,Medium
+CUST_02287,Organic,35-44,North,4989.965,Low
+CUST_02288,Paid Search,18-24,East,4106.5894,Medium
+CUST_02289,Organic,45-54,East,5732.8916,Medium
+CUST_02290,Referral,55+,North,13582.971,High
+CUST_02291,Paid Search,35-44,West,4131.9404,Low
+CUST_02292,Paid Search,45-54,East,3775.1445,Medium
+CUST_02293,Paid Search,18-24,South,4945.8896,Low
+CUST_02294,Referral,25-34,North,14016.267,High
+CUST_02295,Social,25-34,South,2960.077,Medium
+CUST_02296,Email,45-54,South,4513.2065,Medium
+CUST_02297,Email,25-34,North,4608.772,Medium
+CUST_02298,Referral,45-54,South,17197.832,High
+CUST_02299,Email,25-34,North,4509.3364,Medium
+CUST_02300,Social,45-54,North,776.29767,Low
+CUST_02301,Email,25-34,North,4608.772,Medium
+CUST_02302,Social,35-44,South,2570.3215,Low
+CUST_02303,Organic,18-24,South,4837.123,Medium
+CUST_02304,Email,45-54,South,8.410833,Low
+CUST_02305,Paid Search,18-24,East,3714.2166,Medium
+CUST_02306,Paid Search,55+,East,3829.9534,Medium
+CUST_02307,Referral,55+,North,15447.472,High
+CUST_02308,Paid Search,35-44,West,3971.9524,Medium
+CUST_02309,Organic,55+,East,4511.6274,Medium
+CUST_02310,Referral,55+,South,15611.411,High
+CUST_02311,Email,18-24,North,4231.0674,Medium
+CUST_02312,Social,45-54,West,2926.4695,Low
+CUST_02313,Paid Search,25-34,East,289.36182,Low
+CUST_02314,Social,55+,South,3041.3984,Low
+CUST_02315,Paid Search,55+,North,3231.306,Low
+CUST_02316,Referral,55+,North,14203.081,High
+CUST_02317,Organic,35-44,South,4483.033,Low
+CUST_02318,Social,18-24,North,2972.2407,Low
+CUST_02319,Organic,18-24,North,4776.748,Medium
+CUST_02320,Email,18-24,South,4564.989,Medium
+CUST_02321,Social,55+,North,2598.3464,Medium
+CUST_02322,Referral,35-44,South,15974.747,High
+CUST_02323,Referral,25-34,West,17493.023,High
+CUST_02324,Paid Search,35-44,West,3851.503,Medium
+CUST_02325,Paid Search,18-24,North,3750.7324,Medium
+CUST_02326,Referral,35-44,East,14208.463,High
+CUST_02327,Paid Search,35-44,West,4015.97,Low
+CUST_02328,Social,45-54,East,2614.3176,Medium
+CUST_02329,Social,18-24,South,1918.962,Low
+CUST_02330,Organic,55+,South,5132.027,Medium
+CUST_02331,Paid Search,18-24,North,3938.6033,Medium
+CUST_02332,Organic,35-44,South,5148.865,Medium
+CUST_02333,Paid Search,25-34,West,3486.8308,Medium
+CUST_02334,Email,45-54,East,4670.1074,Medium
+CUST_02335,Social,45-54,South,2727.1418,Low
+CUST_02336,Paid Search,18-24,North,3969.0137,Medium
+CUST_02337,Paid Search,35-44,West,4053.4941,Low
+CUST_02338,Paid Search,35-44,North,3061.8904,Low
+CUST_02339,Email,35-44,East,4475.297,Medium
+CUST_02340,Social,18-24,South,477.8256,Low
+CUST_02341,Paid Search,18-24,South,3853.1992,Medium
+CUST_02342,Paid Search,35-44,North,3714.2988,Low
+CUST_02343,Referral,25-34,South,8177.995,High
+CUST_02344,Paid Search,35-44,East,3708.105,Medium
+CUST_02345,Social,18-24,South,2507.8794,Low
+CUST_02346,Organic,45-54,North,4844.819,Medium
+CUST_02347,Social,18-24,South,2582.7625,Medium
+CUST_02348,Organic,45-54,North,4168.883,Low
+CUST_02349,Email,55+,South,4669.178,Medium
+CUST_02350,Social,25-34,West,2630.0032,Medium
+CUST_02351,Paid Search,18-24,West,3761.5364,Medium
+CUST_02352,Paid Search,18-24,West,4182.0757,Medium
+CUST_02353,Social,25-34,North,2633.6519,Medium
+CUST_02354,Paid Search,18-24,South,3661.098,Low
+CUST_02355,Organic,55+,North,4686.2217,Low
+CUST_02356,Social,55+,South,2754.5686,Low
+CUST_02357,Organic,55+,East,5069.0645,Medium
+CUST_02358,Paid Search,55+,West,3467.8716,Medium
+CUST_02359,Email,35-44,South,4566.28,Medium
+CUST_02360,Social,25-34,North,2601.3125,Low
+CUST_02361,Paid Search,35-44,South,4060.2314,Low
+CUST_02362,Email,25-34,South,4074.4749,Low
+CUST_02363,Social,55+,East,2460.0718,Low
+CUST_02364,Organic,35-44,North,4203.896,Medium
+CUST_02365,Social,25-34,East,2575.1726,Low
+CUST_02366,Paid Search,45-54,South,3776.9734,Low
+CUST_02367,Email,25-34,East,4636.9556,Medium
+CUST_02368,Referral,25-34,West,14963.859,High
+CUST_02369,Paid Search,25-34,North,4323.616,Low
+CUST_02370,Email,18-24,West,3396.6113,Low
+CUST_02371,Paid Search,18-24,North,4065.3481,Low
+CUST_02372,Paid Search,35-44,West,3490.561,Medium
+CUST_02373,Email,55+,South,4627.2104,Medium
+CUST_02374,Paid Search,25-34,East,3367.9565,Low
+CUST_02375,Referral,45-54,West,14688.338,High
+CUST_02376,Paid Search,25-34,East,3902.7434,Medium
+CUST_02377,Social,25-34,South,2403.4478,Low
+CUST_02378,Paid Search,18-24,West,3375.509,Low
+CUST_02379,Organic,35-44,South,4237.1245,Medium
+CUST_02380,Paid Search,45-54,East,2772.2476,Low
+CUST_02381,Email,25-34,East,4401.999,Medium
+CUST_02382,Paid Search,35-44,South,303.80487,Low
+CUST_02383,Paid Search,35-44,North,3951.2036,Low
+CUST_02384,Email,25-34,South,4794.3203,Low
+CUST_02385,Social,45-54,West,2473.2163,Low
+CUST_02386,Organic,35-44,East,4185.274,Medium
+CUST_02387,Paid Search,18-24,East,4166.6636,Medium
+CUST_02388,Paid Search,35-44,South,3416.2856,Low
+CUST_02389,Social,25-34,East,2335.3997,Low
+CUST_02390,Referral,45-54,South,1452.964,Low
+CUST_02391,Paid Search,25-34,North,3756.617,Medium
+CUST_02392,Social,55+,North,2334.1978,Low
+CUST_02393,Email,45-54,South,4351.2983,Medium
+CUST_02394,Social,18-24,East,2566.2502,Low
+CUST_02395,Email,35-44,South,4597.6685,Medium
+CUST_02396,Email,55+,North,4608.5156,Medium
+CUST_02397,Paid Search,25-34,South,3833.6895,Medium
+CUST_02398,Social,45-54,South,2676.8997,Medium
+CUST_02399,Paid Search,45-54,East,3961.5354,Medium
+CUST_02400,Social,45-54,South,2377.23,Low
+CUST_02401,Social,18-24,South,2814.1604,Low
+CUST_02402,Social,25-34,North,2778.3528,Low
+CUST_02403,Paid Search,25-34,East,3703.972,Medium
+CUST_02404,Paid Search,25-34,West,3834.4824,Low
+CUST_02405,Email,55+,East,4552.569,Medium
+CUST_02406,Referral,18-24,South,17902.504,High
+CUST_02407,Organic,35-44,South,4824.6094,Low
+CUST_02408,Email,55+,South,4670.596,Medium
+CUST_02409,Organic,55+,North,2200.6497,Medium
+CUST_02410,Paid Search,45-54,North,3971.0835,Medium
+CUST_02411,Email,55+,West,4431.273,Medium
+CUST_02412,Paid Search,35-44,West,4084.339,Low
+CUST_02413,Social,45-54,West,1875.9127,Low
+CUST_02414,Paid Search,35-44,East,3881.266,Low
+CUST_02415,Paid Search,18-24,West,4154.533,Medium
+CUST_02416,Social,18-24,South,2716.634,Medium
+CUST_02417,Email,55+,South,4591.38,Medium
+CUST_02418,Paid Search,18-24,North,382.7024,Low
+CUST_02419,Paid Search,25-34,North,4274.781,Low
+CUST_02420,Email,45-54,East,4661.257,Medium
+CUST_02421,Paid Search,35-44,North,3966.981,Medium
+CUST_02422,Paid Search,35-44,West,3446.696,Medium
+CUST_02423,Referral,55+,West,13033.82,High
+CUST_02424,Paid Search,45-54,South,304.16055,Low
+CUST_02425,Referral,55+,East,12641.645,High
+CUST_02426,Email,45-54,North,4637.918,Medium
+CUST_02427,Paid Search,55+,South,2969.6045,Low
+CUST_02428,Paid Search,45-54,North,4395.5806,Low
+CUST_02429,Paid Search,35-44,North,4017.8474,Medium
+CUST_02430,Paid Search,55+,North,3684.4749,Medium
+CUST_02431,Paid Search,55+,West,3770.853,Low
+CUST_02432,Organic,18-24,East,4708.119,Medium
+CUST_02433,Social,55+,West,2586.837,Low
+CUST_02434,Email,45-54,West,0.0,Low
+CUST_02435,Referral,55+,West,273.26065,Low
+CUST_02436,Referral,45-54,West,14235.447,High
+CUST_02437,Social,55+,North,2244.1907,Medium
+CUST_02438,Paid Search,25-34,West,1394.8635,Low
+CUST_02439,Paid Search,18-24,East,3910.5012,Low
+CUST_02440,Paid Search,18-24,North,3696.0557,Medium
+CUST_02441,Paid Search,25-34,North,3926.6587,Medium
+CUST_02442,Paid Search,25-34,West,36.2123,Low
+CUST_02443,Organic,35-44,West,4859.62,Medium
+CUST_02444,Organic,18-24,South,4702.277,Medium
+CUST_02445,Paid Search,18-24,North,3425.7878,Medium
+CUST_02446,Email,35-44,South,400.11414,Low
+CUST_02447,Email,45-54,North,4695.898,Medium
+CUST_02448,Email,18-24,East,3392.9702,Low
+CUST_02449,Referral,35-44,South,17390.25,High
+CUST_02450,Paid Search,45-54,North,3920.3462,Medium
+CUST_02451,Social,45-54,West,2864.823,Low
+CUST_02452,Organic,18-24,West,5487.9287,Medium
+CUST_02453,Social,45-54,West,2954.411,Low
+CUST_02454,Social,18-24,West,2556.1982,Low
+CUST_02455,Email,25-34,North,4200.0146,Medium
+CUST_02456,Paid Search,25-34,West,71.22249,Low
+CUST_02457,Paid Search,55+,West,3651.9534,Medium
+CUST_02458,Referral,18-24,West,10752.133,High
+CUST_02459,Paid Search,45-54,South,3572.6301,Medium
+CUST_02460,Social,55+,South,2783.4426,Low
+CUST_02461,Email,55+,West,4151.6885,Low
+CUST_02462,Email,25-34,North,4437.6655,Medium
+CUST_02463,Paid Search,18-24,East,173.83487,Low
+CUST_02464,Organic,25-34,West,5128.202,Medium
+CUST_02465,Paid Search,45-54,West,3724.956,Medium
+CUST_02466,Paid Search,18-24,East,3798.2646,Medium
+CUST_02467,Paid Search,45-54,West,3897.2852,Low
+CUST_02468,Social,25-34,West,364.22433,Low
+CUST_02469,Organic,45-54,West,5164.1846,Medium
+CUST_02470,Paid Search,45-54,North,4112.793,Low
+CUST_02471,Organic,35-44,North,4637.508,Medium
+CUST_02472,Paid Search,45-54,South,3814.8477,Medium
+CUST_02473,Referral,55+,South,15476.979,High
+CUST_02474,Paid Search,25-34,South,3718.98,Medium
+CUST_02475,Email,35-44,North,4651.9233,Medium
+CUST_02476,Social,45-54,East,2623.111,Low
+CUST_02477,Email,55+,North,4484.549,Medium
+CUST_02478,Paid Search,35-44,West,8.628015,Low
+CUST_02479,Social,25-34,East,2671.9717,Medium
+CUST_02480,Organic,55+,West,5291.633,Low
+CUST_02481,Email,55+,North,4856.4575,Medium
+CUST_02482,Referral,35-44,South,15228.29,High
+CUST_02483,Social,18-24,West,3090.162,Medium
+CUST_02484,Paid Search,25-34,South,4073.8464,Medium
+CUST_02485,Organic,35-44,East,4884.75,Low
+CUST_02486,Paid Search,45-54,North,4123.5244,Medium
+CUST_02487,Social,45-54,West,526.0144,Low
+CUST_02488,Paid Search,55+,South,3965.0989,Medium
+CUST_02489,Paid Search,18-24,West,3627.329,Low
+CUST_02490,Email,35-44,South,1347.7565,Low
+CUST_02491,Email,45-54,North,4579.157,Low
+CUST_02492,Organic,55+,East,4886.047,Medium
+CUST_02493,Organic,18-24,South,5242.313,Medium
+CUST_02494,Paid Search,55+,South,3196.6938,Low
+CUST_02495,Paid Search,18-24,West,3869.5593,Medium
+CUST_02496,Email,18-24,South,4664.5137,Medium
+CUST_02497,Email,55+,South,756.1142,Low
+CUST_02498,Email,45-54,East,4438.9106,Medium
+CUST_02499,Organic,55+,North,4020.3862,Low
+CUST_02500,Social,45-54,West,2955.0518,Low
+CUST_02501,Paid Search,45-54,North,3736.6003,Medium
+CUST_02502,Email,35-44,North,4507.2,Medium
+CUST_02503,Referral,35-44,North,16574.094,High
+CUST_02504,Email,35-44,South,3329.2393,Low
+CUST_02505,Paid Search,25-34,East,4136.892,Medium
+CUST_02506,Email,55+,East,4588.4062,Medium
+CUST_02507,Email,25-34,West,4776.1084,Medium
+CUST_02508,Paid Search,45-54,West,3981.6128,Low
+CUST_02509,Social,45-54,South,2648.033,Low
+CUST_02510,Paid Search,35-44,West,3960.1108,Medium
+CUST_02511,Referral,45-54,North,11965.627,High
+CUST_02512,Email,18-24,North,4518.205,Medium
+CUST_02513,Organic,25-34,South,189.042,Low
+CUST_02514,Paid Search,35-44,East,3657.712,Medium
+CUST_02515,Paid Search,25-34,North,3270.727,Low
+CUST_02516,Paid Search,55+,West,3542.0422,Medium
+CUST_02517,Email,55+,South,5068.167,Medium
+CUST_02518,Paid Search,45-54,South,546.4641,Low
+CUST_02519,Social,25-34,East,2768.911,Low
+CUST_02520,Paid Search,18-24,South,3951.4612,Medium
+CUST_02521,Paid Search,45-54,South,3642.256,Low
+CUST_02522,Email,55+,West,4550.2217,Medium
+CUST_02523,Social,35-44,South,2587.0696,Low
+CUST_02524,Organic,55+,North,883.17365,Low
+CUST_02525,Social,55+,East,2551.3022,Medium
+CUST_02526,Referral,35-44,East,13706.088,High
+CUST_02527,Social,25-34,North,2548.9053,Medium
+CUST_02528,Social,18-24,West,2565.9792,Low
+CUST_02529,Paid Search,45-54,South,3903.6926,Medium
+CUST_02530,Referral,35-44,North,11216.655,High
+CUST_02531,Social,18-24,North,2018.953,Low
+CUST_02532,Paid Search,18-24,East,4217.6406,Low
+CUST_02533,Social,55+,North,2564.0132,Low
+CUST_02534,Email,25-34,South,4801.6475,Medium
+CUST_02535,Email,25-34,East,2802.8955,Medium
+CUST_02536,Paid Search,45-54,West,3651.5212,Low
+CUST_02537,Social,25-34,South,2758.5073,Low
+CUST_02538,Organic,55+,West,5656.424,Medium
+CUST_02539,Paid Search,45-54,South,261.0306,Low
+CUST_02540,Email,25-34,West,4456.8545,Medium
+CUST_02541,Paid Search,25-34,South,3871.128,Low
+CUST_02542,Paid Search,55+,North,3813.1726,Low
+CUST_02543,Organic,35-44,East,4682.5176,Medium
+CUST_02544,Email,55+,West,4447.804,Medium
+CUST_02545,Email,25-34,West,4827.788,Low
+CUST_02546,Paid Search,18-24,West,3918.6292,Medium
+CUST_02547,Organic,55+,North,4874.408,Medium
+CUST_02548,Paid Search,25-34,East,3922.2532,Medium
+CUST_02549,Social,55+,East,407.6637,Low
+CUST_02550,Paid Search,45-54,East,4117.3994,Low
+CUST_02551,Paid Search,25-34,North,3319.6165,Medium
+CUST_02552,Social,45-54,North,2571.1848,Low
+CUST_02553,Paid Search,18-24,East,3917.557,Medium
+CUST_02554,Social,25-34,West,2525.2803,Medium
+CUST_02555,Paid Search,25-34,North,4155.242,Low
+CUST_02556,Social,45-54,North,2534.5044,Low
+CUST_02557,Social,35-44,South,2471.984,Medium
+CUST_02558,Social,45-54,South,2716.0696,Low
+CUST_02559,Paid Search,35-44,West,3132.0942,Low
+CUST_02560,Social,45-54,West,2588.578,Low
+CUST_02561,Organic,18-24,East,5028.912,Low
+CUST_02562,Paid Search,45-54,West,3550.2107,Medium
+CUST_02563,Paid Search,18-24,North,3577.9583,Low
+CUST_02564,Social,18-24,West,2675.187,Medium
+CUST_02565,Paid Search,45-54,South,3722.2986,Low
+CUST_02566,Social,18-24,South,2373.0588,Low
+CUST_02567,Social,45-54,North,2056.8145,Medium
+CUST_02568,Paid Search,18-24,North,3440.0393,Medium
+CUST_02569,Referral,18-24,North,11807.4,High
+CUST_02570,Referral,55+,South,12537.603,High
+CUST_02571,Paid Search,18-24,North,3901.8276,Low
+CUST_02572,Organic,55+,North,4849.2563,Medium
+CUST_02573,Paid Search,25-34,East,3703.972,Medium
+CUST_02574,Email,45-54,West,4736.8066,Medium
+CUST_02575,Social,55+,North,2416.1035,Low
+CUST_02576,Paid Search,18-24,East,191.94037,Low
+CUST_02577,Social,25-34,West,2529.6543,Low
+CUST_02578,Paid Search,35-44,South,3770.4656,Medium
+CUST_02579,Email,55+,North,4585.863,Medium
+CUST_02580,Paid Search,18-24,North,556.97253,Low
+CUST_02581,Social,18-24,West,2538.6816,Low
+CUST_02582,Social,25-34,South,2750.5366,Low
+CUST_02583,Social,25-34,North,2821.7778,Low
+CUST_02584,Organic,25-34,West,4191.949,Low
+CUST_02585,Social,18-24,West,2210.3413,Low
+CUST_02586,Social,55+,East,2690.2527,Medium
+CUST_02587,Email,45-54,North,4667.564,Medium
+CUST_02588,Organic,18-24,North,5048.441,Medium
+CUST_02589,Referral,35-44,North,13919.926,High
+CUST_02590,Organic,45-54,North,4807.676,Medium
+CUST_02591,Paid Search,45-54,East,4477.2905,Low
+CUST_02592,Email,55+,South,4663.048,Medium
+CUST_02593,Social,45-54,West,2578.526,Low
+CUST_02594,Paid Search,45-54,North,3879.79,Low
+CUST_02595,Paid Search,18-24,East,3935.6782,Medium
+CUST_02596,Organic,18-24,West,5483.0625,Medium
+CUST_02597,Email,45-54,North,18.136482,Low
+CUST_02598,Paid Search,55+,East,4145.367,Low
+CUST_02599,Paid Search,25-34,East,3039.05,Low
+CUST_02600,Email,45-54,North,230.40717,Low
+CUST_02601,Referral,25-34,South,14399.379,High
+CUST_02602,Organic,35-44,West,5012.6743,Medium
+CUST_02603,Organic,45-54,West,5138.8975,Medium
+CUST_02604,Social,45-54,South,2658.443,Low
+CUST_02605,Social,18-24,North,2137.5842,Low
+CUST_02606,Paid Search,55+,North,3732.066,Medium
+CUST_02607,Organic,55+,West,4211.1343,Medium
+CUST_02608,Paid Search,35-44,East,4317.0127,Medium
+CUST_02609,Paid Search,25-34,South,3948.0366,Low
+CUST_02610,Organic,35-44,North,4677.903,Medium
+CUST_02611,Organic,55+,West,4715.1294,Medium
+CUST_02612,Paid Search,35-44,South,4053.6145,Medium
+CUST_02613,Social,18-24,East,2648.4814,Medium
+CUST_02614,Email,18-24,West,4682.1396,Medium
+CUST_02615,Paid Search,55+,East,3879.8335,Medium
+CUST_02616,Paid Search,45-54,West,51.003487,Low
+CUST_02617,Paid Search,45-54,East,3906.8586,Medium
+CUST_02618,Email,18-24,South,0.0,Low
+CUST_02619,Email,18-24,West,4733.0054,Medium
+CUST_02620,Email,25-34,East,4526.5693,Medium
+CUST_02621,Paid Search,25-34,West,3910.383,Medium
+CUST_02622,Organic,25-34,North,4628.8857,Low
+CUST_02623,Referral,35-44,East,12355.073,High
+CUST_02624,Organic,25-34,East,5057.283,Medium
+CUST_02625,Paid Search,18-24,North,3939.8584,Low
+CUST_02626,Referral,35-44,South,15772.251,High
+CUST_02627,Social,45-54,West,2034.8237,Low
+CUST_02628,Paid Search,45-54,East,3917.686,Medium
+CUST_02629,Paid Search,25-34,West,3755.0403,Medium
+CUST_02630,Paid Search,25-34,North,3875.8716,Low
+CUST_02631,Paid Search,35-44,North,3947.4712,Medium
+CUST_02632,Email,18-24,West,4557.3867,Medium
+CUST_02633,Paid Search,55+,South,3868.6704,Low
+CUST_02634,Paid Search,55+,West,3854.0442,Medium
+CUST_02635,Referral,18-24,West,665.1385,Low
+CUST_02636,Paid Search,55+,South,3794.368,Low
+CUST_02637,Paid Search,18-24,West,3563.664,Low
+CUST_02638,Social,35-44,West,2594.8645,Medium
+CUST_02639,Paid Search,45-54,North,4098.44,Low
+CUST_02640,Paid Search,25-34,North,4316.069,Low
+CUST_02641,Paid Search,25-34,North,3952.405,Low
+CUST_02642,Paid Search,18-24,East,3898.047,Medium
+CUST_02643,Email,45-54,North,4637.918,Medium
+CUST_02644,Paid Search,18-24,South,4020.412,Medium
+CUST_02645,Paid Search,35-44,South,3871.4346,Medium
+CUST_02646,Organic,25-34,North,5081.071,Low
+CUST_02647,Organic,55+,South,4162.2085,Low
+CUST_02648,Paid Search,55+,East,3500.642,Medium
+CUST_02649,Paid Search,55+,West,3778.984,Low
+CUST_02650,Email,45-54,South,4630.207,Medium
+CUST_02651,Social,35-44,East,2514.1907,Medium
+CUST_02652,Social,25-34,East,2152.5466,Low
+CUST_02653,Paid Search,18-24,South,3431.9978,Low
+CUST_02654,Paid Search,55+,East,3742.8699,Medium
+CUST_02655,Email,25-34,West,3906.917,Low
+CUST_02656,Organic,35-44,North,4257.3247,Low
+CUST_02657,Organic,18-24,East,4948.01,Medium
+CUST_02658,Paid Search,25-34,North,3865.4495,Low
+CUST_02659,Referral,45-54,West,16961.213,High
+CUST_02660,Paid Search,35-44,East,3750.4983,Medium
+CUST_02661,Social,35-44,North,2454.2588,Medium
+CUST_02662,Organic,25-34,East,4970.732,Medium
+CUST_02663,Email,18-24,South,4735.1147,Medium
+CUST_02664,Paid Search,55+,North,3852.0923,Medium
+CUST_02665,Referral,35-44,West,13976.3545,High
+CUST_02666,Email,25-34,South,4599.6484,Medium
+CUST_02667,Social,25-34,North,2586.2295,Low
+CUST_02668,Paid Search,45-54,East,3911.6553,Medium
+CUST_02669,Organic,35-44,South,4534.5864,Low
+CUST_02670,Paid Search,25-34,East,3436.9976,Low
+CUST_02671,Paid Search,55+,North,3900.92,Medium
+CUST_02672,Paid Search,55+,West,299.01627,Low
+CUST_02673,Paid Search,18-24,South,3617.6072,Low
+CUST_02674,Paid Search,45-54,South,3511.0454,Medium
+CUST_02675,Social,55+,West,2589.5146,Medium
+CUST_02676,Paid Search,35-44,East,4054.3818,Low
+CUST_02677,Paid Search,18-24,North,3731.2173,Medium
+CUST_02678,Paid Search,18-24,East,3652.0256,Medium
+CUST_02679,Paid Search,45-54,East,4461.2173,Low
+CUST_02680,Organic,55+,South,4740.0024,Medium
+CUST_02681,Organic,18-24,North,4699.4453,Medium
+CUST_02682,Paid Search,35-44,North,3714.2988,Low
+CUST_02683,Social,35-44,West,1574.6206,Low
+CUST_02684,Social,25-34,North,2626.4944,Low
+CUST_02685,Organic,45-54,East,5378.362,Low
+CUST_02686,Paid Search,55+,West,3485.368,Low
+CUST_02687,Paid Search,25-34,South,3938.6267,Medium
+CUST_02688,Email,18-24,North,4724.3315,Medium
+CUST_02689,Organic,25-34,East,4735.356,Medium
+CUST_02690,Social,25-34,East,356.68658,Low
+CUST_02691,Email,45-54,North,4428.6016,Medium
+CUST_02692,Paid Search,35-44,East,3917.7112,Medium
+CUST_02693,Social,18-24,North,705.1287,Low
+CUST_02694,Organic,25-34,South,5149.492,Low
+CUST_02695,Email,45-54,South,4771.2104,Medium
+CUST_02696,Social,35-44,West,1993.3097,Low
+CUST_02697,Email,35-44,West,4306.789,Medium
+CUST_02698,Email,25-34,East,4412.1675,Medium
+CUST_02699,Email,25-34,East,4611.3154,Medium
+CUST_02700,Social,18-24,North,2635.3499,Medium
+CUST_02701,Organic,18-24,North,615.29254,Low
+CUST_02702,Email,18-24,West,4655.0537,Medium
+CUST_02703,Paid Search,45-54,South,3327.6895,Low
+CUST_02704,Email,18-24,East,4576.8965,Medium
+CUST_02705,Paid Search,35-44,East,247.41275,Low
+CUST_02706,Paid Search,55+,South,3650.947,Low
+CUST_02707,Paid Search,45-54,East,3931.165,Medium
+CUST_02708,Email,35-44,East,3485.7075,Medium
+CUST_02709,Paid Search,18-24,North,3722.9922,Medium
+CUST_02710,Paid Search,35-44,East,3566.5842,Low
+CUST_02711,Social,55+,North,2532.7356,Low
+CUST_02712,Paid Search,25-34,South,4215.132,Low
+CUST_02713,Referral,55+,West,14961.592,High
+CUST_02714,Organic,45-54,West,4718.1006,Medium
+CUST_02715,Referral,25-34,North,244.53062,Low
+CUST_02716,Paid Search,18-24,East,4173.9697,Medium
+CUST_02717,Paid Search,18-24,East,3729.646,Medium
+CUST_02718,Referral,25-34,East,13947.703,High
+CUST_02719,Email,25-34,West,4630.784,Medium
+CUST_02720,Paid Search,45-54,North,393.33008,Low
+CUST_02721,Email,35-44,East,4546.348,Medium
+CUST_02722,Email,35-44,South,4652.345,Medium
+CUST_02723,Paid Search,45-54,North,3495.2815,Low
+CUST_02724,Referral,45-54,South,16330.086,High
+CUST_02725,Paid Search,45-54,North,3939.856,Medium
+CUST_02726,Paid Search,55+,East,3522.9592,Low
+CUST_02727,Social,25-34,East,383.49774,Low
+CUST_02728,Paid Search,55+,East,3879.8335,Medium
+CUST_02729,Referral,35-44,North,774.389,Medium
+CUST_02730,Email,18-24,West,4747.212,Medium
+CUST_02731,Paid Search,18-24,North,3673.112,Medium
+CUST_02732,Organic,18-24,South,2696.1145,Medium
+CUST_02733,Paid Search,55+,South,262.65326,Low
+CUST_02734,Paid Search,18-24,East,4056.7932,Medium
+CUST_02735,Organic,55+,South,5568.851,Medium
+CUST_02736,Social,45-54,West,1008.86316,Low
+CUST_02737,Social,35-44,West,2735.6812,Medium
+CUST_02738,Paid Search,55+,West,3140.0776,Low
+CUST_02739,Paid Search,55+,North,3961.1096,Low
+CUST_02740,Referral,55+,West,15435.785,High
+CUST_02741,Paid Search,35-44,North,4173.514,Medium
+CUST_02742,Paid Search,25-34,West,4019.783,Medium
+CUST_02743,Social,18-24,West,428.68167,Low
+CUST_02744,Paid Search,55+,North,3820.202,Medium
+CUST_02745,Paid Search,55+,North,3494.9873,Low
+CUST_02746,Paid Search,35-44,East,3687.3625,Low
+CUST_02747,Email,18-24,North,4812.6187,Medium
+CUST_02748,Referral,55+,West,16844.39,High
+CUST_02749,Organic,25-34,East,5135.571,Medium
+CUST_02750,Paid Search,35-44,East,3914.306,Low
+CUST_02751,Paid Search,45-54,West,3674.3533,Medium
+CUST_02752,Email,18-24,North,4563.682,Medium
+CUST_02753,Email,18-24,East,4502.71,Medium
+CUST_02754,Email,18-24,West,4490.5566,Medium
+CUST_02755,Organic,55+,North,4541.452,Low
+CUST_02756,Email,55+,North,4439.701,Medium
+CUST_02757,Email,35-44,North,4215.3545,Low
+CUST_02758,Organic,35-44,South,3720.0544,Medium
+CUST_02759,Paid Search,35-44,North,4006.1833,Low
+CUST_02760,Organic,25-34,North,5010.395,Medium
+CUST_02761,Email,35-44,West,4850.0146,Low
+CUST_02762,Email,25-34,South,4681.508,Medium
+CUST_02763,Organic,45-54,South,4997.7354,Medium
+CUST_02764,Email,25-34,South,4499.171,Medium
+CUST_02765,Email,45-54,West,4638.876,Medium
+CUST_02766,Paid Search,55+,South,3910.3396,Low
+CUST_02767,Social,25-34,South,2679.093,Low
+CUST_02768,Referral,18-24,West,11227.463,High
+CUST_02769,Paid Search,35-44,North,3647.6528,Low
+CUST_02770,Social,18-24,South,382.37994,Low
+CUST_02771,Referral,25-34,East,14588.512,High
+CUST_02772,Email,45-54,East,4519.121,Medium
+CUST_02773,Paid Search,35-44,West,2460.983,Low
+CUST_02774,Email,35-44,West,4546.348,Medium
+CUST_02775,Paid Search,45-54,South,4123.5586,Low
+CUST_02776,Paid Search,18-24,West,4299.3423,Low
+CUST_02777,Email,35-44,North,4303.932,Medium
+CUST_02778,Paid Search,18-24,North,4040.382,Medium
+CUST_02779,Paid Search,35-44,West,4250.118,Low
+CUST_02780,Social,25-34,North,2643.914,Low
+CUST_02781,Paid Search,55+,South,4199.1616,Medium
+CUST_02782,Organic,25-34,East,4831.7236,Medium
+CUST_02783,Organic,25-34,South,1143.7815,Low
+CUST_02784,Referral,18-24,West,13690.753,High
+CUST_02785,Organic,18-24,South,5036.0054,Medium
+CUST_02786,Organic,25-34,East,53.057484,Low
+CUST_02787,Paid Search,25-34,North,3994.206,Medium
+CUST_02788,Social,45-54,North,1774.3135,Low
+CUST_02789,Paid Search,55+,North,3555.9229,Low
+CUST_02790,Social,55+,East,2332.3574,Medium
+CUST_02791,Email,55+,North,4435.2466,Medium
+CUST_02792,Paid Search,55+,East,1477.1259,Low
+CUST_02793,Paid Search,35-44,South,3482.5828,Low
+CUST_02794,Organic,25-34,East,5028.5674,Low
+CUST_02795,Paid Search,45-54,West,0.0,Low
+CUST_02796,Paid Search,25-34,West,3748.9404,Low
+CUST_02797,Paid Search,45-54,North,393.33008,Low
+CUST_02798,Email,55+,West,4167.5234,Medium
+CUST_02799,Social,18-24,West,410.57617,Low
+CUST_02800,Social,45-54,East,570.41077,Low
+CUST_02801,Email,55+,North,4417.099,Medium
+CUST_02802,Paid Search,35-44,East,4306.7583,Low
+CUST_02803,Paid Search,25-34,East,3745.6758,Medium
+CUST_02804,Email,25-34,East,4598.92,Medium
+CUST_02805,Social,18-24,South,2659.8818,Low
+CUST_02806,Social,25-34,East,2935.569,Low
+CUST_02807,Email,45-54,East,0.0,Low
+CUST_02808,Referral,35-44,South,17133.855,High
+CUST_02809,Email,25-34,West,4688.4727,Medium
+CUST_02810,Referral,35-44,East,4165.759,Medium
+CUST_02811,Email,55+,South,4632.54,Medium
+CUST_02812,Social,18-24,East,2839.692,Low
+CUST_02813,Email,18-24,West,4596.033,Medium
+CUST_02814,Organic,55+,South,4631.6187,Low
+CUST_02815,Email,45-54,East,2736.1572,Low
+CUST_02816,Paid Search,35-44,North,3591.4868,Medium
+CUST_02817,Paid Search,55+,South,3836.6897,Medium
+CUST_02818,Email,35-44,East,3376.1206,Low
+CUST_02819,Email,35-44,West,4633.3975,Medium
+CUST_02820,Referral,25-34,East,7904.064,High
+CUST_02821,Social,55+,East,2507.9375,Low
+CUST_02822,Paid Search,45-54,South,3854.8696,Medium
+CUST_02823,Social,25-34,East,2355.7236,Low
+CUST_02824,Social,45-54,South,2046.6292,Low
+CUST_02825,Email,45-54,North,4538.805,Medium
+CUST_02826,Email,18-24,North,4544.666,Medium
+CUST_02827,Paid Search,18-24,East,3853.0022,Low
+CUST_02828,Email,35-44,West,4645.793,Medium
+CUST_02829,Social,45-54,South,2692.1316,Low
+CUST_02830,Organic,45-54,West,5292.9126,Medium
+CUST_02831,Referral,25-34,West,12661.68,High
+CUST_02832,Paid Search,55+,East,3559.2354,Low
+CUST_02833,Social,35-44,West,2538.3013,Low
+CUST_02834,Social,25-34,South,2980.4717,Low
+CUST_02835,Paid Search,18-24,South,3782.621,Medium
+CUST_02836,Social,55+,East,2516.363,Medium
+CUST_02837,Paid Search,45-54,East,4231.2485,Low
+CUST_02838,Paid Search,35-44,East,3891.4087,Medium
+CUST_02839,Paid Search,25-34,South,3814.5115,Medium
+CUST_02840,Paid Search,18-24,West,3898.047,Medium
+CUST_02841,Organic,18-24,North,4204.124,Medium
+CUST_02842,Email,18-24,North,4653.956,Medium
+CUST_02843,Paid Search,35-44,South,206.79721,Low
+CUST_02844,Email,18-24,North,4532.285,Medium
+CUST_02845,Email,18-24,South,4344.5034,Low
+CUST_02846,Paid Search,25-34,East,4168.2764,Low
+CUST_02847,Paid Search,45-54,South,3900.729,Medium
+CUST_02848,Social,35-44,North,1122.8373,Low
+CUST_02849,Paid Search,18-24,South,3974.8198,Low
+CUST_02850,Social,45-54,East,2625.5193,Medium
+CUST_02851,Paid Search,35-44,West,3750.4983,Medium
+CUST_02852,Social,18-24,West,2662.9521,Medium
+CUST_02853,Social,45-54,East,2742.566,Medium
+CUST_02854,Paid Search,55+,North,4030.134,Medium
+CUST_02855,Paid Search,35-44,North,3966.981,Medium
+CUST_02856,Organic,18-24,South,4558.386,Medium
+CUST_02857,Email,25-34,North,4757.1304,Medium
+CUST_02858,Referral,35-44,East,10602.29,High
+CUST_02859,Paid Search,55+,South,3803.453,Medium
+CUST_02860,Paid Search,55+,West,4088.1926,Medium
+CUST_02861,Email,55+,South,4626.3193,Medium
+CUST_02862,Organic,55+,South,4532.617,Low
+CUST_02863,Paid Search,35-44,East,4161.9824,Low
+CUST_02864,Social,45-54,North,2769.5405,Low
+CUST_02865,Social,45-54,West,554.17194,Low
+CUST_02866,Paid Search,45-54,East,205.54855,Low
+CUST_02867,Paid Search,45-54,East,4001.4827,Low
+CUST_02868,Paid Search,18-24,South,3393.919,Low
+CUST_02869,Email,55+,West,4562.617,Medium
+CUST_02870,Referral,18-24,West,15162.164,High
+CUST_02871,Email,35-44,North,4391.002,Medium
+CUST_02872,Paid Search,35-44,East,64.08956,Low
+CUST_02873,Social,55+,West,2514.8188,Low
+CUST_02874,Referral,18-24,South,0.0,Low
+CUST_02875,Email,35-44,East,4702.789,Medium
+CUST_02876,Referral,25-34,West,14245.178,High
+CUST_02877,Paid Search,18-24,South,4398.6445,Low
+CUST_02878,Social,25-34,East,2300.0706,Low
+CUST_02879,Email,35-44,East,4566.526,Medium
+CUST_02880,Email,55+,North,3706.793,Low
+CUST_02881,Paid Search,25-34,North,3806.4385,Low
+CUST_02882,Referral,55+,East,17211.012,High
+CUST_02883,Referral,45-54,North,12516.551,High
+CUST_02884,Paid Search,55+,West,248.00171,Low
+CUST_02885,Organic,55+,East,3912.75,Low
+CUST_02886,Social,45-54,East,2170.8245,Low
+CUST_02887,Paid Search,45-54,South,3955.4973,Low
+CUST_02888,Social,18-24,South,2903.07,Medium
+CUST_02889,Email,45-54,South,4524.6895,Medium
+CUST_02890,Organic,18-24,East,5189.0186,Medium
+CUST_02891,Paid Search,45-54,South,3820.3994,Low
+CUST_02892,Paid Search,45-54,South,224.32755,Low
+CUST_02893,Email,45-54,North,4667.564,Medium
+CUST_02894,Paid Search,45-54,East,3640.9373,Low
+CUST_02895,Social,25-34,East,2997.4526,Low
+CUST_02896,Email,25-34,East,3350.9844,Low
+CUST_02897,Paid Search,35-44,South,4189.788,Medium
+CUST_02898,Email,35-44,North,4425.342,Medium
+CUST_02899,Organic,25-34,South,1853.1337,Low
+CUST_02900,Social,35-44,South,2560.3713,Low
+CUST_02901,Email,35-44,North,4471.764,Medium
+CUST_02902,Paid Search,25-34,West,3716.3525,Medium
+CUST_02903,Paid Search,45-54,South,3815.1794,Medium
+CUST_02904,Organic,25-34,South,4925.709,Low
+CUST_02905,Social,25-34,East,2380.9958,Low
+CUST_02906,Referral,35-44,West,16204.917,High
+CUST_02907,Organic,18-24,South,25.579266,Low
+CUST_02908,Paid Search,45-54,East,3665.6338,Medium
+CUST_02909,Social,45-54,North,2648.1562,Medium
+CUST_02910,Paid Search,55+,East,3985.47,Medium
+CUST_02911,Paid Search,25-34,North,3720.5046,Medium
+CUST_02912,Email,35-44,North,4726.095,Medium
+CUST_02913,Email,35-44,East,3376.1206,Low
+CUST_02914,Organic,45-54,North,4898.8076,Medium
+CUST_02915,Paid Search,45-54,North,3589.2976,Medium
+CUST_02916,Social,55+,North,766.39417,Low
+CUST_02917,Social,55+,West,2543.3445,Medium
+CUST_02918,Social,18-24,East,2618.483,Low
+CUST_02919,Organic,25-34,South,4829.094,Medium
+CUST_02920,Email,45-54,West,4469.5107,Medium
+CUST_02921,Email,35-44,South,4671.855,Medium
+CUST_02922,Paid Search,35-44,West,3560.837,Low
+CUST_02923,Paid Search,18-24,South,3512.117,Low
+CUST_02924,Organic,35-44,North,5126.451,Medium
+CUST_02925,Email,45-54,North,4558.315,Medium
+CUST_02926,Paid Search,18-24,South,3974.5999,Medium
+CUST_02927,Paid Search,35-44,North,3873.5754,Low
+CUST_02928,Email,55+,North,4626.5923,Medium
+CUST_02929,Social,35-44,South,2841.696,Low
+CUST_02930,Paid Search,55+,West,3878.5867,Medium
+CUST_02931,Social,25-34,North,515.2422,Low
+CUST_02932,Referral,18-24,North,457.9503,Low
+CUST_02933,Social,45-54,West,2623.037,Medium
+CUST_02934,Paid Search,25-34,North,3873.9497,Medium
+CUST_02935,Referral,18-24,West,13786.071,High
+CUST_02936,Paid Search,18-24,East,3894.8044,Low
+CUST_02937,Email,55+,West,4568.7476,Medium
+CUST_02938,Social,45-54,East,2438.3079,Low
+CUST_02939,Referral,25-34,East,11394.657,High
+CUST_02940,Paid Search,35-44,North,3748.6997,Medium
+CUST_02941,Organic,25-34,East,5004.542,Medium
+CUST_02942,Paid Search,18-24,East,3508.8025,Medium
+CUST_02943,Referral,55+,West,11540.683,High
+CUST_02944,Organic,55+,North,4104.7134,Low
+CUST_02945,Email,25-34,North,4543.2886,Medium
+CUST_02946,Social,25-34,North,2157.7375,Low
+CUST_02947,Referral,55+,West,16232.763,High
+CUST_02948,Social,35-44,North,2213.465,Low
+CUST_02949,Social,25-34,West,2708.0898,Medium
+CUST_02950,Social,25-34,South,3342.9663,Low
+CUST_02951,Paid Search,35-44,South,3894.214,Medium
+CUST_02952,Social,35-44,West,2549.8047,Medium
+CUST_02953,Paid Search,18-24,East,3456.3376,Medium
+CUST_02954,Organic,35-44,East,5044.476,Low
+CUST_02955,Paid Search,35-44,West,0.0,Low
+CUST_02956,Paid Search,25-34,West,3420.3545,Low
+CUST_02957,Organic,25-34,East,4073.7148,Low
+CUST_02958,Paid Search,35-44,South,2826.3735,Low
+CUST_02959,Email,25-34,West,3282.9512,Low
+CUST_02960,Social,55+,East,2082.5588,Low
+CUST_02961,Paid Search,35-44,West,3347.1052,Low
+CUST_02962,Paid Search,35-44,West,4287.643,Low
+CUST_02963,Email,25-34,East,4575.478,Medium
+CUST_02964,Paid Search,55+,South,3928.1729,Medium
+CUST_02965,Paid Search,18-24,West,3898.047,Medium
+CUST_02966,Paid Search,35-44,West,3915.9512,Medium
+CUST_02967,Email,18-24,North,4477.877,Medium
+CUST_02968,Paid Search,45-54,East,0.0,Low
+CUST_02969,Paid Search,25-34,East,3750.2295,Medium
+CUST_02970,Referral,25-34,East,8.723235,Medium
+CUST_02971,Referral,18-24,West,13609.895,High
+CUST_02972,Paid Search,45-54,South,4133.3857,Low
+CUST_02973,Paid Search,25-34,West,3504.948,Low
+CUST_02974,Organic,25-34,East,113.99826,Low
+CUST_02975,Referral,55+,North,0.0,Low
+CUST_02976,Email,18-24,East,4728.5425,Medium
+CUST_02977,Email,35-44,North,0.0,Low
+CUST_02978,Paid Search,18-24,West,3898.047,Medium
+CUST_02979,Social,18-24,West,2631.798,Medium
+CUST_02980,Organic,18-24,West,4077.5615,Medium
+CUST_02981,Organic,18-24,East,4849.0435,Medium
+CUST_02982,Paid Search,55+,South,3750.6821,Medium
+CUST_02983,Paid Search,35-44,South,4127.479,Low
+CUST_02984,Paid Search,55+,West,661.2286,Low
+CUST_02985,Paid Search,25-34,North,3744.1628,Low
+CUST_02986,Paid Search,45-54,West,2775.576,Low
+CUST_02987,Referral,18-24,South,16185.871,High
+CUST_02988,Paid Search,18-24,East,3538.4968,Medium
+CUST_02989,Organic,18-24,East,4320.29,Medium
+CUST_02990,Paid Search,55+,North,4247.1616,Low
+CUST_02991,Paid Search,45-54,North,3815.7007,Medium
+CUST_02992,Organic,45-54,North,4699.9663,Low
+CUST_02993,Social,55+,West,2570.3367,Medium
+CUST_02994,Email,25-34,North,4271.7295,Medium
+CUST_02995,Referral,45-54,East,8372.6455,High
+CUST_02996,Paid Search,35-44,North,3892.7944,Medium
+CUST_02997,Paid Search,35-44,West,3699.412,Low
+CUST_02998,Email,45-54,West,4717.8057,Medium
+CUST_02999,Email,35-44,South,4379.3394,Medium
+CUST_03000,Referral,18-24,North,12878.042,High
+CUST_03001,Paid Search,18-24,South,178.43063,Low
+CUST_03002,Social,35-44,East,390.5283,Low
+CUST_03003,Social,35-44,East,2560.6497,Low
+CUST_03004,Paid Search,45-54,East,4163.3325,Medium
+CUST_03005,Paid Search,35-44,East,3783.1743,Medium
+CUST_03006,Email,18-24,East,4764.9067,Medium
+CUST_03007,Social,25-34,North,2639.5315,Low
+CUST_03008,Social,35-44,North,2647.2412,Medium
+CUST_03009,Social,55+,West,2422.342,Medium
+CUST_03010,Email,35-44,East,4475.297,Medium
+CUST_03011,Paid Search,45-54,West,3803.3738,Medium
+CUST_03012,Email,45-54,East,4778.5146,Medium
+CUST_03013,Paid Search,25-34,South,3803.7979,Medium
+CUST_03014,Social,55+,East,423.9438,Low
+CUST_03015,Paid Search,45-54,East,3778.0544,Low
+CUST_03016,Paid Search,55+,North,348.65195,Low
+CUST_03017,Email,45-54,South,4446.3765,Medium
+CUST_03018,Email,45-54,East,4259.1787,Low
+CUST_03019,Referral,18-24,North,12298.3955,High
+CUST_03020,Email,35-44,North,1132.0221,Low
+CUST_03021,Organic,18-24,North,4844.4517,Medium
+CUST_03022,Social,45-54,East,517.29504,Low
+CUST_03023,Organic,45-54,North,4936.5425,Medium
+CUST_03024,Referral,35-44,South,12044.151,High
+CUST_03025,Referral,25-34,North,563.4885,Low
+CUST_03026,Referral,18-24,South,14130.832,High
+CUST_03027,Email,45-54,North,4558.315,Medium
+CUST_03028,Paid Search,45-54,West,3801.9294,Low
+CUST_03029,Referral,35-44,South,16407.566,High
+CUST_03030,Paid Search,45-54,North,3784.443,Low
+CUST_03031,Paid Search,45-54,East,4015.1367,Low
+CUST_03032,Organic,35-44,West,5638.904,Medium
+CUST_03033,Paid Search,18-24,West,3682.2546,Low
+CUST_03034,Email,55+,West,4346.586,Medium
+CUST_03035,Referral,35-44,South,1210.376,Medium
+CUST_03036,Paid Search,45-54,South,3529.5474,Low
+CUST_03037,Organic,55+,South,4859.861,Medium
+CUST_03038,Paid Search,25-34,South,3802.7778,Low
+CUST_03039,Organic,45-54,West,4863.571,Medium
+CUST_03040,Social,18-24,North,2454.6138,Low
+CUST_03041,Paid Search,55+,West,3683.8438,Medium
+CUST_03042,Paid Search,18-24,West,3903.7915,Low
+CUST_03043,Paid Search,35-44,West,3562.8936,Low
+CUST_03044,Email,25-34,East,4480.7466,Medium
+CUST_03045,Paid Search,18-24,West,3683.2231,Medium
+CUST_03046,Organic,35-44,North,5021.9067,Medium
+CUST_03047,Paid Search,55+,West,3750.4636,Medium
+CUST_03048,Social,18-24,East,463.69186,Low
+CUST_03049,Paid Search,25-34,West,41.632103,Low
+CUST_03050,Organic,18-24,North,3594.5361,Low
+CUST_03051,Paid Search,18-24,West,3947.9272,Medium
+CUST_03052,Email,25-34,East,4636.9146,Medium
+CUST_03053,Referral,35-44,North,11731.538,High
+CUST_03054,Paid Search,45-54,East,3794.7766,Low
+CUST_03055,Social,45-54,North,2445.7585,Low
+CUST_03056,Paid Search,45-54,North,4078.918,Low
+CUST_03057,Email,45-54,East,4676.238,Medium
+CUST_03058,Email,25-34,West,4817.665,Medium
+CUST_03059,Referral,55+,North,10229.619,High
+CUST_03060,Paid Search,18-24,South,3488.5896,Low
+CUST_03061,Paid Search,45-54,South,3792.2363,Low
+CUST_03062,Paid Search,18-24,East,3761.5364,Medium
+CUST_03063,Paid Search,45-54,North,3678.9258,Medium
+CUST_03064,Paid Search,18-24,East,4015.6648,Medium
+CUST_03065,Organic,25-34,South,5061.87,Medium
+CUST_03066,Email,25-34,West,4457.526,Medium
+CUST_03067,Referral,45-54,South,15712.571,High
+CUST_03068,Email,18-24,South,4610.362,Medium
+CUST_03069,Paid Search,25-34,North,3771.276,Medium
+CUST_03070,Email,25-34,West,4636.9146,Medium
+CUST_03071,Paid Search,45-54,West,3693.0657,Medium
+CUST_03072,Paid Search,55+,South,1715.8759,Low
+CUST_03073,Email,45-54,South,5096.33,Medium
+CUST_03074,Email,35-44,West,4851.2983,Medium
+CUST_03075,Organic,25-34,South,5394.762,Low
+CUST_03076,Paid Search,55+,North,3113.3784,Low
+CUST_03077,Email,18-24,North,4701.4673,Medium
+CUST_03078,Paid Search,18-24,East,3910.5012,Low
+CUST_03079,Paid Search,25-34,North,3972.1958,Medium
+CUST_03080,Social,25-34,North,2725.2488,Low
+CUST_03081,Paid Search,35-44,North,4164.4478,Medium
+CUST_03082,Referral,55+,West,8753.209,High
+CUST_03083,Email,45-54,West,4886.3926,Low
+CUST_03084,Paid Search,25-34,West,2506.9019,Medium
+CUST_03085,Organic,25-34,South,5309.007,Medium
+CUST_03086,Email,45-54,South,4827.5815,Medium
+CUST_03087,Social,25-34,South,2734.9114,Low
+CUST_03088,Email,55+,East,4458.7856,Medium
+CUST_03089,Organic,35-44,North,4481.0557,Medium
+CUST_03090,Paid Search,35-44,East,327.94037,Low
+CUST_03091,Email,55+,North,1356.6213,Low
+CUST_03092,Social,25-34,South,2720.5051,Low
+CUST_03093,Paid Search,35-44,South,3376.317,Low
+CUST_03094,Email,35-44,East,4571.6064,Medium
+CUST_03095,Organic,25-34,West,4711.366,Low
+CUST_03096,Referral,18-24,East,14469.511,High
+CUST_03097,Social,25-34,South,545.48157,Low
+CUST_03098,Referral,18-24,East,12452.179,High
+CUST_03099,Social,45-54,East,2637.7334,Medium
+CUST_03100,Organic,18-24,North,4754.479,Low
+CUST_03101,Referral,25-34,West,14221.993,High
+CUST_03102,Paid Search,55+,West,3680.0852,Low
+CUST_03103,Paid Search,35-44,North,3921.1687,Medium
+CUST_03104,Referral,45-54,North,14450.744,High
+CUST_03105,Social,45-54,North,2704.656,Low
+CUST_03106,Email,25-34,East,4425.6353,Medium
+CUST_03107,Paid Search,45-54,North,393.33008,Low
+CUST_03108,Paid Search,25-34,North,3776.0867,Medium
+CUST_03109,Email,45-54,East,4630.1562,Medium
+CUST_03110,Social,45-54,North,2420.5283,Low
+CUST_03111,Paid Search,55+,North,3900.92,Medium
+CUST_03112,Referral,55+,North,6788.0376,Medium
+CUST_03113,Social,18-24,East,2937.2224,Low
+CUST_03114,Organic,25-34,South,4866.332,Medium
+CUST_03115,Paid Search,35-44,South,106.1488,Low
+CUST_03116,Organic,25-34,East,4872.6357,Medium
+CUST_03117,Referral,45-54,North,10450.082,High
+CUST_03118,Social,55+,East,2439.827,Low
+CUST_03119,Paid Search,25-34,South,3848.3884,Medium
+CUST_03120,Email,55+,East,331.78162,Low
+CUST_03121,Referral,55+,East,16685.502,High
+CUST_03122,Paid Search,55+,East,3500.642,Medium
+CUST_03123,Email,18-24,North,3739.8765,Low
+CUST_03124,Referral,25-34,North,10946.551,High
+CUST_03125,Referral,18-24,East,616.6869,Low
+CUST_03126,Paid Search,18-24,North,3798.817,Medium
+CUST_03127,Email,18-24,South,4735.1147,Medium
+CUST_03128,Paid Search,35-44,East,3650.8958,Low
+CUST_03129,Organic,18-24,West,428.50958,Low
+CUST_03130,Organic,25-34,East,2849.3928,Low
+CUST_03131,Paid Search,55+,West,2464.2615,Low
+CUST_03132,Paid Search,55+,East,3414.2493,Medium
+CUST_03133,Paid Search,55+,South,3721.6785,Low
+CUST_03134,Email,18-24,North,3386.2468,Medium
+CUST_03135,Organic,45-54,East,3002.9617,Low
+CUST_03136,Email,45-54,West,4320.744,Medium
+CUST_03137,Paid Search,18-24,South,3616.8508,Low
+CUST_03138,Paid Search,55+,North,3943.8025,Low
+CUST_03139,Paid Search,35-44,North,3612.6426,Low
+CUST_03140,Social,55+,East,2696.5122,Low
+CUST_03141,Referral,18-24,East,15774.649,High
+CUST_03142,Referral,45-54,North,7044.3853,Medium
+CUST_03143,Paid Search,18-24,North,4026.7793,Medium
+CUST_03144,Organic,55+,East,5191.6313,Medium
+CUST_03145,Paid Search,45-54,South,196.17007,Low
+CUST_03146,Social,18-24,South,2677.3105,Low
+CUST_03147,Organic,25-34,South,5066.163,Medium
+CUST_03148,Email,25-34,East,4562.769,Medium
+CUST_03149,Organic,18-24,East,5163.037,Low
+CUST_03150,Paid Search,18-24,North,3988.4834,Medium
+CUST_03151,Social,55+,North,2303.8237,Low
+CUST_03152,Paid Search,55+,East,3829.9534,Medium
+CUST_03153,Email,35-44,East,0.0,Low
+CUST_03154,Paid Search,55+,North,4243.6274,Low
+CUST_03155,Paid Search,45-54,North,3349.8193,Medium
+CUST_03156,Paid Search,18-24,East,3781.006,Medium
+CUST_03157,Paid Search,45-54,South,3821.9531,Low
+CUST_03158,Referral,18-24,North,13164.043,High
+CUST_03159,Email,55+,East,4588.4062,Medium
+CUST_03160,Paid Search,25-34,North,3522.0718,Low
+CUST_03161,Organic,18-24,North,234.10858,Low
+CUST_03162,Organic,25-34,East,4932.708,Medium
+CUST_03163,Paid Search,45-54,North,3834.7168,Medium
+CUST_03164,Email,55+,North,4559.575,Medium
+CUST_03165,Referral,35-44,West,14535.989,High
+CUST_03166,Social,18-24,North,1817.3241,Low
+CUST_03167,Email,55+,East,3608.786,Low
+CUST_03168,Social,45-54,West,609.9214,Low
+CUST_03169,Paid Search,35-44,West,3160.894,Low
+CUST_03170,Paid Search,35-44,West,4119.509,Medium
+CUST_03171,Social,55+,South,2587.154,Low
+CUST_03172,Referral,25-34,West,12517.651,High
+CUST_03173,Social,18-24,North,1981.3739,Medium
+CUST_03174,Paid Search,18-24,South,4175.87,Medium
+CUST_03175,Paid Search,45-54,North,3885.7852,Medium
+CUST_03176,Paid Search,55+,East,3978.0923,Low
+CUST_03177,Paid Search,45-54,West,3601.5786,Low
+CUST_03178,Paid Search,45-54,West,3760.2673,Low
+CUST_03179,Email,25-34,West,821.46014,Low
+CUST_03180,Email,35-44,North,0.0,Low
+CUST_03181,Social,18-24,West,2415.5938,Low
+CUST_03182,Email,25-34,East,4630.784,Medium
+CUST_03183,Paid Search,45-54,South,3821.9531,Low
+CUST_03184,Social,55+,North,2467.3228,Medium
+CUST_03185,Paid Search,55+,North,4066.5593,Low
+CUST_03186,Organic,55+,West,4199.243,Medium
+CUST_03187,Paid Search,18-24,South,3670.1196,Low
+CUST_03188,Email,55+,East,4588.4062,Medium
+CUST_03189,Organic,25-34,West,5213.789,Medium
+CUST_03190,Referral,45-54,South,11327.774,High
+CUST_03191,Referral,55+,North,10858.057,High
+CUST_03192,Social,55+,South,2574.9385,Low
+CUST_03193,Paid Search,45-54,North,4041.334,Low
+CUST_03194,Social,25-34,North,2698.1863,Low
+CUST_03195,Organic,35-44,West,5341.471,Medium
+CUST_03196,Organic,45-54,South,4681.5674,Low
+CUST_03197,Email,35-44,East,2702.5015,Low
+CUST_03198,Paid Search,35-44,East,171.89252,Low
+CUST_03199,Social,35-44,East,2747.4136,Medium
+CUST_03200,Email,35-44,East,4651.9233,Medium
+CUST_03201,Paid Search,18-24,North,353.74835,Low
+CUST_03202,Paid Search,55+,East,4252.9043,Low
+CUST_03203,Paid Search,18-24,West,4201.5444,Medium
+CUST_03204,Email,55+,North,4278.731,Medium
+CUST_03205,Paid Search,18-24,North,3741.3186,Medium
+CUST_03206,Paid Search,35-44,East,3757.6038,Low
+CUST_03207,Paid Search,35-44,West,4169.4663,Low
+CUST_03208,Organic,35-44,South,4724.6255,Medium
+CUST_03209,Paid Search,35-44,West,3989.44,Low
+CUST_03210,Paid Search,55+,North,3900.92,Medium
+CUST_03211,Email,18-24,East,4732.2397,Medium
+CUST_03212,Paid Search,55+,West,3942.1802,Medium
+CUST_03213,Organic,45-54,South,5224.603,Low
+CUST_03214,Organic,45-54,East,4255.141,Low
+CUST_03215,Email,18-24,North,4653.956,Medium
+CUST_03216,Email,18-24,East,4490.5566,Medium
+CUST_03217,Email,25-34,East,4601.756,Medium
+CUST_03218,Paid Search,25-34,West,3852.8633,Medium
+CUST_03219,Paid Search,45-54,North,4211.6924,Low
+CUST_03220,Paid Search,55+,South,3904.5952,Medium
+CUST_03221,Paid Search,35-44,East,3117.8425,Low
+CUST_03222,Referral,45-54,West,14894.133,High
+CUST_03223,Paid Search,18-24,North,938.6254,Low
+CUST_03224,Paid Search,45-54,East,3640.9373,Low
+CUST_03225,Email,18-24,West,2699.6929,Low
+CUST_03226,Email,45-54,East,3624.887,Medium
+CUST_03227,Paid Search,25-34,South,4068.921,Medium
+CUST_03228,Paid Search,35-44,North,3940.6384,Medium
+CUST_03229,Paid Search,25-34,South,3108.453,Low
+CUST_03230,Paid Search,35-44,North,3341.6487,Low
+CUST_03231,Social,55+,North,2593.3936,Low
+CUST_03232,Organic,55+,South,4490.085,Low
+CUST_03233,Email,25-34,North,4509.2427,Medium
+CUST_03234,Email,25-34,North,4579.126,Medium
+CUST_03235,Social,35-44,East,2532.6077,Low
+CUST_03236,Referral,45-54,North,13451.834,High
+CUST_03237,Paid Search,18-24,North,4043.055,Low
+CUST_03238,Paid Search,45-54,East,168.25237,Low
+CUST_03239,Email,55+,West,4562.617,Medium
+CUST_03240,Referral,55+,East,13455.449,High
+CUST_03241,Paid Search,35-44,North,3736.4333,Low
+CUST_03242,Paid Search,25-34,North,3751.8062,Medium
+CUST_03243,Paid Search,25-34,East,4128.7866,Medium
+CUST_03244,Paid Search,45-54,East,4107.114,Low
+CUST_03245,Email,35-44,South,0.0,Low
+CUST_03246,Social,18-24,West,428.68167,Low
+CUST_03247,Email,45-54,West,4596.908,Medium
+CUST_03248,Paid Search,18-24,East,3917.557,Medium
+CUST_03249,Paid Search,55+,East,3608.621,Low
+CUST_03250,Social,35-44,West,2686.9395,Medium
+CUST_03251,Email,25-34,North,4266.243,Low
+CUST_03252,Paid Search,18-24,East,3706.8596,Medium
+CUST_03253,Paid Search,18-24,West,3174.666,Low
+CUST_03254,Social,55+,North,2445.6794,Medium
+CUST_03255,Social,35-44,North,2657.2932,Medium
+CUST_03256,Organic,55+,South,4894.8003,Medium
+CUST_03257,Referral,55+,South,17172.414,High
+CUST_03258,Email,18-24,West,762.9349,Low
+CUST_03259,Email,25-34,South,4730.281,Medium
+CUST_03260,Paid Search,55+,East,4087.7441,Medium
+CUST_03261,Social,35-44,West,2618.1626,Medium
+CUST_03262,Referral,35-44,West,12183.634,High
+CUST_03263,Paid Search,35-44,East,4041.7388,Medium
+CUST_03264,Organic,45-54,West,5693.033,Medium
+CUST_03265,Email,55+,East,4345.518,Medium
+CUST_03266,Paid Search,55+,North,3815.202,Medium
+CUST_03267,Paid Search,45-54,East,3821.1406,Medium
+CUST_03268,Organic,35-44,South,5364.466,Low
+CUST_03269,Organic,25-34,South,5410.0728,Medium
+CUST_03270,Email,18-24,East,4512.0137,Medium
+CUST_03271,Organic,45-54,South,4978.054,Medium
+CUST_03272,Organic,18-24,North,5136.176,Low
+CUST_03273,Social,45-54,West,869.4329,Low
+CUST_03274,Organic,35-44,East,4885.7593,Medium
+CUST_03275,Email,45-54,East,4558.614,Medium
+CUST_03276,Social,55+,West,2564.8406,Medium
+CUST_03277,Referral,35-44,East,0.0,Low
+CUST_03278,Social,35-44,East,3005.5027,Low
+CUST_03279,Paid Search,35-44,West,3831.9932,Medium
+CUST_03280,Social,25-34,South,2724.8594,Low
+CUST_03281,Organic,18-24,West,396.08783,Low
+CUST_03282,Paid Search,18-24,East,3965.704,Medium
+CUST_03283,Organic,45-54,North,4687.448,Low
+CUST_03284,Email,55+,North,4525.709,Medium
+CUST_03285,Paid Search,18-24,West,3831.9126,Medium
+CUST_03286,Paid Search,25-34,West,5388.3125,Low
+CUST_03287,Social,45-54,West,2752.2283,Low
+CUST_03288,Referral,45-54,North,7231.023,Medium
+CUST_03289,Paid Search,45-54,West,3892.9875,Low
+CUST_03290,Referral,45-54,West,17091.94,High
+CUST_03291,Paid Search,18-24,West,3637.381,Low
+CUST_03292,Email,25-34,South,4615.2793,Medium
+CUST_03293,Organic,35-44,East,5211.1284,Medium
+CUST_03294,Social,18-24,South,2555.032,Low
+CUST_03295,Social,25-34,North,515.2422,Low
+CUST_03296,Referral,25-34,East,13166.4375,High
+CUST_03297,Organic,55+,North,203.03865,Low
+CUST_03298,Paid Search,25-34,North,3737.439,Medium
+CUST_03299,Paid Search,55+,North,2723.3682,Low
+CUST_03300,Paid Search,45-54,South,4183.962,Low
+CUST_03301,Referral,45-54,North,10266.729,High
+CUST_03302,Referral,55+,West,15912.412,High
+CUST_03303,Social,55+,West,2705.739,Low
+CUST_03304,Paid Search,25-34,West,3872.373,Medium
+CUST_03305,Paid Search,35-44,South,3957.1526,Medium
+CUST_03306,Referral,35-44,North,12040.296,High
+CUST_03307,Organic,55+,East,4787.0454,Medium
+CUST_03308,Paid Search,18-24,East,3517.9224,Medium
+CUST_03309,Paid Search,35-44,North,3694.2507,Medium
+CUST_03310,Paid Search,25-34,West,4035.103,Medium
+CUST_03311,Email,25-34,South,4759.6797,Medium
+CUST_03312,Paid Search,45-54,West,51.003487,Low
+CUST_03313,Paid Search,25-34,North,3991.5674,Medium
+CUST_03314,Referral,45-54,South,16060.299,High
+CUST_03315,Paid Search,55+,South,3836.6897,Medium
+CUST_03316,Email,45-54,North,3990.985,Medium
+CUST_03317,Paid Search,18-24,East,4083.7102,Low
+CUST_03318,Organic,18-24,West,5055.291,Medium
+CUST_03319,Email,35-44,East,4721.5337,Medium
+CUST_03320,Paid Search,35-44,South,3590.1724,Low
+CUST_03321,Paid Search,45-54,East,3724.018,Low
+CUST_03322,Referral,35-44,South,11956.8125,High
+CUST_03323,Organic,18-24,South,5214.7114,Medium
+CUST_03324,Paid Search,55+,West,3689.9033,Medium
+CUST_03325,Paid Search,55+,East,3544.2168,Low
+CUST_03326,Paid Search,45-54,South,3920.7244,Medium
+CUST_03327,Referral,45-54,South,12848.07,High
+CUST_03328,Organic,55+,West,8275.94,Medium
+CUST_03329,Email,35-44,East,4577.737,Medium
+CUST_03330,Paid Search,18-24,North,4050.1482,Low
+CUST_03331,Social,45-54,West,2551.7993,Medium
+CUST_03332,Social,35-44,East,2707.979,Low
+CUST_03333,Paid Search,45-54,South,3648.7498,Low
+CUST_03334,Paid Search,45-54,West,3605.7146,Low
+CUST_03335,Email,35-44,West,3376.5637,Low
+CUST_03336,Social,25-34,West,2572.2896,Low
+CUST_03337,Social,35-44,South,3166.363,Medium
+CUST_03338,Social,45-54,West,2689.535,Medium
+CUST_03339,Social,45-54,West,2743.4111,Low
+CUST_03340,Paid Search,35-44,West,3856.7188,Medium
+CUST_03341,Paid Search,35-44,East,3298.5696,Low
+CUST_03342,Paid Search,55+,South,3750.6821,Medium
+CUST_03343,Organic,25-34,North,4749.3096,Medium
+CUST_03344,Referral,18-24,West,854.48065,Low
+CUST_03345,Paid Search,45-54,East,4127.272,Low
+CUST_03346,Paid Search,55+,West,3687.3904,Medium
+CUST_03347,Social,45-54,East,2745.497,Low
+CUST_03348,Social,35-44,East,451.6903,Low
+CUST_03349,Social,25-34,North,2433.224,Low
+CUST_03350,Paid Search,35-44,South,3815.3032,Low
+CUST_03351,Organic,18-24,East,5156.6675,Medium
+CUST_03352,Social,35-44,North,633.246,Low
+CUST_03353,Social,25-34,North,2361.7363,Low
+CUST_03354,Social,25-34,East,2521.0664,Low
+CUST_03355,Organic,35-44,North,4583.588,Medium
+CUST_03356,Organic,55+,East,4865.8135,Medium
+CUST_03357,Referral,25-34,South,16461.795,High
+CUST_03358,Email,55+,South,4126.751,Low
+CUST_03359,Email,35-44,North,20.203358,Low
+CUST_03360,Social,55+,South,367.5914,Low
+CUST_03361,Referral,25-34,East,10864.211,High
+CUST_03362,Paid Search,55+,East,3879.8335,Medium
+CUST_03363,Paid Search,45-54,South,5164.613,Low
+CUST_03364,Organic,45-54,North,5335.185,Medium
+CUST_03365,Organic,35-44,West,5101.199,Medium
+CUST_03366,Organic,35-44,West,5012.6743,Medium
+CUST_03367,Email,35-44,West,4527.1704,Medium
+CUST_03368,Social,55+,South,2409.4717,Low
+CUST_03369,Social,45-54,East,2659.3179,Low
+CUST_03370,Paid Search,18-24,North,692.31476,Low
+CUST_03371,Paid Search,45-54,West,3724.2334,Medium
+CUST_03372,Organic,55+,North,4135.768,Medium
+CUST_03373,Paid Search,45-54,South,3290.3281,Low
+CUST_03374,Referral,35-44,West,3843.2656,Medium
+CUST_03375,Social,25-34,East,2479.9165,Medium
+CUST_03376,Social,45-54,West,2668.0374,Low
+CUST_03377,Paid Search,45-54,South,4023.486,Low
+CUST_03378,Social,25-34,North,515.2422,Low
+CUST_03379,Paid Search,35-44,North,3687.3625,Low
+CUST_03380,Social,25-34,North,589.3842,Low
+CUST_03381,Paid Search,18-24,North,3988.5234,Medium
+CUST_03382,Social,18-24,South,2780.7263,Low
+CUST_03383,Social,18-24,North,2115.1147,Low
+CUST_03384,Paid Search,35-44,North,386.45306,Low
+CUST_03385,Paid Search,35-44,South,3770.43,Medium
+CUST_03386,Social,35-44,East,2809.0083,Low
+CUST_03387,Paid Search,55+,East,3950.2097,Medium
+CUST_03388,Paid Search,25-34,North,952.18896,Low
+CUST_03389,Email,25-34,West,4466.8296,Medium
+CUST_03390,Organic,25-34,East,4865.024,Medium
+CUST_03391,Referral,25-34,South,14552.908,High
+CUST_03392,Email,35-44,South,4672.5005,Medium
+CUST_03393,Organic,25-34,West,5739.632,Low
+CUST_03394,Email,25-34,South,4649.0493,Medium
+CUST_03395,Email,45-54,North,4893.607,Medium
+CUST_03396,Email,55+,South,4613.3623,Medium
+CUST_03397,Paid Search,25-34,North,495.2484,Low
+CUST_03398,Paid Search,18-24,North,4251.844,Low
+CUST_03399,Social,25-34,South,2747.2937,Medium
+CUST_03400,Paid Search,35-44,North,3748.6997,Medium
+CUST_03401,Social,55+,South,2488.1448,Low
+CUST_03402,Paid Search,18-24,North,3715.7932,Medium
+CUST_03403,Email,18-24,East,4616.5483,Medium
+CUST_03404,Paid Search,35-44,North,4053.1526,Medium
+CUST_03405,Referral,55+,North,11406.96,High
+CUST_03406,Social,35-44,West,1983.2577,Low
+CUST_03407,Email,55+,North,4734.221,Medium
+CUST_03408,Paid Search,45-54,South,3765.4426,Medium
+CUST_03409,Paid Search,18-24,East,3729.646,Medium
+CUST_03410,Social,35-44,South,2795.1643,Low
+CUST_03411,Paid Search,45-54,South,3728.84,Medium
+CUST_03412,Social,35-44,North,633.246,Low
+CUST_03413,Paid Search,18-24,South,455.80185,Low
+CUST_03414,Paid Search,18-24,West,3694.7068,Medium
+CUST_03415,Social,45-54,East,2388.3738,Low
+CUST_03416,Email,35-44,West,3344.484,Low
+CUST_03417,Paid Search,35-44,East,3696.7122,Low
+CUST_03418,Organic,25-34,West,4638.378,Low
+CUST_03419,Paid Search,25-34,South,2110.135,Medium
+CUST_03420,Email,45-54,East,39.96386,Low
+CUST_03421,Email,18-24,East,4803.5317,Medium
+CUST_03422,Email,35-44,West,4590.446,Medium
+CUST_03423,Social,25-34,East,2155.5376,Low
+CUST_03424,Paid Search,45-54,South,3591.065,Low
+CUST_03425,Organic,45-54,North,3660.0117,Low
+CUST_03426,Referral,35-44,West,10661.398,High
+CUST_03427,Organic,25-34,South,4351.109,Low
+CUST_03428,Social,25-34,West,2286.1558,Low
+CUST_03429,Organic,25-34,East,1150.2391,Low
+CUST_03430,Referral,25-34,North,13970.873,High
+CUST_03431,Email,45-54,East,4553.461,Medium
+CUST_03432,Email,18-24,South,4593.4277,Medium
+CUST_03433,Social,18-24,North,864.11005,Low
+CUST_03434,Email,35-44,South,4671.855,Medium
+CUST_03435,Social,25-34,East,2784.821,Medium
+CUST_03436,Paid Search,55+,North,4057.5078,Medium
+CUST_03437,Social,45-54,East,2867.6992,Low
+CUST_03438,Paid Search,45-54,West,3613.3806,Low
+CUST_03439,Organic,35-44,North,198.0968,Low
+CUST_03440,Paid Search,35-44,North,478.01694,Low
+CUST_03441,Paid Search,35-44,North,3405.3335,Low
+CUST_03442,Social,18-24,East,2640.7805,Low
+CUST_03443,Social,35-44,West,2345.5132,Low
+CUST_03444,Social,55+,West,554.12854,Low
+CUST_03445,Organic,25-34,North,5464.05,Medium
+CUST_03446,Paid Search,18-24,South,90.22479,Low
+CUST_03447,Social,35-44,North,1586.2152,Low
+CUST_03448,Email,25-34,South,4506.17,Medium
+CUST_03449,Email,45-54,South,4513.2065,Medium
+CUST_03450,Email,55+,East,4518.6465,Medium
+CUST_03451,Paid Search,55+,West,3787.3125,Medium
+CUST_03452,Referral,25-34,West,13158.433,High
+CUST_03453,Social,55+,North,2550.2737,Low
+CUST_03454,Paid Search,18-24,North,3912.9517,Low
+CUST_03455,Organic,25-34,South,5139.369,Medium
+CUST_03456,Email,25-34,South,4846.424,Medium
+CUST_03457,Paid Search,55+,South,4299.706,Low
+CUST_03458,Referral,45-54,East,14469.042,High
+CUST_03459,Paid Search,25-34,East,3735.5305,Medium
+CUST_03460,Paid Search,18-24,West,3781.006,Medium
+CUST_03461,Social,45-54,East,2902.5535,Low
+CUST_03462,Paid Search,45-54,South,3674.4543,Medium
+CUST_03463,Paid Search,55+,North,3776.9136,Medium
+CUST_03464,Social,35-44,South,2740.1975,Low
+CUST_03465,Paid Search,18-24,West,3787.8198,Low
+CUST_03466,Social,25-34,West,2370.41,Low
+CUST_03467,Social,45-54,South,2682.649,Medium
+CUST_03468,Paid Search,25-34,North,3284.0728,Low
+CUST_03469,Email,18-24,North,4807.685,Low
+CUST_03470,Paid Search,55+,North,4097.7266,Low
+CUST_03471,Referral,35-44,East,15360.927,High
+CUST_03472,Paid Search,25-34,East,4038.8289,Low
+CUST_03473,Organic,35-44,East,4701.9985,Medium
+CUST_03474,Paid Search,45-54,North,3670.6199,Low
+CUST_03475,Social,18-24,South,2455.8987,Low
+CUST_03476,Paid Search,35-44,North,3937.858,Low
+CUST_03477,Paid Search,25-34,South,3814.5115,Medium
+CUST_03478,Email,18-24,East,4682.1396,Medium
+CUST_03479,Referral,18-24,South,17803.51,High
+CUST_03480,Organic,35-44,East,5017.964,Medium
+CUST_03481,Paid Search,35-44,South,3677.6436,Medium
+CUST_03482,Paid Search,35-44,East,3728.3965,Low
+CUST_03483,Email,45-54,South,0.0,Low
+CUST_03484,Email,35-44,South,4652.345,Medium
+CUST_03485,Organic,35-44,North,4303.9736,Low
+CUST_03486,Organic,55+,East,5067.154,Medium
+CUST_03487,Organic,45-54,West,425.87897,Low
+CUST_03488,Paid Search,55+,East,3890.457,Low
+CUST_03489,Email,25-34,East,4541.526,Medium
+CUST_03490,Social,45-54,West,2545.4106,Medium
+CUST_03491,Paid Search,45-54,North,3215.5542,Medium
+CUST_03492,Social,35-44,West,2677.412,Medium
+CUST_03493,Paid Search,18-24,North,3376.0002,Medium
+CUST_03494,Paid Search,35-44,East,3338.211,Low
+CUST_03495,Organic,55+,West,4136.237,Low
+CUST_03496,Paid Search,45-54,West,3733.919,Low
+CUST_03497,Organic,18-24,South,4809.38,Medium
+CUST_03498,Paid Search,25-34,West,3986.6375,Low
+CUST_03499,Paid Search,35-44,East,3684.0005,Medium
+CUST_03500,Paid Search,55+,North,3692.1165,Low
+CUST_03501,Paid Search,35-44,North,342.374,Low
+CUST_03502,Email,55+,West,4457.7124,Medium
+CUST_03503,Paid Search,45-54,West,3920.3748,Medium
+CUST_03504,Referral,25-34,West,15844.572,High
+CUST_03505,Organic,18-24,South,3778.6943,Low
+CUST_03506,Email,55+,South,4669.178,Medium
+CUST_03507,Paid Search,35-44,West,3694.621,Low
+CUST_03508,Email,55+,North,4543.8213,Medium
+CUST_03509,Social,55+,West,2418.5374,Low
+CUST_03510,Referral,35-44,East,17278.176,High
+CUST_03511,Paid Search,18-24,East,3626.1382,Low
+CUST_03512,Email,55+,South,4755.2207,Medium
+CUST_03513,Email,35-44,West,4626.283,Medium
+CUST_03514,Paid Search,18-24,East,4192.16,Low
+CUST_03515,Paid Search,35-44,North,4032.498,Low
+CUST_03516,Organic,18-24,East,4535.1396,Medium
+CUST_03517,Paid Search,25-34,West,3570.8953,Low
+CUST_03518,Paid Search,25-34,North,4354.784,Low
+CUST_03519,Paid Search,35-44,East,3684.5388,Low
+CUST_03520,Referral,35-44,North,8060.914,High
+CUST_03521,Email,55+,East,4538.7207,Medium
+CUST_03522,Paid Search,25-34,West,41.632103,Low
+CUST_03523,Email,45-54,South,4642.086,Medium
+CUST_03524,Social,55+,North,2540.2217,Low
+CUST_03525,Paid Search,45-54,North,3729.4014,Medium
+CUST_03526,Organic,25-34,East,5390.2896,Medium
+CUST_03527,Paid Search,45-54,West,3842.4329,Medium
+CUST_03528,Paid Search,25-34,South,3743.6235,Medium
+CUST_03529,Organic,35-44,West,385.55408,Low
+CUST_03530,Social,45-54,South,2651.3203,Low
+CUST_03531,Paid Search,25-34,North,4010.0415,Medium
+CUST_03532,Social,18-24,East,2429.4004,Low
+CUST_03533,Email,55+,West,4643.278,Medium
+CUST_03534,Paid Search,45-54,South,4561.08,Low
+CUST_03535,Social,18-24,West,2415.5938,Low
+CUST_03536,Social,25-34,East,2617.2126,Medium
+CUST_03537,Paid Search,25-34,South,3848.3884,Medium
+CUST_03538,Referral,55+,East,16619.625,High
+CUST_03539,Email,55+,South,623.012,Low
+CUST_03540,Paid Search,45-54,North,3932.7417,Medium
+CUST_03541,Organic,35-44,West,3790.7163,Low
+CUST_03542,Email,18-24,South,4846.424,Medium
+CUST_03543,Referral,25-34,East,17380.268,High
+CUST_03544,Referral,18-24,East,0.0,Low
+CUST_03545,Referral,45-54,North,14025.035,High
+CUST_03546,Paid Search,18-24,East,3539.8833,Low
+CUST_03547,Organic,45-54,South,4866.352,Low
+CUST_03548,Referral,55+,East,10347.34,Medium
+CUST_03549,Social,25-34,South,2647.2163,Low
+CUST_03550,Email,45-54,West,4604.717,Medium
+CUST_03551,Paid Search,55+,North,3636.6445,Medium
+CUST_03552,Paid Search,35-44,North,3711.312,Low
+CUST_03553,Email,35-44,South,4646.215,Medium
+CUST_03554,Paid Search,25-34,North,4041.6235,Medium
+CUST_03555,Social,35-44,North,2875.0989,Low
+CUST_03556,Organic,55+,East,4830.3774,Medium
+CUST_03557,Paid Search,45-54,West,2966.6357,Low
+CUST_03558,Paid Search,25-34,East,3670.606,Medium
+CUST_03559,Social,35-44,South,276.9665,Low
+CUST_03560,Paid Search,45-54,West,4537.871,Low
+CUST_03561,Organic,18-24,South,4582.526,Medium
+CUST_03562,Email,45-54,North,4761.563,Medium
+CUST_03563,Paid Search,25-34,West,3785.352,Low
+CUST_03564,Paid Search,25-34,East,3902.7434,Medium
+CUST_03565,Organic,35-44,South,2741.808,Low
+CUST_03566,Paid Search,35-44,East,4250.118,Low
+CUST_03567,Social,55+,East,2397.913,Medium
+CUST_03568,Paid Search,25-34,North,3715.231,Medium
+CUST_03569,Paid Search,25-34,North,3604.4934,Low
+CUST_03570,Organic,25-34,East,3466.2258,Low
+CUST_03571,Paid Search,55+,North,3590.933,Low
+CUST_03572,Paid Search,55+,East,3676.0403,Medium
+CUST_03573,Email,35-44,South,4463.8833,Medium
+CUST_03574,Organic,45-54,North,2675.6152,Low
+CUST_03575,Paid Search,55+,East,3903.7246,Medium
+CUST_03576,Paid Search,55+,South,4327.546,Medium
+CUST_03577,Organic,45-54,South,4422.2246,Medium
+CUST_03578,Social,35-44,North,2757.7222,Medium
+CUST_03579,Organic,55+,East,0.0,Low
+CUST_03580,Social,25-34,West,2631.3572,Medium
+CUST_03581,Social,25-34,East,393.54974,Low
+CUST_03582,Email,45-54,North,4637.918,Medium
+CUST_03583,Paid Search,18-24,West,2866.4236,Low
+CUST_03584,Social,35-44,North,2721.8276,Low
+CUST_03585,Social,55+,South,2674.5984,Low
+CUST_03586,Organic,18-24,North,5128.484,Medium
+CUST_03587,Referral,55+,West,1251.0795,Medium
+CUST_03588,Paid Search,35-44,North,4164.4478,Medium
+CUST_03589,Email,55+,East,4588.4062,Medium
+CUST_03590,Referral,45-54,North,9957.2295,High
+CUST_03591,Email,18-24,North,4525.1973,Medium
+CUST_03592,Social,45-54,East,2654.2048,Low
+CUST_03593,Referral,18-24,West,13466.422,High
+CUST_03594,Paid Search,25-34,North,3658.9397,Medium
+CUST_03595,Referral,55+,North,13315.051,High
+CUST_03596,Referral,55+,South,16512.365,High
+CUST_03597,Organic,18-24,West,5129.4614,Medium
+CUST_03598,Email,25-34,North,0.0,Low
+CUST_03599,Referral,18-24,North,762.4348,Medium
+CUST_03600,Email,25-34,South,0.0,Low
+CUST_03601,Email,55+,South,3416.571,Low
+CUST_03602,Paid Search,18-24,North,4017.3796,Medium
+CUST_03603,Organic,45-54,East,5272.4785,Medium
+CUST_03604,Organic,55+,East,4609.9663,Medium
+CUST_03605,Email,55+,North,4660.393,Medium
+CUST_03606,Referral,25-34,East,16013.135,High
+CUST_03607,Paid Search,45-54,North,3145.4944,Medium
+CUST_03608,Referral,35-44,East,16061.935,High
+CUST_03609,Email,18-24,South,0.0,Low
+CUST_03610,Social,25-34,North,2302.8853,Low
+CUST_03611,Paid Search,45-54,North,3760.7322,Medium
+CUST_03612,Social,45-54,West,2253.0498,Medium
+CUST_03613,Paid Search,35-44,East,3426.1216,Medium
+CUST_03614,Social,45-54,East,2580.681,Medium
+CUST_03615,Referral,45-54,North,13948.46,High
+CUST_03616,Paid Search,25-34,North,3566.9556,Low
+CUST_03617,Email,25-34,North,4469.3,Medium
+CUST_03618,Social,55+,South,2767.7334,Low
+CUST_03619,Referral,55+,South,2186.2393,Medium
+CUST_03620,Paid Search,18-24,West,3938.774,Low
+CUST_03621,Email,45-54,West,4749.2026,Medium
+CUST_03622,Paid Search,18-24,South,3635.5786,Low
+CUST_03623,Referral,55+,South,18373.637,High
+CUST_03624,Referral,35-44,South,13699.211,High
+CUST_03625,Paid Search,45-54,East,3644.551,Low
+CUST_03626,Referral,45-54,East,13408.386,High
+CUST_03627,Social,45-54,East,461.8547,Low
+CUST_03628,Social,25-34,North,2693.1973,Medium
+CUST_03629,Paid Search,55+,South,3445.6125,Low
+CUST_03630,Paid Search,35-44,West,3750.4983,Medium
+CUST_03631,Email,35-44,South,0.0,Low
+CUST_03632,Paid Search,25-34,North,3952.405,Low
+CUST_03633,Email,18-24,North,4514.484,Medium
+CUST_03634,Paid Search,35-44,North,1042.9545,Low
+CUST_03635,Paid Search,25-34,West,3915.0056,Low
+CUST_03636,Social,45-54,North,2614.4375,Low
+CUST_03637,Paid Search,25-34,East,3750.2295,Medium
+CUST_03638,Social,55+,South,2516.6033,Low
+CUST_03639,Paid Search,45-54,North,3952.2114,Medium
+CUST_03640,Referral,35-44,West,16003.893,High
+CUST_03641,Email,45-54,East,895.0144,Low
+CUST_03642,Social,45-54,West,2588.578,Low
+CUST_03643,Social,45-54,West,2862.0195,Low
+CUST_03644,Email,35-44,West,4775.4336,Medium
+CUST_03645,Referral,55+,East,16986.402,High
+CUST_03646,Paid Search,25-34,East,441.8321,Low
+CUST_03647,Referral,35-44,East,14399.617,High
+CUST_03648,Paid Search,25-34,South,3958.957,Medium
+CUST_03649,Email,35-44,North,4542.6333,Medium
+CUST_03650,Paid Search,55+,South,3598.759,Low
+CUST_03651,Organic,45-54,South,4857.528,Medium
+CUST_03652,Email,25-34,North,0.0,Low
+CUST_03653,Referral,55+,West,17419.158,High
+CUST_03654,Email,45-54,West,4685.9004,Medium
+CUST_03655,Paid Search,35-44,South,3859.275,Medium
+CUST_03656,Paid Search,18-24,South,196.53613,Low
+CUST_03657,Organic,35-44,West,5468.2417,Medium
+CUST_03658,Social,55+,South,2991.929,Low
+CUST_03659,Paid Search,35-44,East,3887.3408,Medium
+CUST_03660,Social,18-24,East,2839.692,Low
+CUST_03661,Email,18-24,South,4802.137,Medium
+CUST_03662,Paid Search,55+,West,3683.8438,Medium
+CUST_03663,Email,35-44,North,2118.5308,Low
+CUST_03664,Paid Search,45-54,North,3932.7417,Medium
+CUST_03665,Paid Search,25-34,East,3904.3967,Low
+CUST_03666,Social,18-24,East,2904.1418,Low
+CUST_03667,Paid Search,35-44,West,3483.011,Low
+CUST_03668,Organic,45-54,East,4807.6416,Low
+CUST_03669,Social,25-34,North,2874.3386,Low
+CUST_03670,Social,45-54,West,3040.824,Low
+CUST_03671,Referral,35-44,South,0.0,Low
+CUST_03672,Organic,25-34,North,5026.1577,Low
+CUST_03673,Email,25-34,East,4526.5693,Medium
+CUST_03674,Email,25-34,North,3081.443,Low
+CUST_03675,Email,25-34,South,4728.9844,Medium
+CUST_03676,Organic,45-54,South,5043.6147,Low
+CUST_03677,Paid Search,25-34,North,3707.1675,Medium
+CUST_03678,Referral,45-54,West,12787.931,High
+CUST_03679,Social,25-34,East,2538.786,Medium
+CUST_03680,Email,25-34,West,4450.4375,Medium
+CUST_03681,Organic,55+,South,5266.1772,Low
+CUST_03682,Email,55+,East,4588.4062,Medium
+CUST_03683,Paid Search,35-44,West,3435.441,Low
+CUST_03684,Referral,25-34,North,14180.744,High
+CUST_03685,Email,45-54,West,4684.9575,Medium
+CUST_03686,Paid Search,18-24,North,3906.738,Medium
+CUST_03687,Paid Search,35-44,West,3734.867,Medium
+CUST_03688,Paid Search,35-44,East,3664.4907,Medium
+CUST_03689,Social,45-54,East,2784.7092,Medium
+CUST_03690,Organic,18-24,North,1412.8029,Low
+CUST_03691,Email,18-24,East,4534.2866,Medium
+CUST_03692,Paid Search,25-34,East,4147.015,Low
+CUST_03693,Email,18-24,West,4525.496,Medium
+CUST_03694,Organic,35-44,West,4898.643,Medium
+CUST_03695,Social,55+,South,344.88403,Low
+CUST_03696,Paid Search,25-34,South,312.60892,Low
+CUST_03697,Paid Search,35-44,South,295.91116,Low
+CUST_03698,Organic,25-34,South,5104.8506,Medium
+CUST_03699,Organic,18-24,North,4831.211,Medium
+CUST_03700,Paid Search,45-54,North,2872.4507,Low
+CUST_03701,Social,25-34,West,2605.8296,Medium
+CUST_03702,Paid Search,35-44,South,3800.1416,Low
+CUST_03703,Paid Search,45-54,South,3490.471,Medium
+CUST_03704,Social,55+,East,2540.6082,Low
+CUST_03705,Email,18-24,East,4701.6084,Medium
+CUST_03706,Email,35-44,South,4460.5347,Medium
+CUST_03707,Organic,55+,West,3534.326,Low
+CUST_03708,Social,35-44,North,2873.9258,Low
+CUST_03709,Paid Search,18-24,South,4000.9023,Medium
+CUST_03710,Referral,25-34,North,11042.111,High
+CUST_03711,Social,45-54,East,2629.747,Medium
+CUST_03712,Referral,45-54,North,8208.67,Medium
+CUST_03713,Organic,25-34,West,4903.3667,Medium
+CUST_03714,Social,18-24,East,2558.0222,Medium
+CUST_03715,Paid Search,25-34,North,4720.5537,Low
+CUST_03716,Paid Search,25-34,East,4470.3594,Low
+CUST_03717,Social,45-54,South,2483.1746,Medium
+CUST_03718,Organic,55+,East,4867.521,Medium
+CUST_03719,Paid Search,18-24,North,3477.424,Medium
+CUST_03720,Paid Search,45-54,East,4137.698,Medium
+CUST_03721,Social,45-54,North,2043.2505,Low
+CUST_03722,Paid Search,45-54,North,3706.9045,Low
+CUST_03723,Paid Search,55+,East,3690.5188,Low
+CUST_03724,Organic,18-24,East,4401.7734,Low
+CUST_03725,Social,45-54,South,426.03494,Low
+CUST_03726,Organic,18-24,North,4204.864,Medium
+CUST_03727,Social,55+,South,2651.9033,Low
+CUST_03728,Paid Search,35-44,West,3421.2852,Medium
+CUST_03729,Organic,18-24,East,4632.2446,Medium
+CUST_03730,Paid Search,45-54,North,3834.8787,Medium
+CUST_03731,Paid Search,45-54,West,3874.2927,Medium
+CUST_03732,Organic,35-44,South,4976.514,Low
+CUST_03733,Social,25-34,East,2706.8599,Low
+CUST_03734,Organic,18-24,North,3861.1873,Low
+CUST_03735,Paid Search,55+,South,4352.218,Low
+CUST_03736,Organic,18-24,West,5473.171,Medium
+CUST_03737,Referral,55+,South,14514.334,High
+CUST_03738,Social,35-44,North,2550.4329,Low
+CUST_03739,Organic,45-54,North,5240.289,Medium
+CUST_03740,Email,45-54,West,4678.827,Medium
+CUST_03741,Social,55+,West,2654.9812,Medium
+CUST_03742,Referral,18-24,North,12796.545,High
+CUST_03743,Social,55+,West,2280.0242,Low
+CUST_03744,Organic,18-24,West,5419.794,Medium
+CUST_03745,Social,55+,South,2728.0906,Medium
+CUST_03746,Paid Search,25-34,East,3730.7197,Medium
+CUST_03747,Paid Search,55+,South,3570.4238,Low
+CUST_03748,Organic,18-24,North,4505.992,Low
+CUST_03749,Organic,35-44,East,5017.964,Medium
+CUST_03750,Organic,35-44,North,4608.6206,Medium
+CUST_03751,Paid Search,55+,South,3836.6897,Medium
+CUST_03752,Email,18-24,South,4385.276,Medium
+CUST_03753,Social,18-24,North,2696.678,Low
+CUST_03754,Social,45-54,West,2853.1123,Low
+CUST_03755,Paid Search,18-24,East,3967.437,Medium
+CUST_03756,Referral,45-54,West,13363.852,High
+CUST_03757,Paid Search,18-24,East,3119.093,Low
+CUST_03758,Email,55+,North,4556.217,Medium
+CUST_03759,Paid Search,35-44,South,2867.4001,Low
+CUST_03760,Paid Search,55+,South,3607.1743,Medium
+CUST_03761,Paid Search,18-24,West,3749.1157,Medium
+CUST_03762,Organic,25-34,North,5087.939,Medium
+CUST_03763,Social,35-44,East,2608.4856,Low
+CUST_03764,Organic,18-24,North,4483.4404,Medium
+CUST_03765,Email,18-24,West,3391.6594,Low
+CUST_03766,Email,25-34,East,4526.5693,Medium
+CUST_03767,Email,45-54,South,4388.8174,Medium
+CUST_03768,Referral,45-54,South,0.0,Low
+CUST_03769,Email,18-24,South,3638.0813,Low
+CUST_03770,Social,18-24,North,2543.842,Low
+CUST_03771,Social,45-54,East,2438.3079,Low
+CUST_03772,Organic,25-34,West,4996.636,Medium
+CUST_03773,Paid Search,45-54,North,3901.6426,Medium
+CUST_03774,Email,25-34,East,4636.9556,Medium
+CUST_03775,Paid Search,25-34,East,199.47684,Low
+CUST_03776,Paid Search,25-34,West,3676.043,Medium
+CUST_03777,Social,25-34,West,2487.7175,Medium
+CUST_03778,Email,45-54,North,4815.9224,Medium
+CUST_03779,Social,35-44,North,2594.2976,Medium
+CUST_03780,Paid Search,45-54,West,3827.4636,Low
+CUST_03781,Organic,18-24,North,4183.5723,Low
+CUST_03782,Organic,35-44,East,4844.432,Medium
+CUST_03783,Email,35-44,West,4651.9233,Medium
+CUST_03784,Organic,55+,East,5670.3457,Low
+CUST_03785,Paid Search,35-44,North,4075.0815,Medium
+CUST_03786,Social,18-24,North,2004.6841,Low
+CUST_03787,Organic,45-54,East,4650.9277,Medium
+CUST_03788,Social,18-24,West,2390.6355,Low
+CUST_03789,Social,55+,South,2700.8667,Medium
+CUST_03790,Email,25-34,East,4531.6714,Medium
+CUST_03791,Social,45-54,West,2120.1653,Low
+CUST_03792,Social,45-54,West,2423.639,Low
+CUST_03793,Paid Search,35-44,East,3699.43,Medium
+CUST_03794,Paid Search,35-44,East,4283.563,Low
+CUST_03795,Social,18-24,West,2415.5938,Low
+CUST_03796,Referral,18-24,West,16294.337,High
+CUST_03797,Email,45-54,South,4690.6323,Medium
+CUST_03798,Organic,55+,East,5055.2085,Medium
+CUST_03799,Social,55+,South,2556.78,Low
+CUST_03800,Email,25-34,West,4617.446,Medium
+CUST_03801,Email,25-34,North,4651.472,Medium
+CUST_03802,Referral,25-34,North,14586.483,High
+CUST_03803,Social,45-54,South,2689.3088,Medium
+CUST_03804,Referral,45-54,North,12579.747,High
+CUST_03805,Email,45-54,East,4737.7656,Medium
+CUST_03806,Social,55+,East,2356.606,Low
+CUST_03807,Social,25-34,West,2709.1143,Low
+CUST_03808,Social,45-54,East,2666.6885,Medium
+CUST_03809,Paid Search,35-44,East,3777.3164,Medium
+CUST_03810,Social,55+,East,2685.18,Medium
+CUST_03811,Email,25-34,North,4524.449,Medium
+CUST_03812,Paid Search,18-24,East,3714.755,Low
+CUST_03813,Social,25-34,North,2728.8833,Low
+CUST_03814,Social,45-54,East,3117.835,Low
+CUST_03815,Email,55+,West,608.09973,Low
+CUST_03816,Social,55+,West,2742.3748,Low
+CUST_03817,Paid Search,18-24,East,4247.6973,Low
+CUST_03818,Paid Search,35-44,South,3740.5383,Medium
+CUST_03819,Email,18-24,West,4710.657,Medium
+CUST_03820,Email,25-34,West,4687.972,Medium
+CUST_03821,Social,55+,South,2564.2083,Low
+CUST_03822,Social,55+,North,2249.9248,Low
+CUST_03823,Social,18-24,East,2753.2737,Medium
+CUST_03824,Paid Search,18-24,East,3313.0146,Low
+CUST_03825,Email,45-54,West,4469.5107,Medium
+CUST_03826,Paid Search,35-44,West,8.628015,Low
+CUST_03827,Social,35-44,North,633.246,Low
+CUST_03828,Paid Search,55+,South,3868.6704,Low
+CUST_03829,Email,55+,West,4715.5776,Medium
+CUST_03830,Social,55+,South,2704.1096,Low
+CUST_03831,Social,45-54,South,2516.5974,Low
+CUST_03832,Paid Search,55+,South,4107.855,Low
+CUST_03833,Paid Search,45-54,South,3877.5037,Medium
+CUST_03834,Social,55+,East,3017.2573,Low
+CUST_03835,Email,35-44,South,3780.2383,Medium
+CUST_03836,Paid Search,18-24,South,3639.607,Low
+CUST_03837,Organic,55+,South,4391.9814,Low
+CUST_03838,Email,55+,North,4043.48,Low
+CUST_03839,Email,25-34,West,4630.784,Medium
+CUST_03840,Paid Search,35-44,West,3938.2073,Medium
+CUST_03841,Email,35-44,South,4344.4,Medium
+CUST_03842,Paid Search,45-54,North,3615.7556,Low
+CUST_03843,Paid Search,45-54,East,3708.315,Medium
+CUST_03844,Referral,25-34,East,1267.7793,Low
+CUST_03845,Email,55+,East,4620.5596,Medium
+CUST_03846,Organic,55+,East,4862.268,Medium
+CUST_03847,Organic,55+,East,4688.1025,Low
+CUST_03848,Paid Search,35-44,North,349.15692,Low
+CUST_03849,Paid Search,18-24,North,4017.6738,Low
+CUST_03850,Social,55+,North,2323.0017,Low
+CUST_03851,Organic,18-24,North,4637.861,Medium
+CUST_03852,Organic,18-24,West,5081.6924,Medium
+CUST_03853,Paid Search,25-34,East,143.63243,Low
+CUST_03854,Paid Search,18-24,East,3682.2546,Low
+CUST_03855,Paid Search,45-54,East,4024.7256,Low
+CUST_03856,Social,35-44,North,2473.8684,Low
+CUST_03857,Referral,25-34,North,14367.745,High
+CUST_03858,Email,18-24,West,4656.4995,Medium
+CUST_03859,Referral,25-34,South,14805.814,High
+CUST_03860,Paid Search,45-54,East,3161.6667,Low
+CUST_03861,Referral,45-54,West,13871.44,High
+CUST_03862,Paid Search,25-34,North,3867.2876,Low
+CUST_03863,Referral,18-24,West,11363.209,High
+CUST_03864,Social,35-44,East,2538.7612,Medium
+CUST_03865,Social,45-54,South,2775.3752,Medium
+CUST_03866,Paid Search,18-24,South,3937.4795,Low
+CUST_03867,Social,45-54,North,2573.92,Low
+CUST_03868,Social,18-24,North,1260.6013,Low
+CUST_03869,Paid Search,25-34,North,4014.698,Low
+CUST_03870,Paid Search,45-54,West,3783.864,Medium
+CUST_03871,Referral,18-24,North,13049.277,High
+CUST_03872,Paid Search,25-34,South,3840.5515,Low
+CUST_03873,Paid Search,18-24,North,3919.1335,Medium
+CUST_03874,Paid Search,25-34,South,3590.0024,Low
+CUST_03875,Paid Search,45-54,North,4141.2837,Medium
+CUST_03876,Email,25-34,South,4709.4746,Medium
+CUST_03877,Referral,18-24,East,14191.086,High
+CUST_03878,Paid Search,25-34,West,3625.2117,Low
+CUST_03879,Social,18-24,South,2687.6873,Low
+CUST_03880,Paid Search,45-54,East,3723.271,Medium
+CUST_03881,Paid Search,55+,East,3580.934,Medium
+CUST_03882,Paid Search,18-24,West,3617.9043,Low
+CUST_03883,Social,45-54,West,2590.2668,Low
+CUST_03884,Organic,25-34,North,5373.2974,Low
+CUST_03885,Email,18-24,East,4413.325,Low
+CUST_03886,Paid Search,45-54,West,4297.2437,Medium
+CUST_03887,Paid Search,25-34,South,3802.1309,Medium
+CUST_03888,Paid Search,35-44,East,3583.8025,Medium
+CUST_03889,Social,35-44,South,2603.7146,Medium
+CUST_03890,Paid Search,35-44,South,3428.5364,Medium
+CUST_03891,Organic,18-24,North,5222.5757,Medium
+CUST_03892,Referral,25-34,North,1153.3175,Medium
+CUST_03893,Email,45-54,East,4259.1787,Low
+CUST_03894,Social,55+,West,1853.1475,Low
+CUST_03895,Paid Search,18-24,East,3898.6353,Low
+CUST_03896,Social,35-44,North,2536.0342,Low
+CUST_03897,Paid Search,55+,North,3783.1343,Medium
+CUST_03898,Social,25-34,East,2284.5286,Medium
+CUST_03899,Email,35-44,North,4425.9414,Medium
+CUST_03900,Paid Search,55+,East,3806.7617,Low
+CUST_03901,Social,55+,West,2460.7903,Low
+CUST_03902,Paid Search,45-54,North,3237.6113,Medium
+CUST_03903,Paid Search,45-54,East,4274.227,Low
+CUST_03904,Social,45-54,West,2954.2593,Low
+CUST_03905,Email,25-34,South,4715.4204,Medium
+CUST_03906,Organic,55+,West,5088.1123,Medium
+CUST_03907,Referral,18-24,West,13026.568,High
+CUST_03908,Referral,18-24,South,12898.636,High
+CUST_03909,Paid Search,45-54,South,4239.975,Low
+CUST_03910,Paid Search,55+,East,3630.8142,Medium
+CUST_03911,Organic,55+,East,5335.041,Medium
+CUST_03912,Paid Search,45-54,South,4130.0723,Medium
+CUST_03913,Email,25-34,North,4569.5664,Medium
+CUST_03914,Paid Search,25-34,East,3623.6704,Low
+CUST_03915,Paid Search,35-44,North,473.70502,Low
+CUST_03916,Referral,25-34,North,12296.824,High
+CUST_03917,Social,35-44,North,2615.4937,Low
+CUST_03918,Social,18-24,South,2558.374,Low
+CUST_03919,Organic,25-34,North,5020.5405,Medium
+CUST_03920,Paid Search,55+,South,3705.456,Medium
+CUST_03921,Email,45-54,North,4811.3223,Medium
+CUST_03922,Paid Search,18-24,South,3603.8584,Medium
+CUST_03923,Social,25-34,West,2649.9731,Medium
+CUST_03924,Paid Search,25-34,South,3672.2966,Low
+CUST_03925,Referral,25-34,East,16287.731,High
+CUST_03926,Paid Search,45-54,North,3779.5347,Low
+CUST_03927,Social,55+,North,2544.776,Low
+CUST_03928,Social,45-54,West,2602.3484,Medium
+CUST_03929,Organic,35-44,East,4727.322,Medium
+CUST_03930,Paid Search,18-24,North,3800.3088,Low
+CUST_03931,Organic,18-24,East,5849.1143,Medium
+CUST_03932,Paid Search,55+,North,3753.1409,Low
+CUST_03933,Paid Search,45-54,North,3605.686,Low
+CUST_03934,Paid Search,35-44,South,4005.3804,Medium
+CUST_03935,Paid Search,35-44,East,3794.4568,Medium
+CUST_03936,Referral,55+,East,13346.572,High
+CUST_03937,Paid Search,55+,West,3049.3755,Low
+CUST_03938,Email,18-24,North,4407.935,Medium
+CUST_03939,Social,25-34,North,2388.5269,Low
+CUST_03940,Social,18-24,East,2617.674,Medium
+CUST_03941,Social,25-34,West,2533.975,Medium
+CUST_03942,Referral,45-54,East,15005.445,High
+CUST_03943,Paid Search,25-34,East,3276.4014,Medium
+CUST_03944,Social,18-24,North,2552.8188,Medium
+CUST_03945,Paid Search,35-44,West,3593.4683,Low
+CUST_03946,Paid Search,35-44,West,3750.4983,Medium
+CUST_03947,Paid Search,45-54,East,4154.924,Low
+CUST_03948,Social,18-24,South,3108.4155,Low
+CUST_03949,Email,25-34,East,4681.842,Medium
+CUST_03950,Social,45-54,East,2083.785,Low
+CUST_03951,Paid Search,45-54,West,86.01366,Low
+CUST_03952,Email,55+,North,4595.9146,Medium
+CUST_03953,Email,55+,East,2415.4932,Low
+CUST_03954,Paid Search,55+,East,3531.2473,Low
+CUST_03955,Email,35-44,South,4684.0513,Medium
+CUST_03956,Referral,55+,West,14204.832,High
+CUST_03957,Email,35-44,North,4733.769,Medium
+CUST_03958,Paid Search,55+,North,3990.942,Low
+CUST_03959,Social,25-34,West,2316.2063,Low
+CUST_03960,Paid Search,35-44,North,3600.973,Low
+CUST_03961,Paid Search,45-54,South,4069.1301,Medium
+CUST_03962,Paid Search,25-34,South,3530.0225,Low
+CUST_03963,Email,18-24,East,4416.609,Medium
+CUST_03964,Paid Search,55+,North,3539.9888,Low
+CUST_03965,Social,35-44,South,2458.63,Low
+CUST_03966,Paid Search,55+,West,4160.095,Medium
+CUST_03967,Social,25-34,South,2572.9578,Low
+CUST_03968,Paid Search,55+,East,3535.7402,Low
+CUST_03969,Referral,45-54,West,15853.791,High
+CUST_03970,Social,45-54,East,2681.6675,Medium
+CUST_03971,Email,45-54,West,4759.488,Medium
+CUST_03972,Paid Search,25-34,West,3518.4802,Low
+CUST_03973,Email,55+,East,4035.532,Medium
+CUST_03974,Organic,55+,West,4897.8193,Medium
+CUST_03975,Organic,45-54,East,5158.3853,Medium
+CUST_03976,Paid Search,55+,West,3777.6145,Low
+CUST_03977,Social,55+,East,2685.18,Medium
+CUST_03978,Paid Search,45-54,South,3951.6902,Medium
+CUST_03979,Paid Search,35-44,East,3906.1729,Medium
+CUST_03980,Social,55+,South,2677.914,Medium
+CUST_03981,Email,18-24,South,4709.4746,Medium
+CUST_03982,Email,35-44,South,4622.8574,Medium
+CUST_03983,Social,55+,South,2941.4658,Medium
+CUST_03984,Paid Search,55+,South,3840.5518,Low
+CUST_03985,Social,25-34,East,2530.8474,Low
+CUST_03986,Email,18-24,South,4709.4746,Medium
+CUST_03987,Paid Search,25-34,South,4011.5254,Low
+CUST_03988,Email,55+,North,4474.6406,Medium
+CUST_03989,Organic,35-44,South,1608.3477,Low
+CUST_03990,Email,18-24,South,4927.0845,Medium
+CUST_03991,Paid Search,18-24,West,3890.2625,Low
+CUST_03992,Social,25-34,South,2814.1604,Low
+CUST_03993,Organic,25-34,North,4884.6343,Medium
+CUST_03994,Organic,18-24,South,4904.781,Medium
+CUST_03995,Referral,35-44,East,0.0,Medium
+CUST_03996,Email,35-44,North,3704.6292,Low
+CUST_03997,Referral,18-24,North,13877.841,High
+CUST_03998,Social,25-34,South,2509.715,Low
+CUST_03999,Organic,45-54,South,4548.74,Low
+CUST_04000,Social,55+,South,423.8743,Low
